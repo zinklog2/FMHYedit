@@ -12,7 +12,7 @@
 # ► AI Chatbots
 
 * ⭐ **[ChatGPT](https://chat.openai.com/)** - GPT Based Chatbot
-* ⭐ **[Phind](https://www.phind.com/)** - GPT-4 Based Chatbot with Web Access / [Discord](https://discord.com/invite/S25yW8TebZ)
+* ⭐ **[Phind](https://www.phind.com/)** - GPT-3.5 Based Chatbot with Web Access / [Discord](https://discord.com/invite/S25yW8TebZ)
 * ⭐ **[Perplexity](https://www.perplexity.ai/)** - GPT-3.5 Chatbot with Web Access / [Discord](https://discord.com/invite/perplexity-ai)
 * ⭐ **[Text Generation WebUI](https://github.com/oobabooga/text-generation-webui)** - Self-Host Open Source LLMs / [Collab](https://colab.research.google.com/github/pcrii/Philo-Colab-Collection/blob/main/4bit_TextGen_Gdrive.ipynb)
 * ⭐ **[Guanaco](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi)** - QLoRA based Open-Source Chatbot / [Github](https://github.com/artidoro/qlora)
