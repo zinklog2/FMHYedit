@@ -322,62 +322,53 @@
 
 ## ▷ Anime Streaming
 
-* ⭐ **[Zoro](https://zoro.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / [Auto-Focus](https://greasyfork.org/en/scripts/464019)
-* ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
-* ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub
-* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / [Downloader](https://github.com/KevCui/animepahe-dl)
-* ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub
-* ⭐ **[KickAssAnime](https://kaas.am/)** - Sub / Dub / [Discord](https://discord.com/invite/GEJk5K7)
-* ⭐ **[Animension](https://animension.to/)** - Sub / Dub
+* ⭐ **[Zoro](https://zoro.to/)**, [2](https://4anime.gg/), [3](https://kaido.to/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/RRaf5JkkKu) / [Auto-Focus](https://greasyfork.org/en/scripts/464019)
+* ⭐ **[9Anime](https://www.9anime.to/)** - Sub / Dub / 1080p / [Mirrors](https://9anime.me/) / [Binge Script](https://greasyfork.org/en/scripts/401339-9anime-bingewatcher) / [Ad Scripts](https://redd.it/c330dx)
+* ⭐ **[AllAnime](https://allanime.to/)** - Sub / Dub / 1080p
+* ⭐ **[AnimePahe](https://animepahe.com/)** - Sub / 1080p [Downloader](https://github.com/KevCui/animepahe-dl)
+* ⭐ **[marin.moe](https://marin.moe)** - Sub / Dub / 1080p
+* ⭐ **[KickAssAnime](https://kaas.am/)** - Sub / Dub / [Discord](https://discord.com/invite/kaa)
+* ⭐ **[Animension](https://animension.to/)** - Sub / Dub / 1080p
 * ⭐ **[Japanese Animated Film Classics](https://animation.filmarchives.jp/index.html)** - Japanese Animated Film Archive
 * ⭐ **[Anime Streaming CSE](https://cse.google.com/cse?cx=006516753008110874046:vzcl7wcfhei)** / [CSE 2](https://cse.google.com/cse?cx=006516753008110874046:mrfarx7-dxu)
 * ⭐ **[Wotaku](https://wotaku.its.moe/)**, [2](https://wotaku.pages.dev/), [3](https://wotaku.netlify.app/) - Japanese Piracy Index
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Media Index / [Discord](https://discord.gg/Snackbox) / [Wiki](https://thewiki.moe/)
-* [AnimehHub](https://animehub.ac/) - Sub / Dub
-* [Animixplay](https://animixplay.tube/) - Sub / Dub
-* [123Anime](https://123animes.ru/) - Sub / Dub
-* [AnimeLon](https://animelon.com/) - Sub / Learn Japanese
-* [Kaguya](https://kaguya.app/) - Sub / [Discord](https://discord.gg/382BEFfER6)
+* [GoGoAnime](https://gogoanime.cl/), [2](https://gogoanime.llc/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime), [2](https://github.com/sdaqo/anipy-cli) / [Mirrors](https://gogotaku.info/)
+* [AnimehHub](https://animehub.ac/) - Sub / Dub / 1080p [Discord](https://discord.com/invite/4rBPpfkp)
+* [123Anime](https://123animes.ru/) - Sub / Dub / 1080p
+* [AnimeLon](https://animelon.com/) - Sub / Learn Japanese / 1080p
+* [Kaguya](https://kaguya.app/) - Sub / 1080p / [Discord](https://discord.gg/382BEFfER6)
 * [because.moe](https://because.moe/) - Legal Anime Sites Search 
-* [Genoanime](https://genoanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/TMe9eVs2YY)
-* [Animeow](https://animeow.me/) - Sub / Dub / [Discord](https://discord.gg/FT5MnbcDWz)
-* [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
-* [GoGoAnime](https://gogoanime.cl/), [2](https://gogoanime.llc/) - Sub / Dub / [Discord](https://discord.com/invite/gogo) / [Netflix Skin](https://github.com/RyukSama/GogoAnimeSkin) / [Downloader](https://github.com/notmarek/GOgogoanime) / [Mirrors](https://gogotaku.info/)
-* [GoGo-Play](https://anihdplay.com/) - Sub
-* [AnimeShow](https://www2.animeshow.tv/) - Sub
-* [AnimeNana](https://animenana.com/) - Sub
-* [Anify](https://anify.tv/) - Sub
-* [KissCartoon.info](https://kisscartoon.info/) - Anime / Cartoons / Sub / Dub
-* [Animegg](https://www.animegg.org/) - Sub / Dub
-* [5Anime](https://5anime.ro/) - Sub / Dub
-* [Kawaiifu](https://kawaiifu.com/) - Sub / Dub
-* [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub
-* [AnimeDao](https://animedao.to/) - Sub
-* [PactedAnime](https://pactedanime.com/) - Sub / [Discord](https://discord.gg/pactedanime)
-* [LMAnime](https://lmanime.com/) - Sub
-* [AnimeLandTV](https://w4.animeland.tv/) - Dub
-* [Anikatsu](https://anikatsu.me/) - Sub / Dub
+* [Genoanime](https://genoanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/TMe9eVs2YY)
+* [Animeow](https://animeow.me/) - Sub / Dub / 1080p / [Discord](https://discord.gg/FT5MnbcDWz)
+* [AnimeSuge](https://animesuge.to/) - Sub / Dub / 1080p
+* [Playtaku](https://anihdplay.com/) - Sub / Dub / 1080p
+* [AnimeNana](https://animenana.com/) - Sub / 1080p
+* [Anikatsu](https://anikatsu.me/) - Sub / Dub / 1080p / [Dicord](https://discord.com/invite/FrWnWRrZmk)
+* [Anify](https://anify.tv/) - Sub / 1080p
+* [AnimeDao](https://animedao.to/) - Sub / 1080p
+* [KissCartoon.info](https://kisscartoon.info/) - Sub / Dub / Cartoons / 720p
+* [Animegg](https://www.animegg.org/) - Sub / Dub / 1080p
+* [AnimeHeaven](https://animeheaven.ru/) - Sub / Dub / 1080p
+* [PactedAnime](https://pactedanime.com/) - Sub / 1080p / [Discord](https://discord.gg/pactedanime)
+* [AnimeLandTV](https://w4.animeland.tv/) - Dub / 1080p
+* [Kawaiifu](https://kawaiifu.com/) - Sub / Dub / 720p
 * [anime.cat](https://anime.cat/) - Sub / Dub
-* [Animixplay.site](https://www.animixplay.site/) - Sub
-* [Animeplyx](https://animeplyx.eu/) - Sub
-* [KimAnime](https://kimanime.com/) - Sub / Dub / [Discord](https://discord.com/invite/JdmpSF92N4)
-* [AnimeOnsen](https://animeonsen.xyz/) - Sub
-* [Animetake](https://animetake.tv/) - Sub
-* [Anime OWL](https://anime-owl.net/) - Sub / Dub / [Discord](https://discord.com/invite/xHYcvdMvZ2)
-* [AnimeGo](https://reddit.animekisa.to/) - Sub / Dub
-* [ChiaAnime](https://chia-anime.su/) - Sub
-* [ChiaAnime.cc](https://chia-anime.cc/) - Sub
-* [AnimeXin](https://animexin.vip/) - Sub
-* [MyAnime](https://myanime.live/) - Chine Anime Sub
-* [AnimeSuge](https://animesuge.to/) - Sub / Dub
-* [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / [Discord](https://discord.com/invite/f2pHvauUPu)
-* [Crimsonfansubs](https://crimsonfansubs.com/) - Sub / [Discord](https://discord.com/invite/wnK38MjB)
-* [AnimeXin](https://animexin.info/) - Sub
-* [AniWatcher](https://aniwatcher.com/) - Sub / Dub
-* [Anime5s](https://anime5s.com/) - Sub / Dub
-* [AnimeFreak](https://www.animefreak.vip/) - Sub / Dub
-* [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub
-* [Anipy](https://github.com/sdaqo/anipy-cli) - Anime Streaming CLI
+* [Animeplyx](https://animeplyx.eu/) - Sub / 1080p
+* [KimAnime](https://kimanime.com/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/JdmpSF92N4)
+* [AnimeOnsen](https://animeonsen.xyz/) - Sub / 720p
+* [Animetake](https://animetake.tv/) - Sub / 1080p
+* [Anime OWL](https://anime-owl.net/) - Sub / Dub / 1080p / [Discord](https://discord.com/invite/xHYcvdMvZ2)
+* [ChiaAnime](https://chia-anime.su/) - Sub / 1080p
+* [ChiaAnime.cc](https://chia-anime.cc/) - Sub / 1080p
+* [BestDubbedAnime](https://bestdubbedanime.com/) - Dub / 1080p / [Discord](https://discord.com/invite/f2pHvauUPu)
+* [DubbedAnime](https://dubbedanime.biz/) - Sub / Dub / 1080p
+* [Anime5s](https://anime5s.com/) - Sub / Dub / 1080p
+* [5Anime](https://5anime.ro/) - Sub / Dub
+* [LMAnime](https://lmanime.com/) - Chinese Anime Sub / 1080p
+* [AnimeXin](https://animexin.vip/) - Chinese Anime Sub / 1080p
+* [MyAnime](https://myanime.live/) - Chine Anime Sub / 1080p
+* [Crimsonfansubs](https://crimsonfansubs.com/) - Chine Anime Sub / 1080p / [Discord](https://discord.com/invite/wnK38MjB)
 * [Yuna](https://yuna.moe/) - Anime Streaming App / [GitHub](https://github.com/BeeeQueue/yuna)
 * [Crunchyroll](https://www.crunchyroll.com/videos/anime) - Sub / Dub / [US Proxy](https://addons.mozilla.org/en-US/firefox/addon/crunchy-unblocker/) / [Intro Skip](https://github.com/lexesjan/typescript-aniskip-extension)
 * [Themes.moe](https://themes.moe/) or [AnimeThemes](https://animethemes.moe/) - Anime Themes
@@ -738,6 +729,7 @@
 * [AnimeTime](https://www.animetime.pw/) - Sub / Dub / [Discord](https://discord.com/invite/RuYuu9uT)
 * [RIP Crabby Time](https://ripcrabbyanime.in/) - Sub / Dub
 * [AnimeLand](https://w4.animeland.tv/) - Dub
+* [CoolsAnime](https://coolsanime.me/a-to-z-index-of-anime-in-english-subbed/) - Sub
 * [Mix Bag of Anime](https://github.com/nbats/FMHYedit/blob/main/base64.md#mix-bag-of-anime) - Sub / Dub
 * [ANIME___](https://github.com/nbats/FMHYedit/blob/main/base64.md#anime___) - Sub
 * [Chiby](https://www.animechiby.com/) - Sub / [Discord](https://discord.com/invite/PMHTW6mH)
