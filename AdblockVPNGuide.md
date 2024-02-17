@@ -6,7 +6,7 @@
 
 # ► Adblocking
 
-**Note** - Don't run multiple general adblockers like ublock and adblock plus at the same time. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
+**Note** - Don't run multiple general adblockers like ublock and adblock plus at the same ime. Running more than one can cause breakage. This only applies to general adblockers, so running things like ublock and sponsorblock at the same time is fine.
 
 ***
 
