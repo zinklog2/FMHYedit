@@ -70,7 +70,7 @@
 * ⭐ **[Waifu2x](https://github.com/nagadomi/nunif)** - Anime Image Upscaling / [WebUI](https://www.waifu2x.net/), [2](https://unlimited.waifu2x.net/), [3](https://waifu2x.pro/) / Self-Host
 * ⭐ **[WaifuXL](https://waifuxl.com/)** - Anime Image Upscaling / Online / Self-Host
 * ⭐ **[Upscayl](https://upscayl.org/)** - Image Upscaling / [GitHub](https://github.com/upscayl/upscayl) / Self-Host
-* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling / Self-Hos
+* ⭐ **[chaiNNer](https://github.com/chaiNNer-org/chaiNNer)** - Image Upscaling / Self-Host
 * ⭐ **[OpenModelDB](https://openmodeldb.info/)** - AI Upscaling Model Database
 * [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN) - Image Restoration Algorithms / [Face Restoration](https://github.com/TencentARC/GFPGAN) / Online / Self-Host
 * [image-upscaling.net](https://image-upscaling.net/) - Image Upscaling / Online
@@ -94,7 +94,7 @@
 * [AIDraw](https://ai-draw.tokyo/en/) - Turn Photos into Line Art
 * [Tiler](https://github.com/nuno-faria/tiler) - Mosaic Image Generator
 * [Fotosketcher](https://fotosketcher.com/) - Turn Photos into Artwork / Windows
-* [Mimi](https://mimi-panda.com/) - Turn photos into coloring book sketch
+* [Mimi](https://mimi-panda.com/) - Turn Photos into Coloring Book Sketch
 * [Text-Image](https://www.text-image.com/) - Text Image Generator
 * [ordered-dither-maker](https://seleb.github.io/ordered-dither-maker/), [Ditherista](https://github.com/robertkist/ditherista/) or [Dither Me This](https://doodad.dev/dither-me-this/) - Image Dithering
 * [Rutt-Etra-Izer](https://airtightinteractive.com/demos/js/ruttetra/) - Scanned-line Images
@@ -128,7 +128,8 @@
 * [inkscape](https://inkscape.org/) - Drawing / Sketching / Windows, Mac, Linux / [GitLab](https://gitlab.com/inkscape/inkscape)
 * [FireAlpaca](https://firealpaca.com/) - Painting App / Windows, Mac
 * [Milton](https://www.miltonpaint.com/) - Infinite Canvas Painting / Windows, Linux / [GitHub](https://github.com/serge-rgb/milton)
-* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
+* [Graphite](https://graphite.rs/) - Vector Editors / Web / [GitHub](https://github.com/GraphiteEditor/Graphite)
+* [VectorInk](https://vectorink.io/) - Vector Graphics Editor / iOS, Web
 * [HeavyPaint](https://www.heavypaint.com/) - Water Color Painting / Android, iOS, Web
 * [Mixbox Painter](https://scrtwpns.com/mixbox/painter/) - Realistic Paint Mixing / Web
 * [Vervette](https://www.taron.de/Vervette/sandbox/) - Realistic Fluid Painting / Web
@@ -143,6 +144,7 @@
 * [Concepts](https://concepts.app/) - Drawing / Sketching / Windows, Android, iOS
 * [Magma](https://magma.com/), [DrawPile](https://drawpile.net/) or [malmal](https://malmal.io/) - Collaborative Drawing
 * [MonsterMash](https://monstermash.zone/) - Sketch-Based Modeling & Animation Tool / Web
+* [IOGraphica](https://iographica.com/) - Turn Mouse Movement into Art / Windows, Mac, Linux
 * [Perfect Freehand](https://perfect-freehand-example.vercel.app/) - Draw Free Hand Lines / Web / [GitHub](https://github.com/steveruizok/perfect-freehand)
 * [minimator](https://minimator.app/) - Create Grid-Based Drawings / Web / [GitHub](https://github.com/maxwellito/minimator/)
 * [Perspective Tools](https://perspectivetools.com/) - Interactive Perspective Grids
@@ -174,18 +176,14 @@
 
 ## ▷ GIF Tools
 
-* 🌐 **[Awesome GIF](https://rentry.co/ccuz3)** - GIF Resources / [GitHub](https://github.com/davisonio/awesome-gif)
-* 🌐 **[Online GIF Tools](https://onlinegiftools.com/)** - GIF Tools
-* ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / [GitHub](https://github.com/ImageOptim/gifski)
-* ⭐ **[EZGif](https://ezgif.com/)**, [GIFCurry](https://lettier.github.io/gifcurry/) / [GitHub](https://github.com/lettier/gifcurry), [Giflr](https://giflr.com/), [GIFMemes](https://gifmemes.io/), [GIFnText](https://www.gifntext.com/), [makeagif](https://makeagif.com/), [Gifsicle](http://www.lcdf.org/gifsicle/) or [Pixteller](https://pixteller.com/) - GIF Creators / Editors
+* ⭐ **[Gifski](https://gif.ski/)** - GIF Encoder / Windows, Mac, Linux / [GitHub](https://github.com/ImageOptim/gifski)
+* ⭐ **[EZGif](https://ezgif.com/)** or [GIFnText](https://www.gifntext.com/) / Web
+* [Gifsicle](http://www.lcdf.org/gifsicle/) / Windows, Mac, Linux / [GitHub](https://github.com/kohler/gifsicle)
 * [Giphy](https://giphy.com/), [Tenor](https://tenor.com/), [Gifer](https://gifer.com/en), [GifCities](https://gifcities.org/), [Animations](https://bleuje.com/animationsite/) or [GIFBin](https://gifbin.com/) - View / Download GIFs
-* [/r/animegifs](https://www.reddit.com/r/animegifs/) - View / Download Anime GIFs
-* [EatMyArt](https://www.eatmy.art/), [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
-* [Kinegram](https://kinegram.app/) - Kinegram GIF Creator
-* [GifRun](https://gifrun.com/) - Make GIFs from Online Videos
-* [ScreenToGif](https://www.screentogif.com/) or [Peek](https://github.com/phw/peek) - GIF Recorder
-* [ugiffer](https://iobureau.com/ugiffer/) or [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts
-* [TokkingHeads](https://app.tokkingheads.com/) - Face Movement GIFs
+* [DrawIsland](https://drawisland.com/) or [Sketch Machine](https://sketchmachine.net/) - Create GIFs from Drawings
+* [ScreenToGif](https://www.screentogif.com/) - GIF Recorder / Windows / [GitHub](https://github.com/NickeManarin/ScreenToGif)
+* [licecap](https://www.cockos.com/licecap/) - Create GIFs via Screencasts / Windows, Mac, Linux / [GitHub](https://github.com/justinfrankel/licecap)
+* [ugiffer](https://iobureau.com/ugiffer/) - Create GIFs via Screencasts / Windows
 
 ***
 
@@ -209,6 +207,7 @@
 * [BreakYourOwnNews](https://www.breakyourownnews.com/) - Breaking News Meme Generator
 * [AnimorphGenerator](https://animorphgenerator.com/) - Animorph Image Generator
 * [AwesomeCars](https://awesomecars.neocities.org/) - Drip Car Memes
+* [GIFMemes](https://gifmemes.io/) - GIF Memes Creator
 
 ***
 
@@ -216,34 +215,28 @@
 
 ***
 
-# ► Design Resources
+# ► Design Resources / Ideas
 
-* 🌐 **[Awesome Design](https://github.com/goabstract/Awesome-Design-Tools)**, [Design Resources](https://github.com/MohamedYoussouf/Design-Resources) or [pilssken](https://pilssken.neocities.org/gainz/) - Design Resources
-* 🌐 **[archives.design](https://archives.design/)** - Graphic Design Books
-* [calltoidea](https://www.calltoidea.com/), [onepagelove](https://onepagelove.com/), [awwwards](https://www.awwwards.com/websites), [thedesigninspiration](https://thedesigninspiration.com/), [SMPoster](https://www.smposter.com/), [AnotherGraphic](https://anothergraphic.org/), [theinspirationgrid](https://theinspirationgrid.com/) or [inspirationde](https://www.inspirationde.com/) - Graphic Design Examples / Inspiration
-* [PSDcovers](https://www.psdcovers.com/), [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/), [medialoot](https://medialoot.com/free-mockups/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
+* 🌐 **[Art Gainz](https://pilssken.neocities.org/gainz/)*** or [Evernote.Design](https://www.evernote.design/) - Design Resources
+* ⭐ **[archives.design](https://archives.design/)** - Graphic Design Archive
+* ⭐ **[awwwards](https://www.awwwards.com/websites)** - Website Design Ideas
+* [One Page Love](https://onepagelove.com/) - Single Page Site Design Ideas 
+* [SMPoster](https://www.smposter.com/) - Poster Designs
+* [AnotherGraphic](https://anothergraphic.org/) - Typography Designs
+* [mockups-design](https://mockups-design.com/), [zippypixels](https://zippypixels.com/), [Mockups](https://mockups.pixeltrue.com/) or [MockupsForFree](https://mockupsforfree.com/) - Product Mockups
 * [The Boolean Game](https://boolean.method.ac/) - Learn Boolean Operations in Vector Editors
 
 ***
 
 ## ▷ Design Apps
 
-* ⭐ **[Figma](https://www.figma.com/)** - Design Collab App
-* ⭐ **[Canva](https://www.canva.com/)** - Design App / [Giveaways](https://rentry.co/FMHYBase64#canva)
-* [lunacy](https://icons8.com/lunacy) - Design App
-* [ArtBoard](https://artboard.studio/) - Design App
-* [VistaCreate](https://create.vista.com/) - Design App
-* [PosterMyWall](https://www.postermywall.com/) - Design App
-* [Kittl](https://app.kittl.com/) - Design App
-* [Kosmik](https://www.kosmik.app/) - Design Asset Manager
-* [Venngage](https://venngage.com/) - Infographic Design
-* [CoverView](https://coverview.vercel.app/) - Blog Banner Design
-* [blush](https://blush.design/) or [IRA Design](https://iradesign.io/) - Illustration Design
-* [SuperDesigner](https://superdesigner.co/) or [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design
-* [Pixelied](https://pixelied.com/) - Online Design Tool
-* [Evernote.Design](https://www.evernote.design/) - Online Design Tools
-* [Graphite](https://graphite.rs/) or [Recraft](https://www.recraft.ai/) - Vector Editors
-* [Vectr](https://vectr.com/) or [VectorInk](https://vectorink.io/) - Vector Graphics Editor
+* ⭐ **[Figma](https://www.figma.com/)** - Design Collab App / Web
+* ⭐ **[Canva](https://www.canva.com/)** - Design App / Windows, Mac, Web / [Giveaways](https://rentry.co/FMHYBase64#canva)
+* [lunacy](https://icons8.com/lunacy) - Design App / Windows, Mac, Linux
+* [VistaCreate](https://create.vista.com/) - Design App / Web
+* [blush](https://blush.design/) - Illustration Design / Web
+* [Pattern Ninja](https://patterninja.com/) - Background / Pattern Design / Web
+* [Pixelied](https://pixelied.com/) - Online Design Tool / Web
 
 ***
 
