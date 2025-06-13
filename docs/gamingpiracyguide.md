@@ -102,6 +102,7 @@
 * [DOS HAVEN](https://www.doshaven.eu/) - DOS Games
 * [Best Old Games](https://www.bestoldgames.net/) - DOS Games
 * [DOSGames](https://dosgames.com/) - DOS Games
+* [FreeDOSGames](https://www.freedosgames.de/) - DOS Games
 * [RGB Classic Games](https://www.classicdosgames.com/) - DOS Games
 * [Abandonware DOS](https://www.abandonwaredos.com/) - DOS Games
 * [Classic Games](https://classicdosgames.com/) - DOS Games
@@ -275,7 +276,7 @@
 * [Vimms Lair](https://vimm.net/) - Emulators / ROMs
 * [Gnarly Repacks](https://rentry.co/FMHYBase64#gnarly_repacks) - ROMs / Emulator Repacks
 * [ROM-Collections](https://rentry.co/FMHYBase64#rom-collections) - ROMs
-* [Axekin](https://www.axekin.com/) - ROMs / Use Translator
+* [Axekin](https://www.axekin.com/) - ROMs
 * [WowROMs](https://wowroms.com/en) - ROMs
 * [Retro Game Champion](https://www.retrogamechampion.com/) - Retro Game ROMs, Magazines, Music & more
 * [Zophar's Domain](https://www.zophar.net/) - Emulators / ROM Mods
