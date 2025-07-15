@@ -1,6 +1,6 @@
 {
   "name": "@fmhy/website",
-  "packageManager": "pnpm@10.11.0",
+  "packageManager": "pnpm@10.12.2+sha256.07b2396c6c99a93b75b5f9ce22be9285c3b2533c49fec51b349d44798cf56b82",
   "type": "module",
   "engines": {
     "node": "21.7.3"
@@ -17,7 +17,7 @@
     "docs:preview": "vitepress preview docs/",
     "format": "prettier -w --cache --check .",
     "licenser": "deno run --allow-read jsr:@kt3k/license-checker@3.3.1/main",
-    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./.vitepress/hooks/satoriConfig.ts --dev"
+    "og:dev": "x-satori -t ./docs/.vitepress/hooks/Template.vue -c ./docs/.vitepress/hooks/satoriConfig.ts --dev"
   },
   "dependencies": {
     "@fmhy/colors": "^0.0.11",
@@ -32,7 +32,7 @@
     "nitropack": "^2.11.6",
     "nprogress": "^0.2.0",
     "pathe": "^2.0.1",
-    "reka-ui": "^2.1.1",
+    "reka-ui": "^2.3.1",
     "unocss": "66.1.0-beta.3",
     "vitepress": "^1.6.3",
     "vue": "^3.5.13",
@@ -47,6 +47,7 @@
     "@iconify-json/fluent-mdl2": "^1.2.1",
     "@iconify-json/gravity-ui": "^1.2.5",
     "@iconify-json/heroicons-solid": "^1.2.0",
+    "@iconify-json/logos": "^1.2.4",
     "@iconify-json/lucide": "^1.2.10",
     "@iconify-json/material-symbols": "^1.2.22",
     "@iconify-json/mdi": "^1.2.1",
@@ -74,6 +75,9 @@
         "@algolia/client-search",
         "search-insights"
       ]
-    }
+    },
+    "onlyBuiltDependencies": [
+      "vue-demi"
+    ]
   }
 }
