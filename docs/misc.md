@@ -1558,7 +1558,7 @@
 * [No Paint](https://nopaint.art/) - Press "Paint" if you like what you see, "No" if you don't
 * [paint.wtf](https://paint.wtf/) - Have an AI Judge Your Art
 * [⁠MagnifiedSand](https://magnifiedsand.com/) - Microscopic Sand Magnification Database
-* [Magic Sketchpad](https://magic-sketchpad.glitch.me/) - Magical Sketchpad
+* [Magic Sketchpad](https://meowni.ca/glitch/magic-sketchpad/) - Magical Sketchpad
 * [Webchemy](https://webchemy.org/) - Drawing / Sketching
 * [World Draw](https://world-draw.appspot.com/draw) - Draw World Together
 * [Eschersket](https://eschersket.ch/) - Symmetry Drawing Tool
