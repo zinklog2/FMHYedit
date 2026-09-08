@@ -139,7 +139,7 @@
 
 * ↪️ **[Android](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_android_podcasts_.2F_radio) / [iOS](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_ios_podcasts_.2F_radio)** - Podcast / Radio Apps
 * ⭐ **[Spotify Podcasts](https://open.spotify.com/browse/podcasts)** - Podcasts / [SponsorBlock](https://spotsponsorblock.org/), [GitHub](https://github.com/Spot-SponsorBlock/Spot-SponsorBlock-Extension) / [Companion](https://sebschaef.bitbucket.io/podify/) / [RSS](https://github.com/Yetangitu/Spodcast) / [Video Download](https://rentry.co/spotifypodcast) / [Audio Download](https://rentry.co/dlspotifypodcast)
-* ⭐ **[Pocket Casts](https://play.pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
+* ⭐ **[Pocket Casts](https://pocketcasts.com/discover)** - Podcasts / [Desktop App](https://pocketcasts.com/downloads/windows/)
 * [⁠PodcastToMP3](https://podcasttomp3.com/) - Podcast Downloads / Search
 * [Podchaser](https://www.podchaser.com/charts), [Podcast Index](https://podcastindex.org/) or [⁠Podstatus](https://podstatus.com/charts) - Podcast Charts / Databases
 * [Listen Notes](https://www.listennotes.com/) - Podcast Search Engine
@@ -339,7 +339,7 @@
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Synced Lyrics
 * [LoaderSpot](https://loadspot.vercel.app/) - Official Spotify Installers Archive
 * [Random Music Generator](https://random-song.com/) - Find Random Songs, Albums, & Artists
-* [Opslagify](https://opslagify.deruever.nl/) - Calculate Storage Size of Spotify Library
+* [Opslagify](https://opslagify.app/) - Calculate Storage Size of Spotify Library
 * [Kira](https://kira.vercel.app/) / [GitLab](https://gitlab.com/timrossback/kira) or [Album Availability Map](https://kaaes.github.io/albums-availability/) - Check Regional Availability of Spotify Content
 * [Chart My Music](https://www.chartmymusic.com/spotify/) - Generate Spotify Collage
 * [Tierify](https://tierify.app/) - Create Spotify Tier Lists

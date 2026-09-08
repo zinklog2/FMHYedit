@@ -357,7 +357,7 @@
 * [SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
 * [APatch](https://github.com/bmax121/APatch)
 * [⁠Magisk Alpha](https://t.me/magiskalpha)
-* [ReSukiSU](https://resukisu.github.io/) / [Telegram](https://t.me/ReSukiSU/)
+* [ReSukiSU](https://resukisu.org/) / [Telegram](https://t.me/ReSukiSU/)
 * [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)
 * [MTKClient](https://github.com/bkerler/mtkclient)
 * [Mtk Easy Su](https://github.com/JunioJsv/mtk-easy-su)

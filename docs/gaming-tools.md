@@ -92,7 +92,7 @@
 * [⁠RTX Features Update](https://forums.guru3d.com/threads/rtx-features-total-update-package-v4-and-dlss-4-5-discussion.459016/) - Latest DLSS Without NVIDIA App 
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) - DXVK Fork w/ Async / Vulkan-Based Direct3D / Stutter Reduction / Windows, Linux
 * [ReShade](https://reshade.me/) - Generic Post-Processing Injector / [Easy Installer](https://github.com/OopyDoopy/ReShade-Centralized) / [Shaders](https://github.com/BlueSkyDefender/Depth3D) / [HDR](https://github.com/clshortfuse/renodx) / [DX11 Improvement](https://github.com/Filoppi/Luma-Framework) / [Discord](https://discord.com/invite/PrwndfH) / [GitHub](https://github.com/crosire/reshade) / Windows, Linux
-* [Scanlines for Windows](https://s4windows.itch.io/scanlines-for-windows) - Add Scanlines to Games / Windows / [Discord](https://discord.gg/MqxMj8MT55)
+* [Scanlines for Windows](https://sineptic-software.itch.io/scanlines-for-windows) - Add Scanlines to Games / Windows / [Discord](https://discord.gg/MqxMj8MT55)
 * [DLSSG to FSR3](https://github.com/Nukem9/dlssg-to-fsr3) - AMD FSR3 Frame Generation for NVIDIA / Windows
 
 ***
@@ -171,7 +171,7 @@
 * [⁠GamePressure](https://www.gamepressure.com/download/) - Game Mods / Trainers
 * [FearlessRevolution](https://fearlessrevolution.com/) - Game Mods / Trainers
 * [CheatRevolution](https://cheatevolution.com/) - Game Mods / Trainers
-* [Silent's Blog](https://cookieplmonster.github.io/mods/index/) - Game Mods / Patches
+* [Silent's Blog](https://silentsblog.com/mods/index/) - Game Mods / Patches
 * [FlingTrainer](https://flingtrainer.com/) - Game Mods / Trainers / Single Player Games Only
 * [GameCopyWorld](https://www.gamecopyworld.com/), [2](https://gamecopyworld.eu/) - Game Patchers / Trainers / Single Player Games Only
 * [ProAsm](http://www.proasm.com/) - Retro Game Mods

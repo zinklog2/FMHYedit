@@ -50,7 +50,7 @@
 * [Resize Pixel](https://www.resizepixel.com/) - Multi-Tool
 * [Tom's Editor](https://tomseditor.com/editor/) - Multi-Tool
 * [MiNi Photo Editor](https://mini2-photo-editor.netlify.app/) - Simple Editor / [GitHub](https://github.com/xdadda/mini-photo-editor)
-* [Polotno Studio](https://studio.polotno.com/) - Simple Editor
+* [Polotno Studio](https://polotno.com/studio) - Simple Editor
 * [ILoveImg](https://www.iloveimg.com/photo-editor) - Simple Editor
 * [UpperPix](https://upperpix.com/) - Simple Editor
 * [Online Photo Editor](https://www.freeonlinephotoeditor.com/) - Simple Editor

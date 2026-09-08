@@ -164,7 +164,7 @@
 * [Strem](https://github.com/strem-app/strem) - Stream Automation
 * [ppInk](https://github.com/PubPub-zz/ppInk/), [⁠AnnotateWeb](https://annotateweb.com/), [gInk](https://github.com/geovens/gInk), [Annotate Screen](https://annotatescreen.com/) or [Live Draw](https://github.com/antfu/live-draw) - Screen Annotation
 * [⁠Overlays](https://overlays.uno/) - Live Stream Overlays
-* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.overcode.tv/) - Now Playing Overlays
+* [Amuse](https://6klabs.com/amuse) or [Songify](https://songify.rocks/) - Now Playing Overlays
 * [⁠Twitch Poll Overlay](https://poll.ma.pe/) - ⁠Twitch Poll Overlay
 * [real-url](https://github.com/wbt5/real-url) - Copy Live Stream URLs
 * [Chat-Downloader](https://github.com/xenova/chat-downloader) - Retrieve Chat Messages from Livestreams
@@ -226,7 +226,7 @@
 * [Plyr](https://plyr.io/) - Online HTML5, YouTube and Vimeo Player / [GitHub](https://github.com/sampotts/plyr)
 * [⁠panoptic](https://panoptic.live/) - Watch Multiple Live Streams At Once
 * [MotionMonkey](https://omega.gg/MotionMonkey/) - Stream Online Videos in Player
-* [⁠Private Video Sharing](https://privatevideosharing.com/) - P2P Video Streaming / Temp Files
+* [⁠Private Video Sharing](https://spectrshare.com/) - P2P Video Streaming / Temp Files
 * [StreamLink](https://streamlink.github.io/) - Extract Videos from Sites to Players / [Twitch Adblock](https://github.com/2bc4/streamlink-ttvlol) / [GitHub](https://github.com/streamlink/streamlink)
 * [polsy.org.uk](https://polsy.org.uk/) - Alt Players for Video Sites
 
@@ -500,7 +500,7 @@
 ## ▷ Animation Tools
 
 * 🌐 **[Creator Resources](https://www.newgrounds.com/wiki/creator-resources/)** - Art & Animation Resource Index
-* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Discord](https://discord.gg/9KPvQ4H), [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://www.sketchup.com/plans-and-pricing/sketchup-free) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
+* ⭐ **[Unreal Engine](https://www.unrealengine.com/)** / [Discord](https://discord.gg/9KPvQ4H), [MoonRay](https://openmoonray.org/), [cgsoftbox](https://t.me/cgsoftbox), [SketchUp](https://sketchup.trimble.com/en/plans-and-pricing/sketchup-free) / [Plugins](https://sucj.me/) or [Twinmotion](https://www.twinmotion.com/en-US) - 3D Creation Tools
 * ⭐ **Unreal Engine Tools** - [Modding Guides](https://github.com/Dmgvol/UE_Modding) / [Megascans](https://quixel.com/megascans) / [Model Extractor](https://fmodel.app/) / [Model Viewer](https://www.gildor.org/en/projects/umodel) / [UPK Explorer](https://www.nexusmods.com/site/mods/587) / [Wiki](https://www.pcgamingwiki.com/wiki/UPK_Explorer) 
 * [⁠Autograph](https://www.maxon.net/en/autograph), [OpenToonz](https://opentoonz.github.io/e/) / [GitHub](https://github.com/opentoonz/opentoonz), [Friction](https://friction.graphics/) / [GitHub](https://github.com/friction2d/friction), [Blender](https://www.blender.org/) / [Forums](https://blenderartists.org/) / [Source Code](https://projects.blender.org/blender/blender), [Wick Editor](https://www.wickeditor.com/editor/), [Tixl](https://tixl.app/) / [Discord](https://discord.com/invite/tooll3-823853172619083816) / [GitHub](https://github.com/tixl3d/tixl), [Clipnote Studio](https://calcium-chan.itch.io/clipnote), [⁠Touch Designer](https://derivative.ca/) or [Pencil2D](https://www.pencil2d.org/) - Motion Graphics Editors / Animation Tools
 * [Animaker](https://www.animaker.com/) - Animated Video Creator

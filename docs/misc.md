@@ -280,7 +280,7 @@
 * 🌐 **[Awesome Agriculture](https://github.com/brycejohnston/awesome-agriculture)** - Agriculture Resources
 * 🌐 **[Agriculture / Gardening Subreddits](https://clarasguide.valeena.workers.dev/Guides/touchgrasss/)**
 * 🌐 **[Cannabis Growing Subreddits](https://www.reddit.com/r/trees/wiki/entreddits_social#wiki_growing)** or [Marijuana Subs](https://www.reddit.com/r/trees/wiki/entreddits_social) - Marijuana Subreddits
-* ⭐ **[EarthEasy](https://eartheasy.com/blogs/yard-garden)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://blog.planter.garden/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
+* ⭐ **[EarthEasy](https://eartheasy.com/blogs/yard-garden)**, [How To Garden](https://www.bhg.com/gardening/how-to-garden/), [HappySprout](https://www.happysprout.com), [Growing Guide](https://planter.garden/blog/), [GrowStuff](https://www.growstuff.org/) or [GrowVeg](https://www.growveg.com/) - Gardening Guides
 * ⭐ **[r/Gardening](https://reddit.com/r/gardening)** - Gardening Community
 * ⭐ **[r/Whatsthisplant](https://www.reddit.com/r/whatsthisplant/)** - Plant Identification Community
 * [PictureThis](https://www.picturethisai.com/) or [Pl@ntNet](https://identify.plantnet.org/) - Plant Identification Tools / [Android](https://play.google.com/store/apps/details?id=cn.danatech.xingseus) / [iOS](https://apps.apple.com/us/app/picturethis-plant-identifier/id1252497129)
@@ -355,7 +355,7 @@
 # ► Travel
 
 * ↪️ **[Concerts / Live Shows](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/audio/#wiki_.25B7_concerts_.2F_live_shows)**
-* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org), [⁠DetourMap](https://detourmap.com/) or [WikiTravel](https://wikitravel.org/) - Travel Guides / Roadside Attraction Lists
+* ⭐ **[Atlas Obscura](https://www.atlasobscura.com/)** / [Mobile](https://app.atlasobscura.com/), [Wikivoyage](https://www.wikivoyage.org), [⁠DetourMap](https://moviescenemap.com/) or [WikiTravel](https://wikitravel.org/) - Travel Guides / Roadside Attraction Lists
 * [⁠CozyCozy](https://www.cozycozy.com/) - Compares 100+ Travel Accommodation Sites 
 * [⁠Cultural Atlas](https://culturalatlas.sbs.com.au/) - World Culture / Religion Guides
 * [UNESCO World Heritage](https://whc.unesco.org/en/list/) - World Heritage Location Index
@@ -777,7 +777,7 @@
 * [Weight Loss Side Effects](https://weight-loss-side-effects.netlify.app/) - Weight Loss Side Effect Mitigation
 * [r/GainIt](https://www.reddit.com/r/gainit/) - Healthy Weight Gain Subreddit
 * [r/Flexibility](https://www.reddit.com/r/flexibility/) - Flexibility Subreddit
-* [Healthdirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [MedlinePlus](https://medlineplus.gov/), [Merck Manuals](https://www.merckmanuals.com/), [Mayo Clinic](https://www.mayoclinic.org/), [RxList](https://www.rxlist.com/), [NEJM](https://www.nejm.org/), [PubMed Central](https://www.ncbi.nlm.nih.gov/pmc/), [HHS](https://www.hhs.gov/), [NIH](https://www.nih.gov/) or [CDC](https://www.cdc.gov/) - Government Health Resources
+* [Healthdirect](https://www.healthdirect.gov.au/), [epocrates](https://www.epocrates.com/), [MedlinePlus](https://medlineplus.gov/), [Merck Manuals](https://www.merckmanuals.com/), [Mayo Clinic](https://www.mayoclinic.org/), [RxList](https://www.rxlist.com/), [NEJM](https://www.nejm.org/), [PubMed Central](https://pmc.ncbi.nlm.nih.gov/), [HHS](https://www.hhs.gov/), [NIH](https://www.nih.gov/) or [CDC](https://www.cdc.gov/) - Government Health Resources
 * [oshaction](https://www.oshaction.org/resources/) - Occupational Health and Safety Resources
 * [⁠OpenPrescribing](https://openprescribing.net/) - Track NHS Prescription Trends & Spending
 * [CancerFactFinder](https://cancerfactfinder.org/) - Cancer Fact Search

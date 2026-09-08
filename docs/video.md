@@ -833,7 +833,7 @@
 * [SeriesVault](https://seriesvault.win/), [2](https://seriesvault.org/) - TV / Anime
 * [FilmFans](https://filmfans.org/) - Movies / 4K
 * [WorldFree4u](https://worldfree4u.moe/) - Movies
-* [SSR Movies](https://ssrmovies.com/) - Movies / TV / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
+* [SSR Movies](https://ssrmovies.ist/) - Movies / TV / [Telegram](https://telegram.dog/+MF2EXeitLjMxY2Ux)
 * [Best-MovieZ](https://www.best-moviez.ws/) - Movies / TV
 * [ShareMania](https://sharemania.us/) - Movies / TV / 4K
 * [ShareBB](https://sharebb.me/) - Movies / TV / Requires Sign-Up
@@ -844,7 +844,7 @@
 * [TodayTVSeries](https://www.todaytvseries6.com/) - TV / 1080p
 * [TV Shows](https://tvshows.ac/) - TV / 720p
 * [TVSBoy](https://tvsboy.com/) - TV / 720p
-* [HDMoviez](https://www.hdmoviez.name/) - Movies / TV
+* [HDMoviez](https://moviezmad.co/) - Movies / TV
 * [TvShows4Mobile](https://tvshows4mobile.org/) - TV / Anime / 480p / [Telegram](https://t.me/o2tvseries_new)
 * [Naijavault](https://www.naijavault.com/) - Movies / TV / 480p
 * [Ciniverse](https://ciniverse.site/) - Movies / TV / 480p

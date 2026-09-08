@@ -1109,7 +1109,7 @@
 * [Nerdle](https://nerdlegame.com/), [Additional](https://additional.today/) or [Countle](https://www.countle.org/) - Math Guessing Games
 * [⁠MCdle](https://www.mcdle.net/) or [Minecraftle](https://minecraftle.zachmanson.com/) - Minecraft Guessing Games
 * [Gearoid Pokémon](https://gearoid.me/pokemon/), [Pokedle](https://pokedle.net/) or [Squirdle](https://squirdle.fireblend.com/) - Pokémon Guessing Games
-* [Pokémon Infinite Heardle](https://pkmn-infinite-heardle.glitch.me/) - Pokémon Music Guessing
+* [Pokémon Infinite Heardle](https://nterrien.github.io/pkmn-infinite-heardle/) - Pokémon Music Guessing
 * [LoLdle](https://loldle.net/) - League of Legends Guessing Games
 * [Owdle](https://owdle.guessing.day/) - Overwatch Guessing Games
 * [Guess The Year](https://guess-the-year.davjhan.com/) or [ChronoPhoto](https://www.chronophoto.app/) - Year Guessing Game

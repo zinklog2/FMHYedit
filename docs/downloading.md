@@ -68,7 +68,7 @@
 * [Uwe Sieber](https://www.uwe-sieber.de/english.html) - Freeware Directory
 * [Software Informer](https://software.informer.com/) - Freeware Directory
 * [PortableApps.com](https://portableapps.com/), [PortableFreeware](https://www.portablefreeware.com/), [Portapps](https://portapps.io/) or [PortableAppZ](https://portableappz.blogspot.com/) - Portable Apps
-* [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/windows-utilities), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
+* [Nirsoft](https://www.nirsoft.net/), [Windows-Utilities](https://orga.cat/blog/windows-utilities/), [OS Vault](https://osvault.weebly.com/directory.html) or [WinTools](https://www.wintools.info/) - Windows Software
 * [Suckless](https://suckless.org/) - Minimalist Software Ecosystem
 * [VETUSWARE](https://vetusware.com/) - Abandonware / Operating Systems / Games
 * [OldVersion](http://www.oldversion.com/) - Old Versions of Software

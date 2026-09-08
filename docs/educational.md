@@ -491,7 +491,7 @@
 * [r/SpacePorn](https://www.reddit.com/r/spaceporn/) or [r/Astrophotography](https://www.reddit.com/r/astrophotography/) - Astrophotography Subreddits
 * [Meteor Showers](https://www.meteorshowers.org/) - 3D Meteor Shower Visualization
 * [Live Meteors](https://www.livemeteors.com/) - Live Meteor Radio Echoes
-* [Clear Dark Sky](https://cleardarksky.com/) - Star Gazing Weather Forecasts
+* [Clear Dark Sky](https://server3.cleardarksky.com/) - Star Gazing Weather Forecasts
 * [Dark Site Finder](https://darksitefinder.com/), [DarkSkyMap](https://darkskymap.com/) or [GoStarGazing](https://gostargazing.co.uk/) - Star Gazing Site Locators
 
 ***
@@ -501,7 +501,7 @@
 * ↪️ **[Aerospace Engineering Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25BA_aerospace_engineering)**
 * ↪️ **[Satellite / Earth Data](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/misc#wiki_.25B7_satellite_.2F_earth_data)**
 * ⭐ **[EarthData](https://worldview.earthdata.nasa.gov/)** - Daily Satellite Replays
-* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://rammb-slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
+* ⭐ **[Visible Earth](https://visibleearth.nasa.gov/)**, [Copernicus Browser](https://browser.dataspace.copernicus.eu/), [SpaceFromSpace](https://spacefromspace.com/), [GOES-16 Satellite Imagery](https://slider.cira.colostate.edu/) or [Sentinel Hub](https://www.sentinel-hub.com/) - Satellite Imagery
 * [NASASpaceFlight](https://www.nasaspaceflight.com/) - Launch Livestreams / News / [Forum](https://forum.nasaspaceflight.com/) / [X](https://x.com/NASASpaceflight) / [YouTube](https://www.youtube.com/@NASASpaceflight)
 * [⁠Next Spaceflight](https://nextspaceflight.com/) / [X](https://x.com/NextSpaceflight) / [Discord](https://discord.gg/nextspaceflight), [⁠Space Notices](https://space-notices.com/), [nextrocket.space](https://nextrocket.space/) or [RocketLaunch](https://rocketlaunch.org/) - Rocket Launch & Spaceflight Schedules / Trackers
 * [TonyBela Infographics](https://tonybela.com/) - Spacecraft / Rocket Infographics / [X](https://x.com/InfographicTony)
@@ -541,7 +541,7 @@
 * [⁠HeliStart](http://www.helistart.com/) - Helicopter Aerodynamics / Flight Mechanics Guides + History
 * [⁠V2Rocket](https://www.v2rocket.com/) - A-4 & V-2 Rocket History / Resources
 * [Boeing 737 Technical Site](http://www.b737.org.uk/) - B737 Technical Engineering Guides / History / [X](https://x.com/B737Tech) / [YouTube](https://www.youtube.com/@ChrisBrady737)
-* [OpenVSP](https://www.openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
+* [OpenVSP](https://openvsp.org/) - Aircraft Geometry Tool / [GitHub](https://github.com/OpenVSP/OpenVSP)
 * [UIUC Applied Aerodynamics Group](https://m-selig.ae.illinois.edu/ads.html) - Airfoil Coordinates / Aerodynamic Research
 * [XFLR5](https://www.xflr5.tech/) - Airfoils Analysis Tool
 * [Outerzone](https://outerzone.co.uk/) or [⁠AeroFred](https://www.aerofred.com/) - Model Airplane Plans
