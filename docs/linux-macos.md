@@ -142,7 +142,7 @@
 * [KDE Applications](https://apps.kde.org/) or [KDE Store](https://store.kde.org/browse/) - KDE Apps & Themes
 * [Flatpak](https://flatpak.org/) - Sandboxed Package Manager / [Manage Permissions](https://github.com/tchx84/flatseal)
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
-* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://shellyalpm.com/), [pkgx](https://pkgx.sh/) / [GitHub](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
+* [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://shellyalpm.com/), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
 * [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
@@ -793,7 +793,7 @@
 * [What Route](https://whatroute.net/) - Network Diagnostic Tool
 * [ElectronMail](https://github.com/vladimiry/ElectronMail) - Email Client
 * [Browserino](https://github.com/AlexStrNik/Browserino) - Browser Prompter
-* [Orion](https://kagi.com/orion/) - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.gg/Yk8Aj8AxGw)
+* [Orion](https://orionbrowser.com/) - Browser with Chrome + Firefox Extension Support / [Discord](https://discord.gg/Yk8Aj8AxGw)
 
 ***
 

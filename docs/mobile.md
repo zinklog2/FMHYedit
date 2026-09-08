@@ -124,7 +124,7 @@
 
 ## ▷ APK Tools
 
-* ⭐ **[App Manager](https://muntashirakon.github.io/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
+* ⭐ **[App Manager](https://muntashir.dev/AppManager/)** / [GitHub](https://github.com/MuntashirAkon/AppManager), [Inure](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks) (search), [⁠Universal Installer](https://github.com/pass-with-high-score/universal-installer) or [Package Manager](https://smartpack.github.io/PackageManager/) / [GitHub](https://github.com/SmartPack/PackageManager) - Package Managers
 * ⭐ **[Lucky Patcher](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_modded_apks)** (search) - App Patcher
 * ⭐ **Lucky Patcher Tools** - [Guide](https://flixbox.github.io/lp-compat/docs/intro) / [Compatibility](https://flixbox.github.io/lp-compat/) / [Subreddit](https://www.reddit.com/r/luckypatcher/) / [Discord](https://discord.com/invite/RS5ddYf7mw)
 * ⭐ **[Obtainium](https://obtainium.imranr.dev/)** / [Configs](https://apps.obtainium.imranr.dev/) / [GitHub](https://github.com/ImranR98/Obtainium), [ObtainX](https://github.com/bikram-agarwal/ObtainX), [UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll) or [APKUpdater](https://github.com/rumboalla/apkupdater) - APK Installers / Updaters
@@ -203,7 +203,7 @@
 * ⭐ **[AyuGram](https://docs.ayugram.one/downloads/)** / [Chat](https://t.me/ayugramchat) / [Telegram](https://t.me/ayugram) / [GitHub](https://github.com/AyuGram/AyuGramDesktop)
 * ⭐ **[Nagram](https://github.com/nextalone/nagram)** / [Telegram](https://t.me/nagram_channel), [NiagramX](https://github.com/HSSkyBoy/NiagramX) or [Momogram](https://github.com/dic1911/Momogram) - NekoX Forks
 * [Forkgram](https://github.com/Forkgram/TelegramAndroid) - Client w/ UnifiedPush Support
-* [Octogram](https://octogramapp.github.io/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
+* [Octogram](https://octogram.me/) - Client w/ AI integration / [GitHub](https://github.com/OctoGramApp/OctoGram)
 * [Nullgram](https://github.com/qwq233/Nullgram/) or [⁠Nnngram](https://t.me/Nnngram) / [GitHub](https://github.com/NextAlone/Nnngram) - Basic Client
 * [Cherrygram](https://play.google.com/store/apps/details?id=uz.unnarsx.cherrygram) - Advanced Client / [GitHub](https://github.com/arsLan4k1390/Cherrygram)
 
@@ -1045,7 +1045,7 @@
 ## ▷ Android Anime
 
 * 🌐 **[Wotaku](https://wotaku.wiki/software#anime-streaming)** - Anime Streaming Index / [Discord](https://discord.gg/vShRGx8ZBC)
-* 🌐 **[EverythingMoe](https://everythingmoe.com/section/mobileapp)**, [2](https://everythingmoe.org/section/mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
+* 🌐 **[EverythingMoe](https://everythingmoe.com/section/apps)**, [2](https://everythingmoe.org/section/mobileapp) - Anime App Index / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[DailyAL](https://dailyanimelist.web.app/)** / [GitHub](https://github.com/JICA98/DailyAL), [MALClient](https://github.com/Drutol/MALClient), [AL-chan](https://zend10.github.io/AL-chan/), [Nekome](https://github.com/Chesire/Nekome), [Moelist](https://moelist.net/), [Kitsune](https://github.com/Drumber/Kitsune) or [AniTrend](https://anitrend.co/) / [GitHub](https://github.com/AniTrend/anitrend-app) - Anime Trackers
 * ⭐ **[Anikku](https://anikku-app.github.io/)** / [Extension Guide](https://wotaku.wiki/guides/ext/mihon) / [Discord](https://discord.com/invite/85jB7V5AJR) / [GitHub](https://github.com/komikku-app/anikku)
 * [AnymeX](https://anymex.vercel.app/) / [Extension Guide](https://wotaku.wiki/guides/ext/mangayomi) / [Discord](https://discord.gg/hDwQ3heJ8V) / [GitHub](https://github.com/RyanYuuki/AnymeX)

@@ -172,7 +172,7 @@
 * [Rainbow Hunt](https://rainbowhunt.com/) - Ambient Rain
 * [Pluvior](https://pluvior.com/) - Ambient Rain
 * [Rainyscope](https://rainyscope.com/) - Ambient Rain 
-* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.app/) - Simple Ambient Sound Mixers
+* [ambiphone](https://ambiph.one/) or [Moodist](https://moodist.mvze.net/) - Simple Ambient Sound Mixers
 * [Ambie](https://ambieapp.com/) - Ambient Sound Mixer / App / [GitHub](https://github.com/jenius-apps/ambie)
 * [Click Bath](https://hamishlang.github.io/clickbath/) - Ambient Sound Mixer with Customizable Musical Scale / Instruments
 * [IMissTheOffice](https://imisstheoffice.eu/) - Ambient Office Sounds with Interactive UI
@@ -206,9 +206,9 @@
 * [Braggoscope](https://www.braggoscope.com/) - BBC In Our Time Archive
 * [AudioFilesDrive](https://t.me/AudioFilesDrive) - Radio Drama Downloads
 * [radiobot](https://t.me/radiobot) - Radio / Telegram
-* [raddio](https://raddio.net/) - Simple Radio Player / Directory
+* [raddio](https://radoxo.com/) - Simple Radio Player / Directory
 * [Instant.audio](https://instant.audio/) - Minimalist Radio Player
-* [Flicker Radio](https://flickermini.pages.dev/radiostations) - Simple / Lightweight Radio Player
+* [Flicker Radio](https://flicker-mini.pages.dev/radiostations) - Simple / Lightweight Radio Player
 * [QMPlay2](https://github.com/zaps166/QMPlay2) - Desktop Media / Radio Player
 * [StreamURL](https://streamurl.link/) - Radio Stream URL Finder
 * [LiveATC](https://www.liveatc.net/) - Air Traffic Radio Chatter
@@ -886,7 +886,7 @@
 * [Versefy](https://versefy.app/) or [sptlrx](https://github.com/raitonoberu/sptlrx) - Spotify Synced Lyrics
 * [Syrics](https://github.com/akashrchandran/syrics-web) - Download Spotify Synced Lyrics
 * [FB2K-SyncedLyrics](https://rentry.co/FB2K-SyncedLyrics) - Foobar2000 Synced Lyrics
-* [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.boidu.dev/) / [GitHub](https://github.com/better-lyrics/composer) - Synced Lyrics Editor
+* [⁠LRC Maker](https://lrc-maker.github.io/) / [GitHub](https://github.com/magic-akari/lrc-maker) or [Composer](https://composer.betterlyrics.org/) / [GitHub](https://github.com/better-lyrics/composer) - Synced Lyrics Editor
 * [X-Minus](https://x-minus.pro/), [⁠Croonify](https://croonify.com/) or [LRCMaker.com](https://lrcmaker.com/) - Create / Find Karaoke Songs
 * [synced+](https://mono-o-o.github.io/synced-plus/) - Word Synced Lyrics Creator / [GitHub](https://github.com/mono-o-o/synced-plus)⁠
 * [⁠Kara.moe](https://kara.moe/) - Anime Theme Song Videos / Download / Karaoke
