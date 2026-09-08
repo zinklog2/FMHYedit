@@ -581,7 +581,7 @@
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
-* [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
+* [Institute of Mathematics](https://textbooks.aimath.org/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
