@@ -352,7 +352,7 @@
 * [War-Forum](https://war-forum.net/) - Video / Audio / Books / Comics / NSFW / Requires Sign-Up
 * [WarezCenter](https://warcenter.cz/) - Video / Audio / Books / NSFW / Requires Sign-Up
 * [FastShare.cloud](https://fastshare.cloud/) - Video / Audio / Books / NSFW
-* [Datoid](https://datoid.to/) - Video / Audio / Books / NSFW / Requires Sign-Up for 1GB+ Files
+* [Datoid](https://datoid.cz/) - Video / Audio / Books / NSFW / Requires Sign-Up for 1GB+ Files
 
 ## ▷ Torrenting
 
@@ -444,7 +444,7 @@
 ## ▷ Downloading / Téléchargement
 
 * ⭐ **[⁠Loadix](https://loadix.fun/)** - Movies / TV / Anime
-* [WawaCity](https://www.wawacity.irish/) - Movies / TV / [Status](https://wawacity-info.com/) / [Telegram](https://t.me/Wawacityofficiel)
+* [WawaCity](https://www.wawacity.feedback/) - Movies / TV / [Status](https://wawacity-info.com/) / [Telegram](https://t.me/Wawacityofficiel)
 * [Extreme-Down](https://www.extreme-down.poker/) - Video / Audio / Books
 * [MuaDib](https://muaddib-sci-fi.blogspot.com/) - Sci-Fi Movies
 * [PiratePunk](https://www.pirate-punk.net/) - Punk Music / Radio / Concerts Dates / Forum
@@ -845,7 +845,7 @@
 
 ## ▷ Streaming
 
-* [StreamingUnity](https://streamingunity.dog/it) - Movies / TV / Anime
+* [StreamingUnity](https://streamingunity.vip/it) - Movies / TV / Anime
 * [StreamingCommunity](https://streamingcommunityz.red/) - Movies / TV / 1080p / [Status](https://telegra.ph/Link-Aggiornato-StreamingCommunity-09-29) / [Telegram](https://t.me/+YID6ZoJtgjg5NGEx)
 * [CB01](https://cb01uno.world/) - Movies / TV / Dub / 1080p / [Telegram](https://t.me/s/cb01_nuovo_indirizzo_ufficiale)
 * [Mediaset Infinity](https://mediasetinfinity.mediaset.it/) - Live TV / Movies / TV / Documentaries / Radio / Dub / Requires Italian VPN / Sign-Up Unlocks Extra Features
@@ -1312,7 +1312,7 @@
 * [EX-FS](https://ex-fs.net/) - Movies / TV / Anime / Dub / 1080p
 * [Zona Plus](https://w140.zona.plus/) - Movies / TV / Anime / Dub
 * [KinoFlux](https://kinogo.fit/) - Movies / TV / Dub / 1080p
-* [filmix](https://filmix.my/) - Movies / TV / Anime / 720p
+* [filmix](https://filmix.gg/) - Movies / TV / Anime / 720p
 * [Kinotochka](https://kinovibe.co/) - Movies / TV / Anime / Dub / 720p
 * [filmozavr](https://filmozavr.com/) - Movies / TV / Anime / Dub
 * [seasonvar](http://seasonvar.ru/) - TV / Dub / 720p
@@ -1476,7 +1476,7 @@
 * [sphinxanime](https://sphinxanime.com/) - Anime
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
 * [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
-* [Japan Paw!](https://japan-paw.net/) - Anime / Sub
+* [Japan Paw!](https://japanpaw.com/) - Anime / Sub
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels / [Discord](https://discord.com/invite/MqmX3ZJApE)
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
 * [punkconpunk](https://punkconpunk.blogspot.com/) - MP3 / Punk Music
@@ -1496,7 +1496,7 @@
 * [VivaTorrents](https://www.vivatorrents.org/) - Movies / TV / Castilian
 * [PasateaTorrent](https://pasateatorrent.org/) - Movies / TV / Castilian
 * [DiXvA](https://www.sinsitio.site/) - Movies / TV / Music / NSFW / [Telegram](https://t.me/+YSdB1y9VdjAzNDkx)
-* [Hacktorrent](https://hacktorrent.men/) - Movies / TV / Anime / Latino
+* [Hacktorrent](https://hacktorrent.cc/) - Movies / TV / Anime / Latino
 * [Unionfansub](https://foro.unionfansub.com/index.php) - Anime
 * [Akiba-kei](http://akiba-team.org/) - Anime / [Discord](https://discord.com/invite/8bPmS3q)
 
@@ -1664,7 +1664,7 @@
 * [kultfilmler](https://kultfilmler.net/) - Movies / TV / Anime
 * [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime / Region Locked
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
-* [Ddizi](https://www.ddizi.vip/) - TV
+* [Ddizi](https://www.ddizi.im/) - TV
 * [Diziizle](https://www.diziizle.tel/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN

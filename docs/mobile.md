@@ -701,7 +701,7 @@
 * [SimpleTimeTracker](https://github.com/Razeeman/Android-SimpleTimeTracker) - Productivity / Time Tracker
 * [Success](https://eveningkid.com/success/) - Productivity Tracker
 * [Goodtime](https://github.com/adrcotfas/Goodtime) - Productivity Tracker
-* [timeto.me](https://timeto.me/) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
+* [timeto.me](https://github.com/Medvedev91/timeto.me) - Time Management Tracker / [GitHub](https://github.com/Medvedev91/timeto.me)
 
 ***
 

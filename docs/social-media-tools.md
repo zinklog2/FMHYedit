@@ -118,7 +118,7 @@
 * [⁠Embedded](https://embedded.gallery/) / [Discord](https://discord.com/invite/Be9yDnBPBw), [FixEmbed](https://fixembed.app/) / [GitHub](https://github.com/kenhendricks00/FixEmbed) or [⁠Embed Fixer](https://github.com/seriaati/embed-fixer) - Discord Embed Fix Bots
 * [esmBot](https://github.com/esmBot/esmBot) - Multi-Tool Discord Bot 
 * [NotQuiteNitro](https://nqn.blue/) - Discord Nitro Alternative
-* [fmbot](https://fmbot.xyz/) - Discord Voice Chat Scrobbling
+* [fmbot](https://fm.bot/) - Discord Voice Chat Scrobbling
 * [Chuu](https://github.com/ishwi/Chuu) - Last.fm Discord Bot
 * [Craig](https://craig.chat/) - Voice Channel Recorder Bot / [Backup](https://craig.chat/giarc/)
 * [MonitoRSS](https://monitorss.xyz/) or [ReadyBot](https://readybot.io/) - RSS Discord Bots
@@ -752,7 +752,7 @@
 * [Sepia Search](https://joinpeertube.org/browse-content), [2](https://sepiasearch.org/) - Peertube Search Engine
 * [Peertube Instances](https://joinpeertube.org/instances), [2](https://instances.joinpeertube.org/instances) - Peertube Instances
 * [The Federation Peertube](https://the-federation.info/platform/29) - Peertube Instances
-* [FediDB Peertube](https://fedidb.org/software/peertube) - Peertube Instances
+* [FediDB Peertube](https://fedidb.com/software/peertube) - Peertube Instances
 * [Fediverse Observer Peertube](https://peertube.fediverse.observer/list) - Peertube Instances
 
 ***
