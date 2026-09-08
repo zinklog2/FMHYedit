@@ -1562,7 +1562,7 @@
 ## ▷ Data Structures
 
 * ⭐ **[Leetcode](https://leetcode.com/)** - Coding Practice
-* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://doocs.github.io/leetcode/#/README_EN) / [Company Questions](https://rentry.co/FMHYB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
+* ⭐ **Leetcode Tools** - [Solutions](https://github.com/kamyu104/LeetCode-Solutions), [2](https://leetcode.ca/), [3](https://walkccc.me/LeetCode/), [4](https://leetcode.doocs.org/#/README_EN) / [Company Questions](https://rentry.co/FMHYB64#lcq) / [Animations](https://github.com/MisterBooo/LeetCodeAnimation) / [Anki Cards](https://github.com/fspv/leetcode-anki) / [Videos](https://github.com/fishercoder1534/Leetcode), [2](https://docs.google.com/spreadsheets/u/0/d/19ZIl3LeNLcKgEwNI9YF2hjkXL6ssGiFl/) / [Resources](https://github.com/ashishps1/awesome-leetcode-resources) / [Analytics](https://leetcode-company-questions.vercel.app/)
 * [NeetCode](https://neetcode.io/) - Coding Interview Practice
 * [algonds](https://github.com/MaciejWas/algonds) - Coding Practice
 * [Codility](https://app.codility.com/programmers/) - Coding Practice

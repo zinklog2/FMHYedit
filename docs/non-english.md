@@ -915,7 +915,7 @@
 * [⁠EPUB.MOE](https://epub.moe/) - Books
 * [shobonnexus](https://shobonnexus.com/) - Novels / Magazines
 * [senmanga](https://raw.senmanga.com/) - Manga / Novels / NSFW
-* [DLRaw](https://dlraw.app/), [2](https://manga-zip.tv/), [3](https://manga-zip.is/), [4](https://ww0.13dl.app/), [5](https://ww13.manga-zip.app/) - Manga
+* [DLRaw](https://dlraw.app/), [2](https://manga-zip.my/), [3](https://manga-zip.is/), [4](https://ww0.13dl.app/), [5](https://ww13.manga-zip.app/) - Manga
 * [Raw-Zip](https://raw-zip.com/) - Manga
 * [MangaZone](https://www.manga-zone.org/) - Manga
 * [RawCans](https://raw-cans.net/) - Manga
@@ -1797,7 +1797,7 @@
 
 * 🌐 **[Non-English Ebook & Audiobook Sites](https://redd.it/gehkl0)**
 * ↪️ **[Asian Drama Sites](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_drama_streaming)**
-* [kool.to](https://www.kool.to/) - Multilingual / Live TV
+* [kool.ws](https://kool.ws/) - Multilingual / Live TV
 * [Keyman](https://keyman.com/) - Multilingual / Keyboard Files
 * [⁠Albkanale](https://albkanale.com/) - Albanian Live TV Android App + Web Versions
 * [amharicbookss](https://t.me/amharicbookss) - Amharic / Books

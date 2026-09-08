@@ -72,7 +72,7 @@
 * [Kofi](https://kofi.mov/) - Movies / TV / Anime / Auto-Next / [Discord](https://discord.com/invite/JsJqRzrjaG)
 * [PopcornTime](https://popwatch.to/), [2](https://popwatch.cc/) - Movies / TV / Anime / Auto-Next
 * [Surface Stream](https://watchsurface.stream/) - Movies / TV / Anime / Auto-Next
-* [Mapple.tv](https://mappl.tv/) - Movies / TV / Anime / [Telegram](https://t.me/mapple_tv)
+* [Mapple.tv](https://mapple.rip/) - Movies / TV / Anime / [Telegram](https://t.me/mapple_tv)
 * [frameXTV](https://framextv.tech/) - Movies / TV / Anime / [Discord](https://discord.gg/vPCHZ6PgRX)
 * [Apexmovies](https://apexmovies.net/) - Movies / TV / Anime
 * [Avero TV](https://averotv.top/) - Movies / TV / Anime / Auto-Next
@@ -800,7 +800,7 @@
 * [Cinetaro](https://cinetaro.to/) - Movies / TV / Anime / [Discord](https://discord.com/invite/4yGUxdz3h9)
 * [LightDLMovies](https://rentry.co/FMHYB64#lightdl) - Movies / TV / Use [Adblock](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/adblock-vpn-privacy/#wiki_.25BA_adblocking)
 * [Vadapav](https://rentry.co/FMHYB64#vadapav) - Movies / TV
-* [⁠Medeberiya](https://medeberiya.net/) - Movie / TV
+* [⁠Medeberiya](https://medeberiya1.com/) - Movie / TV
 * [1Shows](https://www.1shows.org/) - Movies / TV / Anime / [Discord](https://discord.gg/the-one)
 * [⁠KMMOVIES](https://kmmovies.shop/category/english/) - Movies / TV
 * [Ripper's Archive](https://rentry.co/FMHYB64#rippers-archive) - Movies / TV / Anime
