@@ -70,22 +70,22 @@ export function generateMeta(context: TransformContext, hostname: string) {
     ])
   } else {
     const url = pageData.filePath.replace('index.md', '').replace('.md', '')
-    const imageUrl = `${url}/__og_image__/og.png`
+    const imageUrl = `${url}/__og_image__/og.webp`
       .replaceAll('//', '/')
       .replace(/^\//, '')
 
     head.push(
       ['meta', { property: 'og:image', content: `${hostname}/${imageUrl}` }],
       ['meta', { property: 'og:image:width', content: '1200' }],
-      ['meta', { property: 'og:image:height', content: '628' }],
-      ['meta', { property: 'og:image:type', content: 'image/png' }],
+      ['meta', { property: 'og:image:height', content: '630' }],
+      ['meta', { property: 'og:image:type', content: 'image/webp' }],
       [
         'meta',
         { property: 'og:image:alt', content: pageData.frontmatter.title }
       ],
       ['meta', { name: 'twitter:image', content: `${hostname}/${imageUrl}` }],
       ['meta', { name: 'twitter:image:width', content: '1200' }],
-      ['meta', { name: 'twitter:image:height', content: '628' }],
+      ['meta', { name: 'twitter:image:height', content: '630' }],
       [
         'meta',
         { name: 'twitter:image:alt', content: pageData.frontmatter.title }

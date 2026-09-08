@@ -1,6 +1,7 @@
 **/.vitepress/dist
 **/.vitepress/cache
 node_modules
+.wrangler
 *.log*
 .nitro
 .cache
@@ -10,3 +11,6 @@ dist
 .eslintcache
 docs/.vitepress/.temp
 result
+docs/recently-removed.md
+docs/public/single-page.md
+package-lock.json

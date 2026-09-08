@@ -2,6 +2,8 @@
 import Field from './CardField.vue'
 import ColorPicker from './ColorPicker.vue'
 import InputField from './InputField.vue'
+import ThemeSelector from './ThemeSelector.vue'
+import ToggleIndexes from './ToggleIndexes.vue'
 import ToggleStarred from './ToggleStarred.vue'
 </script>
 
@@ -15,7 +17,7 @@ import ToggleStarred from './ToggleStarred.vue'
       </div>
     </div>
     <Field icon="i-twemoji-globe-with-meridians">Indexes</Field>
-    <Field icon="i-twemoji-repeat-button">Storage Links</Field>
+    <Field icon="i-twemoji-repeat-button">Section Links</Field>
     <Field icon="i-twemoji-star">Recommendations</Field>
     <div class="align-center mb-4 mt-4 flex justify-between">
       <div class="text-$vp-c-text-1 lh-relaxed text-sm font-bold">Options</div>
@@ -25,7 +27,18 @@ import ToggleStarred from './ToggleStarred.vue'
         <ToggleStarred />
       </template>
     </InputField>
+    <InputField id="toggle-indexes" label="Toggle Indexes">
+      <template #display>
+        <ToggleIndexes />
+      </template>
+    </InputField>
 
-    <ColorPicker />
+    <div class="mt-4">
+      <ColorPicker />
+    </div>
+
+    <div class="mt-6 pt-6 border-t border-$vp-c-divider">
+      <ThemeSelector />
+    </div>
   </div>
 </template>

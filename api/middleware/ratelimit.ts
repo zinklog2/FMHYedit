@@ -13,20 +13,36 @@
  *  See the License for the specific language governing permissions and
  *  limitations under the License.
  */
+// `node:net` isn't available in the Workers runtime, so validate with a regex.
+const IPV4 = /^(\d{1,3}\.){3}\d{1,3}$/
+const IPV6 = /^[0-9a-fA-F:]+$/
+function isValidIP(ip: string): boolean {
+  return IPV4.test(ip) || (ip.includes(':') && IPV6.test(ip))
+}
+
 export default defineEventHandler(async (event) => {
   const { cloudflare } = event.context
 
-  // FIXME: THIS IS NOT RECOMMENDED. BUT I WILL USE IT FOR NOW
-  // Not recommended:  many users may share a single IP, especially on mobile networks
-  // or when using privacy-enabling proxies
-  const ipAddress = getHeader(event, 'CF-Connecting-IP') ?? ''
+  // Prefer `cf-connecting-ip` (Cloudflare-set, not client-spoofable); fall back
+  // to the last hop of `x-forwarded-for`, then the socket address.
+  const cf = getHeader(event, 'cf-connecting-ip')
+  const xff = getHeader(event, 'x-forwarded-for')
+  const lastHop = xff
+    ?.split(',')
+    .map((p) => p.trim())
+    .at(-1)
+  const candidate = cf || lastHop || event.node.req.socket.remoteAddress
+  const ipAddress = candidate && isValidIP(candidate) ? candidate : undefined
 
-  const { success } = await // KILL YOURSELF
-  (cloudflare.env as unknown as Env).RATE_LIMITER.limit({
-    key: ipAddress
-  })
+  const limiter = cloudflare?.env?.RATE_LIMITER
+  if (ipAddress && limiter) {
+    const { success } = await limiter.limit({ key: ipAddress })
 
-  if (!success) {
-    throw createError('Failure – global rate limit exceeded')
+    if (!success) {
+      throw createError({
+        statusCode: 429,
+        statusMessage: 'Rate limit exceeded'
+      })
+    }
   }
 })

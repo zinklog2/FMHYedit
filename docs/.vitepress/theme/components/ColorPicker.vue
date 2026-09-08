@@ -1,88 +1,125 @@
 <script setup lang="ts">
-import { colors } from '@fmhy/colors'
-import { useStorage, useStyleTag } from '@vueuse/core'
-import { watch } from 'vue'
+import type { ColorNames } from '../themes/configs/colors'
+import { themeRegistry } from '../themes/configs'
+import { normalizeColorName } from '../themes/configs/colors'
+import { useTheme } from '../themes/themeHandler'
+import { colors } from '../utils/colors'
 
-const colorScales = [
-  '50',
-  '100',
-  '200',
-  '300',
-  '400',
-  '500',
-  '600',
-  '700',
-  '800',
-  '900',
-  '950'
-] as const
-
-type ColorNames = keyof typeof colors
-const selectedColor = useStorage<ColorNames>('preferred-color', 'swarm')
+const { setTheme, mode, themeName } = useTheme()
 
 const colorOptions = Object.keys(colors).filter(
   (key) => typeof colors[key as keyof typeof colors] === 'object'
 ) as Array<ColorNames>
 
-const { css } = useStyleTag('', { id: 'brand-color' })
+const presetThemeNames = Object.keys(themeRegistry).filter(
+  (k) => !k.startsWith('color-')
+)
 
-const updateThemeColor = (colorName: ColorNames) => {
-  const colorSet = colors[colorName]
+const getThemePreviewStyle = (name: string) => {
+  const theme = themeRegistry[name]
+  if (!theme) return {}
+  const modeKey =
+    mode && (mode as any).value
+      ? ((mode as any).value as keyof typeof theme.modes)
+      : 'light'
+  const modeColors = theme.modes[modeKey]
 
-  const cssVars = colorScales
-    .map((scale) => `--vp-c-brand-${scale}: ${colorSet[scale]};`)
-    .join('\n    ')
-
-  css.value = `
-    :root {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[500]};
-      --vp-c-brand-2: ${colorSet[600]};
-      --vp-c-brand-3: ${colorSet[800]};
-      --vp-c-brand-soft: ${colorSet[400]};
+  if (theme.preview) {
+    if (theme.preview.startsWith('http') || theme.preview.startsWith('data:')) {
+      return {
+        backgroundImage: `url(${theme.preview})`,
+        backgroundSize: 'cover'
+      }
     }
+    return { background: theme.preview }
+  }
 
-    .dark {
-      ${cssVars}
-      --vp-c-brand-1: ${colorSet[400]};
-      --vp-c-brand-2: ${colorSet[500]};
-      --vp-c-brand-3: ${colorSet[700]};
-      --vp-c-brand-soft: ${colorSet[300]};
+  if (modeColors?.brand && modeColors.brand[1] && modeColors.brand[2]) {
+    return {
+      background: `linear-gradient(135deg, ${modeColors.brand[1]} 0%, ${modeColors.brand[2]} 100%)`
     }
-  `
+  }
+
+  return { background: 'var(--vp-c-brand-1)' }
 }
 
-// Initialize theme color
-updateThemeColor(selectedColor.value)
+const isColorActive = (color: string) => themeName.value === `color-${color}`
 
-watch(selectedColor, updateThemeColor)
-
-const normalizeColorName = (colorName: string) =>
-  colorName.replaceAll(/-/g, ' ').charAt(0).toUpperCase() +
-  colorName.slice(1).replaceAll(/-/g, ' ')
+const isPresetActive = (t: string) => {
+  return themeName.value === t
+}
 </script>
 
 <template>
   <div>
     <div class="flex flex-wrap gap-2">
+      <!-- Color picker generated themes (render first) -->
       <div v-for="color in colorOptions" :key="color">
         <button
+          type="button"
           :class="[
-            'inline-block w-6 h-6 rounded-full transition-all duration-200'
+            'relative inline-flex items-center justify-center w-6 h-6 rounded-full cursor-pointer transition-all duration-200',
+            isColorActive(color)
+              ? 'scale-110 ring-2 ring-[var(--vp-c-text-1)] ring-offset-2 ring-offset-[var(--vp-c-bg-soft)] shadow-md'
+              : 'hover:scale-105 opacity-80 hover:opacity-100'
           ]"
-          @click="selectedColor = color"
           :title="normalizeColorName(color)"
+          :aria-label="normalizeColorName(color)"
+          :aria-pressed="isColorActive(color)"
+          @click="setTheme(`color-${color}`)"
         >
           <span
-            class="inline-block w-6 h-6 rounded-full"
-            :style="{ backgroundColor: colors[color][500] }"
-          />
+            class="relative inline-flex items-center justify-center w-full h-full rounded-full"
+            :style="{
+              backgroundColor: colors[color][500],
+              backgroundSize: 'cover',
+              backgroundPosition: 'center',
+              backgroundRepeat: 'no-repeat'
+            }"
+          >
+            <span
+              v-if="isColorActive(color)"
+              class="i-ph-check text-[11px] text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.85)]"
+            />
+          </span>
         </button>
       </div>
-    </div>
 
-    <div class="mt-2 text-sm text-$vp-c-text-2">
-      Selected: {{ normalizeColorName(selectedColor) }}
+      <!-- Preset themes (render at the end) -->
+      <div v-for="t in presetThemeNames" :key="t">
+        <button
+          type="button"
+          :class="[
+            'relative inline-flex items-center justify-center w-6 h-6 rounded-full cursor-pointer transition-all duration-200',
+            isPresetActive(t)
+              ? 'scale-110 ring-2 ring-[var(--vp-c-text-1)] ring-offset-2 ring-offset-[var(--vp-c-bg-soft)] shadow-md'
+              : 'hover:scale-105 opacity-80 hover:opacity-100'
+          ]"
+          :title="themeRegistry[t].displayName"
+          :aria-label="themeRegistry[t].displayName"
+          :aria-pressed="isPresetActive(t)"
+          @click="setTheme(t)"
+        >
+          <span
+            class="relative inline-flex items-center justify-center w-full h-full rounded-full"
+            :style="
+              Object.assign(
+                {
+                  backgroundSize: 'cover',
+                  backgroundPosition: 'center',
+                  backgroundRepeat: 'no-repeat'
+                },
+                getThemePreviewStyle(t)
+              )
+            "
+          >
+            <span
+              v-if="isPresetActive(t)"
+              class="i-ph-check text-[11px] text-white drop-shadow-[0_1px_2px_rgba(0,0,0,0.85)]"
+            />
+          </span>
+        </button>
+      </div>
     </div>
   </div>
 </template>

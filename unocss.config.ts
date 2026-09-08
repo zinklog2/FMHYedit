@@ -14,53 +14,53 @@
  *  limitations under the License.
  */
 
-import type { Rule } from 'unocss'
-import { colors, shortcuts } from '@fmhy/colors'
+import { colors } from './docs/.vitepress/theme/utils/colors'
 import {
   defineConfig,
-  presetAttributify,
   presetIcons,
   presetUno,
-  presetWebFonts,
   transformerDirectives
 } from 'unocss'
 
-const colorScales = [
-  '50',
-  '100',
-  '200',
-  '300',
-  '400',
-  '500',
-  '600',
-  '700',
-  '800',
-  '900',
-  '950'
-] as const
-
-const colorPattern = Object.keys(colors).join('|')
-const createColorRules = (type: 'text' | 'bg' | 'border'): Rule[] => {
-  const property =
-    type === 'text'
-      ? 'color'
-      : type === 'bg'
-        ? 'background-color'
-        : 'border-color'
-
-  return colorScales.map(
-    (scale) =>
-      [
-        new RegExp(`^${type}-(${colorPattern})-${scale}$`),
-        ([, color]) => ({ [property]: colors[color][scale] })
-      ] as const
-  )
-}
-
 export default defineConfig({
+  blocklist: ['container'],
   content: {
-    filesystem: ['.vitepress/config.mts', '.vitepress/constants.ts']
+    pipeline: {
+      exclude: [/\.md($|\?)/]
+    },
+    filesystem: [
+      '.vitepress/config.mts',
+      '.vitepress/constants.ts',
+      '.vitepress/shared.ts'
+    ]
   },
+  // Markdown is excluded from extraction, so keep classes authored or generated there explicit.
+  safelist: [
+    'i-carbon:logo-bluesky',
+    'i-carbon:logo-discord',
+    'i-carbon:logo-github',
+    'i-carbon:logo-gitlab',
+    'i-carbon:logo-x',
+    'i-fluent-mdl2:linux-logo-32',
+    'i-fluent:globe-32-filled',
+    'i-gravity-ui:code',
+    'i-material-symbols:android',
+    'i-mdi:mastodon',
+    'i-mdi:reddit',
+    'i-mdi:telegram',
+    'i-qlementine-icons:mac-fill-16',
+    'i-qlementine-icons:windows-24',
+    'i-simple-icons:ios',
+    'i-simple-icons:torbrowser',
+    'h-1em',
+    'w-1em',
+    'text-4xl',
+    'dark:text-text-2',
+    'text-black',
+    'font-extrabold',
+    'lg:text-5xl',
+    'lg:leading-[3.5rem]'
+  ],
   theme: {
     colors: {
       ...colors,
@@ -74,46 +74,23 @@ export default defineConfig({
     }
   },
   rules: [
-    // Brand color utilities
-    [
-      /^brand-(\d+)$/,
-      ([, d]) => ({ color: `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^bg-brand-(\d+)$/,
-      ([, d]) => ({ 'background-color': `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^border-brand-(\d+)$/,
-      ([, d]) => ({ 'border-color': `var(--vp-c-brand-${d})` })
-    ] as const,
-    [
-      /^text-brand-(\d+)$/,
-      ([, d]) => ({ color: `var(--vp-c-brand-${d})` })
-    ] as const,
-
-    // Color scale utilities
-    ...createColorRules('text'),
-    ...createColorRules('bg'),
-    ...createColorRules('border'),
-
     [
       'kbd',
       {
         display: 'inline-block',
         padding: '0.2em 0.4em',
-        fontSize: '0.75em',
-        fontWeight: '500',
-        lineHeight: '1',
+        'font-family': 'var(--vp-font-family-mono)',
+        'font-size': '0.75em',
+        'font-weight': '500',
+        'line-height': '1',
         color: 'var(--vp-c-text-1)',
-        backgroundColor: 'rgb(var(--vp-c-bg-alt))',
-        borderRadius: '4px'
+        'background-color': 'rgb(var(--vp-c-bg-alt))',
+        'border-radius': '4px'
       }
     ]
   ],
   presets: [
     presetUno(),
-    presetAttributify(),
     presetIcons({
       autoInstall: true,
       scale: 1.2,
@@ -128,11 +105,6 @@ export default defineConfig({
               r.text()
             )
         }
-      }
-    }),
-    presetWebFonts({
-      fonts: {
-        mono: 'Geist Mono'
       }
     })
   ],

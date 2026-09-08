@@ -15,7 +15,7 @@
  */
 
 import type { Plugin } from 'vitepress'
-import { basename } from 'pathe'
+import { basename } from 'node:path'
 import { excluded, getHeader } from './transformer/constants'
 import { replaceUnderscore, transformer } from './transformer/core'
 
@@ -101,6 +101,16 @@ export const transformGuide = (text: string): string =>
 
 export function transform(text: string): string {
   let _text = text
+    // Remove extra characters
+    .replace(/\/#wiki_/g, '/#')
+    .replace(/#wiki_/g, '/#')
+    .replace(/.25BA_/g, '')
+    .replace(/.25B7_/g, '')
+    .replace(/_?\.2F_?/g, '-')
+    .replace(/_?.26amp.3B_?/g, '-')
+    .replace(/(?<=r\/FREEMEDIA.+_[a-z]+)2(?=\))/g, '-1')
+    .replace(/(?<=r\/FREEMEDIA.+)\.(?=[a-z]+_)/g, '-')
+
     // Transform reddit index links
     .replace(
       /\*\*\[◄◄ Back to Wiki Index\]\(https:\/\/www\.reddit\.com\/r\/FREEMEDIAHECKYEAH\/wiki\/index\)\*\*\n/gm,
@@ -124,31 +134,31 @@ export function transform(text: string): string {
     .replace(/https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/ai/g, '/ai')
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/adblock-vpn-privacy/g,
-      '/adblockvpnguide'
+      '/privacy'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/android/g,
-      '/android-iosguide'
+      '/mobile'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/games/g,
-      '/gamingpiracyguide'
+      '/gaming'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/reading/g,
-      '/readingpiracyguide'
+      '/reading'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/download/g,
-      '/downloadpiracyguide'
+      '/downloading'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/torrent/g,
-      '/torrentpiracyguide'
+      '/torrenting'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/edu/g,
-      '/edupiracyguide'
+      '/educational'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/system-tools/g,
@@ -184,15 +194,15 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/video/g,
-      '/videopiracyguide'
+      '/video'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/audio/g,
-      '/audiopiracyguide'
+      '/audio'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/linux/g,
-      '/linuxguide'
+      '/linux-macos'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/non-eng/g,
@@ -200,7 +210,7 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/misc/g,
-      '/miscguide'
+      '/misc'
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/storage/g,
@@ -208,19 +218,12 @@ export function transform(text: string): string {
     )
     .replace(
       /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/dev-tools/g,
-      '/devtools'
+      '/developer-tools'
     )
     .replace(
-      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/img-tools/g,
-      '/img-tools'
+      /https:\/\/www.reddit.com\/r\/FREEMEDIAHECKYEAH\/wiki\/image-tools/g,
+      '/image-tools'
     )
-    // Remove extra characters
-    .replace(/\/#wiki_/g, '/#')
-    .replace(/#wiki_/g, '/#')
-    .replace(/.25BA_/g, '')
-    .replace(/.25B7_/g, '')
-    .replace(/_.2F_/g, '-')
-    .replace(/_?.26amp.3B_?/g, '-')
 
   _text = replaceUnderscore(_text)
     .replace(/\/#(\d)/g, '/#_$1') // Prefix headings starting with numbers
@@ -242,23 +245,6 @@ export function transform(text: string): string {
     .replace(/^\*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\* \*\*Warning\*\* - (.+)$/gm, ':::warning\n$1\n:::')
     .replace(/^\*\s([^*])/gm, '- $1')
-    // Replace links
-    .replace(
-      /\/storage\/#encode--decode_urls/g,
-      '/storage/#encode--decode-urls'
-    )
-    .replace(/\/devtools\/#machine-learning2/g, '/devtools/#machine-learning-1')
-    .replace(/\/linuxguide#software-sites2/g, '/linuxguide#software-sites-1')
-    .replace(/\/linuxguide#software_sites/g, '/linuxguide#software-sites')
-    .replace(/\/non-english#reading10/g, '/non-english#reading-9')
-    .replace(
-      /\/storage#satellite-.26amp.3B_street_view_maps/g,
-      '/storage#satellite-street-view-maps'
-    )
-    .replace(
-      /(.+?) site or extension\.\n/gm,
-      'Click on the texts to copy them decoded.\n'
-    )
 
   return _text
 }
@@ -270,80 +256,98 @@ const transformLinks = (text: string): string =>
         name: 'Discord',
         find: /\[Discord\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="Discord" class="i-carbon:logo-discord" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'Discord\'" alt="Discord" class="i-carbon:logo-discord" /></a>'
       },
       {
         name: 'GitHub',
         find: /\[GitHub\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitHub" class="i-carbon:logo-github" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'GitHub\'" alt="GitHub" class="i-carbon:logo-github" /></a>'
       },
       {
         name: 'GitLab',
-        find: /\[GitLab\]\(([^\)]*?)\)/gm,
+        find: /(?<=\/ )\[GitLab\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'GitLab\'" alt="GitLab" class="i-carbon:logo-gitlab" /></a>'
       },
       {
         name: 'Source Code',
         find: /\[Source Code\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="Source Code" class="i-gravity-ui:code" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'Source Code\'" alt="Source Code" class="i-gravity-ui:code" /></a>'
       },
       {
         name: 'Telegram',
         find: /\[Telegram\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="Telegram" class="i-mdi:telegram" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'Telegram\'" alt="Telegram" class="i-mdi:telegram" /></a>'
       },
       {
         name: 'Subreddit',
         find: /\[Subreddit\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="Reddit" class="i-mdi:reddit" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'Reddit\'" alt="Reddit" class="i-mdi:reddit" /></a>'
       },
       {
         name: 'X',
         find: /\[X\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt="X" class="i-carbon:logo-x" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'X\'" alt="X" class="i-carbon:logo-x" /></a>'
+      },
+      {
+        name: 'Mastodon',
+        find: /\[Mastodon\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><span v-tooltip="\'Mastodon\'" alt="Mastodon" class="i-mdi:mastodon" /></a>'
+      },
+      {
+        name: 'BlueSky',
+        find: /\[BlueSky\]\(([^\)]*?)\)/gm,
+        replace:
+          '<a target="_blank" href="$1"><span v-tooltip="\'BlueSky\'" alt="BlueSky" class="i-carbon:logo-bluesky" /></a>'
       },
       {
         name: 'Tor',
         find: /\[.onion\]\(([^\)]*?)\)/gm,
         replace:
-          '<a target="_blank" href="$1"><div alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
+          '<a target="_blank" href="$1"><span v-tooltip="\'.onion\'" alt=".onion" class="i-simple-icons:torbrowser w-1em h-1em" /></a>'
       },
       // Platform indicators
       {
         name: 'Windows',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Windows(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="Windows" class="i-qlementine-icons:windows-24" /> '
+        replace:
+          ' <span v-tooltip="\'Windows\'" alt="Windows" class="i-qlementine-icons:windows-24" /> '
       },
       {
-        name: 'Mac',
-        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Mac(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="Mac" class="i-qlementine-icons:mac-fill-16" /> '
+        name: 'macOS',
+        find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)(?:Mac|macOS)(?=,|[ \t]\/|$)/gm,
+        replace:
+          ' <div v-tooltip="\'macOS\'" alt="macOS" class="i-qlementine-icons:mac-fill-16" /> '
       },
       {
         name: 'Linux',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Linux(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
+        replace:
+          ' <span v-tooltip="\'Linux\'" alt="Linux" class="i-fluent-mdl2:linux-logo-32" /> '
       },
       {
         name: 'Android',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Android(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="Android" class="i-material-symbols:android" /> '
+        replace:
+          ' <span v-tooltip="\'Android\'" alt="Android" class="i-material-symbols:android" /> '
       },
       {
         name: 'iOS',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)iOS(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="iOS" class="i-simple-icons:ios" /> '
+        replace:
+          ' <span v-tooltip="\'iOS\'" alt="iOS" class="i-simple-icons:ios" /> '
       },
       {
         name: 'Web',
         find: /(?<=\/ (\/>|[^/\r\n])*)(,\s)?(?<![a-z]\s)Web(?=,|[ \t]\/|$)/gm,
-        replace: ' <div alt="Web" class="i-fluent:globe-32-filled" /> '
+        replace:
+          ' <span v-tooltip="\'Web\'" alt="Web" class="i-fluent:globe-32-filled" /> '
       }
     ])
     .getText()

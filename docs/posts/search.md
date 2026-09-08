@@ -11,7 +11,7 @@ footer: true
 
 <Post authors="nbats" />
 
-### [FMHY-Search](https://fmhy-search.streamlit.app/)
+### [Streamlit Search](https://fmhy-search.streamlit.app/)
 
 Search engine hosted on Streamlit
 
@@ -23,15 +23,21 @@ Search engine hosted on FMHY.net
 
 ---
 
-### [GitHub Search](https://github.com/fmhy/edit/search?q=&type=wikis)
+### [⁠FMHY λ Seλrch](https://search.fmhy.bid/)
+
+FMHY semantic search engine
+
+---
+
+### [GitHub Search](https://github.com/search?q=repo%3Afmhy%2FFMHY+&type=wikis)
 
 GitHub page search engine
 
 ---
 
-### [Bookmark HTML](https://github.com/fmhy/bookmarks)
+### [Bookmark Extension](https://github.com/mian196/fmhy-bookmarks-extension) / [Bookmark HTML](https://github.com/fmhy/bookmarks)
 
-Turn FMHY into Bookmarks
+Turn FMHY into browser bookmarks
 
 ---
 
@@ -43,27 +49,21 @@ Search FMHY using Brave Goggles
 
 ### [Python Script](https://github.com/Rust1667/a-FMHY-search-engine)
 
-Search markdown via python script
+Search the Markdown via a Python script
 
 ---
 
-### [Raw Markdown](https://api.fmhy.net/single-page)
+### [Raw Markdown](https://fmhy.net/single-page.md) / [2](https://api.fmhy.net/single-page)
 
-Search markdown manually (ctrl+f)
-
----
-
-### [Google CSEs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/internet-tools/#wiki_.25B7_custom_search_engines)
-
-Multi-site search engines
+Search the Markdown manually (Ctrl+F)
 
 ---
 
-### [Dupe Checker](https://github.com/fmhy/dupe-checker)
+### [Dupe Checker](https://link-checker-215e95.gitlab.io/) / [Alt](https://fmhycheck.vercel.app/) / [App](https://github.com/fmhy/dupe-checker)
 
 FMHY Dupe Check Tool
 
---
+---
 
 ### Search Page Backups
 
