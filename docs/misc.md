@@ -1405,7 +1405,7 @@
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
-* [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
+* [URL Decode](https://url-decode.com/all-tools) - Dev Tools / Web Tools / File Conversion
 
 ***
 

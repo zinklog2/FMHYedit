@@ -325,7 +325,7 @@
 * [36mh](https://www.36mh.org/) - Manga
 * [komiic](https://komiic.com/) - Manga
 * [manben](https://www.manben.com/) - Manga
-* [manhuazhan](https://www.manhuazhan.com/) - Manga
+* [manhuazhan](https://www.manhuazhan.org/) - Manga
 * [rumanhua](https://www.rumanhua2.com/) - Manga
 * [fengchemh](https://www.fengchemh.com/) - Manga
 * [yibenmanhua](https://www.yibenmanhua.com/) - Manga
@@ -1332,7 +1332,7 @@
 * [mult-fan](https://mult-fan.tv/) - Cartoons
 * [Ok.ru](https://ok.ru/), [VK](https://vk.com/) - Russian Video Sharing Sites
 * [animatsiya](https://animatsiya.net/) - Russian Animation Archive
-* [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.tv/) - Turkish TV w/ Russian Subs
+* [TurkishTV](https://turkishtv.co/), [turserial](https://turserial.info/), [KinoTurk](https://kinoturk.net/) or [TurkRu.TV](https://turkrutv.net/) - Turkish TV w/ Russian Subs
 * [TVRF](https://tvrf.online/) - Live TV
 * [Viks](http://live.viks.tv/) - Live TV
 * [Telik](https://telik.top/) - Live TV
@@ -1475,7 +1475,7 @@
 * [AZ Anime](https://www.az-animex.com/) - Anime
 * [sphinxanime](https://sphinxanime.com/) - Anime
 * [CrisAnime](https://crisanimex.com/) - Anime / Sub / Dub
-* [TioDonghua](https://tiodonghua.com/) - Anime / Sub / Light Novels
+* [TioDonghua](https://tiodonghua.lat/) - Anime / Sub / Light Novels
 * [Japan Paw!](https://japan-paw.net/) - Anime / Sub
 * [Fukou-Da!](https://fukou-da.net/) - Anime / Sub / Light Novels / [Discord](https://discord.com/invite/MqmX3ZJApE)
 * [Cursos En Mega](https://t.me/s/cursosenmega) - Courses
@@ -1665,7 +1665,7 @@
 * [Webteizle](https://webteizle3.xyz/) - Movies / TV / Anime / Region Locked
 * [Diziyou](https://www.diziyou.one/) - TV / Sub / Dub / 1080p
 * [Ddizi](https://www.ddizi.vip/) - TV
-* [Diziizle](https://www.diziizle.tel/) - TV
+* [Diziizle](https://www.diziizle.now/) - TV
 * [Dizibox](https://www.dizibox.live/) - TV / Sub / 1080p
 * [Jet Film izle](https://jetfilmizle.net/) - Movies / Requires VPN
 * [Turkish123](https://turkish123.to/) or [Yoturkish](https://www.yoturkish.com) - Turkish TV w/ Eng Subs
@@ -1757,7 +1757,7 @@
 
 ## ▷ Streaming / Phát trực tuyến
 
-* [⁠Tram Phim](https://tramphim4.org/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
+* [⁠Tram Phim](https://tramphim5.org/) - Movies / TV / Anime / Sub / Dub / 1080p / 4K / [Telegram](https://t.me/Adtramphim)
 * [⁠Sofaflix](https://sofaflix.shop/) - Movies / TV / Anime / Sub / Dub / 1080p / [Telegram](https://t.me/addlist/66uKS-YYSyZmM2M1)
 * [kkphim](https://kkphim.com/) - Movies / TV / Anime / Sub / Dub / 1080p
 * [NguonC](https://phim.nguonc.com/) - Movies / TV / Anime / Sub / Dub / 1080p

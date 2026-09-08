@@ -196,7 +196,7 @@
 * [Gothub](https://codeberg.org/gothub/gothub) - GitHub Frontend
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - GitHub Cheat Sheet
 * [Languish](https://tjpalmer.github.io/languish/) - GitHub Programming Language Stats
-* [GitHub Dorks](https://github-dorks.vercel.app/) - GitHub Search Tool
+* [GitHub Dorks](https://webdorks.vercel.app/) - GitHub Search Tool
 * [Imgbot](https://imgbot.net/) - GitHub Image Compression / [GitHub](https://github.com/imgbot/Imgbot)
 * [Octobox](https://octobox.io/), [Gitify](https://www.gitify.io/) or [CatLight](https://catlight.io/) - GitHub Notifications
 * [Download Directory](https://download-directory.github.io/) - Download GitHub Repo Sub-Folders / Files
@@ -732,7 +732,7 @@
 * [React Use](https://github.com/streamich/react-use) or [UseHooks](https://usehooks.com/) - React Hooks
 * [React Query](https://tanstack.com/query/v3/) - Fetch, Cache and Update React Data / [GitHub](https://github.com/TanStack/query)
 * [MMKV](https://github.com/mrousavy/react-native-mmkv) - React Key / Value Storage
-* [Vision Camera](https://www.react-native-vision-camera.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
+* [Vision Camera](https://visioncamera.margelo.com/) - React Camera Support / [GitHub](https://github.com/mrousavy/react-native-vision-camera)
 * [React PDF](https://react-pdf.org/) - Create PDFs in React
 * [react-spring](https://www.react-spring.dev/) - React Spring Animations
 
@@ -745,7 +745,7 @@
 * [XAMPP](https://www.apachefriends.org/) - PHP Development Environment
 * [PIE](https://php.github.io/pie/) - PHP Extension Installer / [GitHub](https://github.com/php/pie)
 * [Clean Code PHP](https://github.com/piotrplenik/clean-code-php) - Clean Code for PHP
-* [Valinor](https://valinor.cuyz.io) - PHP Object Mapper / [GitHub](https://github.com/CuyZ/Valinor)
+* [Valinor](https://valinor-php.dev/latest/) - PHP Object Mapper / [GitHub](https://github.com/CuyZ/Valinor)
 * [Spatie](https://spatie.be/open-source) / [GitHub](https://github.com/spatie/fork) or [3v4l](https://3v4l.org) - Run PHP Concurrently
 
 ***
@@ -901,7 +901,7 @@
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
-* [Icon Horse](https://icon.horse/), [favicon-hash](https://favicon-hash.kmsec.uk/) or [Favicone](https://favicone.com/) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
+* [Icon Horse](https://icon.horse/), [favicon-hash](https://favicon-hash.kmsec.uk/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
@@ -1108,7 +1108,7 @@
 
 ***
 
-* ⭐ **[Cloudflare Pages](https://pages.cloudflare.com/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
+* ⭐ **[Cloudflare Pages](https://www.cloudflare.com/products/pages/)** - 20K Files (25MB Each) / Unlimited / [Discord](https://discord.gg/cloudflaredev)
 * ⭐ **[surge](https://surge.sh/)** - Unlimited / Unlimited / [X](https://x.com/surge_sh) / [GitHub](http://github.com/sintaxi/surge)
 * ⭐ **[GitHub Pages](https://docs.github.com/en/pages)** - 1GB (100MB per File) / 100GB
 * ⭐ **[Sourcehut Pages](https://srht.site/)** - 1GB / Unlimited
