@@ -23,7 +23,7 @@
 * [ExportComments](https://exportcomments.com/) - Export Social Media Comments
 * [socid_extractor](https://github.com/soxoj/socid-extractor) - Extract Social Media User Info from Pages
 * [BlackTwist](https://www.blacktwist.app/) - Free Threads Analytics
-* [Schedul](https://www.schedulthreads.com) - Threads Content Publishing & Scheduling
+* [Schedul](https://www.schedulethreads.com/) - Threads Content Publishing & Scheduling
 * [PixelHunter](https://pixelhunter.io/) or [⁠Dropmatico](https://dropmatico.com/app) - Social Media Image Resizer
 * [CleanSnap](https://www.cleansnap.co/) - Customize Social Media Screenshots
 
