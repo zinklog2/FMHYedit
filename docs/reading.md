@@ -579,7 +579,7 @@
 * [GoodTheorist](https://www.goodtheorist.science/) - Theoretical Physics
 * [Chemistry.com.pk](https://chemistry.com.pk/) - Chemistry / Books
 * [Biology.com.pk](https://biology.com.pk/) - Biology / Books
-* [Institute of Mathematics](https://aimath.org/textbooks/) - Math / Books
+* [Institute of Mathematics](https://textbooks.aimath.org/) - Math / Books
 * [HBPMS](https://hbpms.blogspot.com/) - Math / Books
 * [All About Circuits](https://www.allaboutcircuits.com/education/) - Electronics
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/) - Electronics Schematics / Simulations
@@ -679,7 +679,7 @@
 * ⭐ **[SciLit](https://www.scilit.com/)** - Research Papers / Publications
 * ⭐ **[Zotero](https://www.zotero.org/)** or **[Mendeley](https://www.mendeley.com/)** / [Data](https://data.mendeley.com/) / [Reference Manager](https://www.mendeley.com/download-reference-manager/) - Research Managers
 * [ScholarKey](https://addons.mozilla.org/firefox/addon/scholarkey/) / [Script](https://greasyfork.org/scripts/582149) / [GitHub](https://github.com/ezraiiiiiiiiiiii/ScholarKey/) or [Scientific Doc Bypass](https://greasyfork.org/en/scripts/35521) - Add Open-Access Links to Academic Paper Sites
-* [Lumina](https://www.lumina.sh/) or [Sophon](https://sophon.at/papers) - AI Research Paper Search
+* [Chunkr](https://www.chunkr.ai/) or [Sophon](https://sophon.at/papers) - AI Research Paper Search
 * [BulletPapers](https://www.bulletpapers.ai/) - Paper Summaries
 * [Springer](https://link.springer.com/) - Research Papers / Publications
 * [ScienceDirect](https://www.sciencedirect.com/) - Research Papers

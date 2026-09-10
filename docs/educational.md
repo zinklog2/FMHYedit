@@ -1371,8 +1371,8 @@
 * [DevToolTips](https://devtoolstips.org/) - Developer Tips
 * [Checki0](https://checkio.org/) - Code Learning Games
 * [Scrimba](https://scrimba.com/) or [⁠VittaScience](https://en.vittascience.com/code) - Interactive Programming Learning
-* [CloudSkillsBoost](https://www.cloudskillsboost.google/paths) - Programming Courses
-* [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses
+* [CloudSkillsBoost](https://www.skills.google/paths) - Programming Courses
+* [⁠MOOC.fi](https://www.mooc.fi/en/) - Programming Courses 
 * [EggHead](https://egghead.io/) - Programming Courses
 * [TechSchool](https://techschool.dev/en) - Programming Courses / [Discord](https://discord.com/invite/C4abRX5skH)
 * [⁠Josh Comeau](https://www.joshwcomeau.com/) - Programming Tutorials

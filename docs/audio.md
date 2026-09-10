@@ -464,7 +464,7 @@
 * [SoundClick](https://www.soundclick.com/default.cfm) - MP3
 * [z3.fm](https://z3.fm/) - MP3
 * [nodata](https://nodata.tv/) - MP3
-* [Discografias Completas](https://www.discografiascompletas.com/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
+* [Discografias Completas](https://www.discografias-completas.org/) - MP3 / [Telegram](https://t.me/+wdUhO_yV_A5lM2E5)
 * [LEAKED](https://leaked.cx/) - MP3
 * [Tancpol](https://tancpol.net/) - MP3
 * [New Album Releases](https://newalbumreleases.net/) - MP3

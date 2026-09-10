@@ -763,7 +763,7 @@
 
 * ⭐ **[Simple Science Fitness](https://ss.fitness/calculators)** - Fitness Calculators
 * ⭐ **[BMI Chart](https://upload.wikimedia.org/wikipedia/commons/c/cc/BMI_chart.png)** - BMI Range Graph
-* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/health/educational/lose_wt/BMI/bmicalc.htm)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
+* ⭐ **[Standard BMI Calculator](https://www.nhlbi.nih.gov/calculate-your-bmi)**, [CDC Adult](https://www.cdc.gov/bmi/adult-calculator/index.html) or [CDC Teen](https://www.cdc.gov/bmi/child-teen-calculator/index.html) - BMI Calculator
 * ⭐ **[Sleeping Guide](https://rentry.co/sleepguide)** or **[Insomnia Guide](https://clarasguide.valeena.workers.dev/Guides/insomnia-guide/)** - Sleep Hygiene Guides / Tips
 * [openScale](https://github.com/oliexdev/openscale) or [trale](https://github.com/QuantumPhysique/trale) - Weight & Body Metrics Trackers
 * [AMMFitness](https://www.ammfitness.co.uk/) - Fitness / Nutrition Info
@@ -1414,7 +1414,7 @@
 * [Media.io](https://www.media.io/online-tools.html) - Multimedia
 * [BfoTool](https://bfotool.com/) - Text / Image / Code / File Conversion
 * [Ian Coleman](https://iancoleman.io/) - Cryptography and Encoding Tools
-* [URL Decode](https://url-decode.com/cat/all) - Dev Tools / Web Tools / File Conversion
+* [URL Decode](https://url-decode.com/all-tools) - Dev Tools / Web Tools / File Conversion
 
 ***
 

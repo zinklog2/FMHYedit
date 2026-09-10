@@ -84,7 +84,7 @@
 
 ### Subdomains Services
 
-[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://thedev.id/), [GetFreeDomain](https://www.getfreedomain.name/)
+[DigitalPlat](https://domain.digitalplat.org/) / [GitHub](https://github.com/DigitalPlatDev/FreeDomain), [is-a.dev](https://www.is-a.dev/), [JS.ORG](https://js.org/), [TheDev](https://upset.dev/), [GetFreeDomain](https://www.getfreedomain.name/)
 
 ***
 
