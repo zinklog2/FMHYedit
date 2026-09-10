@@ -487,7 +487,7 @@
 * [DotFyle](https://dotfyle.com/) - Neovim Config Search
 * [Lazy.nvim](https://github.com/folke/lazy.nvim) or [packer.nvim](https://github.com/wbthomason/packer.nvim) - Neovim Plugin Managers
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
-* [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
+* [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [Neovim wiki (GUIs)](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
 * [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
