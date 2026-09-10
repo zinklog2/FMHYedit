@@ -304,8 +304,7 @@
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=899) - Linux Games / Use [Translator](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools/#wiki_.25B7_translators) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
 * [Native Linux Games](https://rentry.co/FMHYB64#native-linux-games) - Linux Games
 * [⁠GamingOnLinux](https://www.gamingonlinux.com/) - Linux Gaming News
-* [Proton-LinUwUx](https://github.com/xshaduwulfx/proton-linuwux) - Automated Proton Builds for Hypervisor(-less) Denuvo Bypass
-* [⁠SteaMidra](https://github.com/Midrags/SFF) or [LuaTools](https://lua.tools/) / [GitHub](https://github.com/madoiscool/LuaTools) - Steam Game Unlocker w/ Multitool, DLC Unlockers + Auto Online Fix
+* [LuaTools](https://lua.tools/) - Steam Game Unlocker w/ Multitool, DLC Unlocker + Auto Online Fix / [GitHub](https://github.com/madoiscool/LuaTools)
 * [CreamLinux](https://github.com/anticitizn/creamlinux) - Steam DLC Unlockers / [Installer](https://github.com/Novattz/creamlinux-installer)
 * [winesapOS](https://github.com/winesapOS/winesapOS) - Play Games on Storage Devices
 * [wine-wayland](https://github.com/varmd/wine-wayland) - Play DX9/DX11 / Vulkan Games
@@ -318,7 +317,7 @@
 * [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - Steam Deck Utilities
 * [SamRewritten](https://github.com/PaulCombal/SamRewritten) - Steam Achievement Manager
 * [Steam for Linux](https://github.com/ValveSoftware/steam-for-linux) - Steam Linux Beta Issue Tracker
-* [Minigalaxy](https://sharkwouter.github.io/minigalaxy/) - GOG Client
+* [Minigalaxy](https://wijsman.de/minigalaxy/) - GOG Client
 * [⁠Online-Fix Linux](https://github.com/ZzEdovec/onlinefix-linux) - Launch Games w/ ⁠Online-Fix Patches
 * [⁠LVRA Wiki](https://wiki.vronlinux.org/) / [Discord](https://discord.gg/EHAYe3tTYa) - Linux VR Gaming Guides
 * [Vice](https://eklonofficial.github.io/Vice-Website/) - Game Clipping App / [GitHub](https://github.com/eklonofficial/Vice)
@@ -423,7 +422,7 @@
 * [r/SelfHosted Wiki](https://wiki.r-selfhosted.com/) - Self-Hosting Guides / Resources / Community / [Subreddit](https://www.reddit.com/r/selfhosted/) / [GitHub](https://github.com/r-selfhosted/wiki)
 * [Server World](https://www.server-world.info/en/) - Network Server Guides
 * [HowtoForge](https://www.howtoforge.com/) / [GitHub](https://github.com/lollipopkit/flutter_server_box) or [Comfy.Guide](https://comfy.guide/) - Linux Server Software Guides
-* [serverbox](https://cdn.lpkt.cn/serverbox/), [⁠Termix](https://github.com/Termix-SSH/Termix) / [Discord](https://discord.gg/jVQGdvHDrf), [EasyPanel](https://easypanel.io/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/), [CasaOS](https://casaos.zimaspace.com/) / [GitHub](https://github.com/IceWhaleTech/CasaOS) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Managers / Status
+* [serverbox](https://serverbox.lolli.tech/?lang=en), [⁠Termix](https://github.com/Termix-SSH/Termix) / [Discord](https://discord.gg/jVQGdvHDrf), [EasyPanel](https://easypanel.io/), [Webmin](https://webmin.com/) / [GitHub](https://github.com/webmin/webmin), [Cockpit Project](https://cockpit-project.org/), [CasaOS](https://casaos.zimaspace.com/) / [GitHub](https://github.com/IceWhaleTech/CasaOS) or [1Panel](https://1panel.pro/) / [GitHub](https://github.com/1Panel-dev/1Panel) - Linux Server Managers / Status
 * [Exo](https://github.com/exo-explore/exo/) - Run AI Clusters / [Telegram](https://t.me/+Kh-KqHTzFYg3MGNk) / [Discord](https://discord.gg/EUnjGpsmWw)
 * [⁠LXD UI](https://github.com/canonical/lxd-ui) - Linux Container + Virtual Machine Manager
 * [Proxmox](https://www.proxmox.com/) - Self-Hosted Server Tools / Virtual Environment / [Scripts](https://community-scripts.org/)
@@ -436,6 +435,7 @@
 * [openmediavault](https://www.openmediavault.org/) / [GitHub](https://github.com/openmediavault/openmediavault/), [SeaFile](https://www.seafile.com/en/home/) or [Linux Server](https://github.com/ZizzyDizzyMC/linx-server/) - Self-Hosted Cloud Storage
 * [Tube Archivist](https://www.tubearchivist.com/) - Self-Hosted YouTube Media Server / [GitHub](https://github.com/tubearchivist/tubearchivist)
 * [FileBrowser Quantum](https://filebrowserquantum.com/) / [GitHub](https://github.com/gtsteffaniak/filebrowser) or [⁠copyparty](https://github.com/9001/copyparty/) - Self-Hosted Web File Managers
+* [⁠SilverBullet](https://silverbullet.md/) - Self-Hosted Markdown Note-Taking
 * [Lightning](https://williamhorning.dev/lightning/) - Self-Hosted Cross-Platform Chatbot Framework
 * [⁠ConvertX](https://github.com/C4illin/ConvertX) or [Transmute](https://transmute.sh/) / [GitHub](https://github.com/transmute-app/transmute) - Self-Hosted File Converters
 * [omnisearch](https://git.bwaaa.monster/omnisearch/about/), [SearXNG](https://docs.searxng.org/), [4get](https://git.lolcat.ca/lolcat/4get), [⁠Hister](https://hister.org/) / [Discord](https://discord.gg/6JzgjGKVFP) / [GitHub](https://github.com/asciimoo/hister) or [ZincSearch](https://zincsearch-docs.zinc.dev/) / [GitHub](https://github.com/zincsearch/zincsearch) - Self-Hosted Search Engines
@@ -668,7 +668,7 @@
 
 * 🌐 **[Awesome macOS](https://github.com/iCHAIT/awesome-macOS)**, [OpenSourceApple](https://opensource.apple.com/), [Awesome Mac](https://github.com/jaywcjlove/awesome-mac) or [Awesome OS Apps](https://github.com/serhii-londar/open-source-mac-os-apps) - FOSS App Indexes
 * 🌐 **[Mac Menu Bar](https://macmenubar.com/)** - Menu Bar App Index
-* ⭐ **[Homebrew](https://brew.sh/)** / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers / [Homebrew GUI](https://github.com/buresdv/Cork/)
+* ⭐ **[Homebrew](https://brew.sh/)** / [GUI](https://github.com/buresdv/Cork/) / [Casks GUI](https://github.com/alielsokary/CaskHub) / [X](https://x.com/MacHomebrew), [Munki](https://www.munki.org/munki/), [MacApps](https://macapps.link/en/) or [Applite](https://aerolite.dev/applite) - Package Managers 
 * ⭐ **[AppsTorrent](https://appstorrent.ru/)** - Downloads (not torrents) / Login Required for some Files
 * [nMac](https://nmac.to/)
 * [MacBB](https://macbb.org/)
@@ -741,6 +741,7 @@
 * [CS.RIN.RU](https://cs.rin.ru/forum) - Mac Games / Sign-Up / PW: `cs.rin.ru / csrin.org` / [.onion](http://csrinrutkb3tshptdctl5lyei4et35itl22qvk5ktdcat6aeavy6nhid.onion/forum)
 * [SCNLOG](https://scnlog.me/games/mac/) - Mac Games
 * [RuTracker](https://rutracker.org/forum/viewforum.php?f=960) - Mac Games / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent#wiki_.25BA_torrent_sites)
+* [⁠MacSteam](https://github.com/Selectively11/macSteam) - Steam Game + DLC Unlocker
 * [MacintoshRepository](https://www.macintoshrepository.org/games/) - Oldschool Mac Games
 * [Mac Source Ports](https://www.macsourceports.com/) - Run Old Mac Games
 * [PortingKit](https://www.portingkit.com/) or [PlayOnMac](https://www.playonmac.com/en/) - Run Windows Games / Programs on Mac
@@ -869,7 +870,7 @@
 * [OpenMTP](https://openmtp.ganeshrvel.com/) - macOS / Android File Transfer / [GitHub](https://github.com/ganeshrvel/openmtp)
 * [Progress](https://github.com/Xfennec/progress) - Show Copied Data Progress
 * [Bruji](https://www.bruji.com/) - Media Cataloging Software Suite
-* [superfile](https://superfile.netlify.app/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
+* [superfile](https://superfile.dev/) - Terminal File Manager / [GitHub](https://github.com/yorukot/superfile)
 * [macFUSE](https://macfuse.github.io/) - Mac File Integration / [GitHub](https://github.com/macfuse/macfuse)
 * [JDownloader](https://jdownloader.org/) - File Download Manager / [Debloat](https://clarasguide.valeena.workers.dev/Guides/jdownloader2/) / [Dark Theme](https://redd.it/q3xrgj), [2](https://github.com/moktavizen/material-darker-jdownloader/) / [Dracula Theme](https://draculatheme.com/jdownloader2)
 * [Go Speed](https://gopeed.com/) - File Download Manager / [Extension](https://github.com/GopeedLab/browser-extension) / [Plugins](https://github.com/search?q=topic%3Agopeed-extension&type=repositories) / [GitHub](https://github.com/GopeedLab/gopeed)
