@@ -697,7 +697,6 @@
 * [Zooniverse](https://www.zooniverse.org/) - Crowdsourced Research
 * [Clarivate](https://mjl.clarivate.com/) - Research Papers / Publications
 * [Science Hub](https://www.pidantuan.com/) - Research Papers
-* [MyScienceWork](https://www.mysciencework.com/) - Research Papers
 * [Caltech Library](https://authors.library.caltech.edu/) - Research Papers
 * [SciAlert](https://scialert.net/) - Research Papers
 * [Springer](https://www.springer.com/) - Research Papers
