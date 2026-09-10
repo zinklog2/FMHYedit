@@ -162,7 +162,6 @@
 * [MSX Resource Center](https://www.msx.org/) - MSX Games
 * [Generation MSX](https://www.generation-msx.nl/) - MSX Games
 * [SpectrumComputing](https://spectrumcomputing.co.uk/) - Sinclair ZX Spectrum Games
-* [GamesNostalgia](https://gamesnostalgia.com/) - Commodore 64 Games
 * [whdload](https://www.whdload.de/) - Amiga Games
 
 ***
@@ -959,7 +958,8 @@
 * 🌐 **[⁠drifted](https://www.drifted.com/)** - Drifting-Focused Browser Games
 * ⭐ **[Mario Kart PC](https://mkpc.malahieude.net/mariokart.php)** - Browser SNES Style Mario Kart / Multiplayer / [Custom Maps](https://mkpc.malahieude.net/creations.php)
 * ⭐ **[Slope Plus](https://coweggs.itch.io/slope-plus)** - Downhill Ball Game
-* [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks
+* [Simpsons: Hit & Run Web](https://rentry.co/FMHYB64#tshr) - Browser Simpsons: Hit & Run
+* [⁠PolyTrack](http://kodub.com/apps/polytrack) - TrackMania Inspired Browser Game w/ Community Tracks / [Track Codes / Sharing](https://www.polytrackcodes.com/)
 * [racing-game](https://racing.pmnd.rs/) - Driving Game / Requires Sign-Up / [Discord](https://discord.gg/dQW7fDmaAG) / [GitHub](https://github.com/pmndrs/racing-game)
 * [The Race](https://therace.montblanclegend.com/), [2](https://therace.montblancexplorer.com/) - Driving Game
 * [⁠Swervle](https://swervle.com/) - Daily Racing Game / [Discord](https://discord.com/invite/sSP8ZEJ9Pn)
@@ -1063,9 +1063,10 @@
 * ⭐ **[GuessTheGame](https://guessthe.game/)** or [Gamedle](https://www.gamedle.wtf/) - Game Guessing Games
 * [The Impossible Quiz](https://www.newgrounds.com/portal/view/365143) - Classic Quiz Browser Game 
 * [TriviaDuel](https://www.triviaduel.com/), [Fun Trivia](https://www.funtrivia.com/), [Sporcle](https://www.sporcle.com/), [uQuiz](https://uquiz.com/), [ARealMe](https://www.arealme.com/) or [JetPunk](https://www.jetpunk.com/) - Quiz / Trivia
+* [⁠Protobowl](https://protobowl.com/) - Multiplayer Quiz Bowl Sessions
 * [The Re-Ride](https://thereri.de/) - You Don't Know Jack: The Ride Remake / [Discord](https://discord.com/invite/89sgMHnDRB)
 * [Salty Trivia](https://haitouch.itch.io/salty-trivia) - Comedy Style Trivia Game / [Discord](https://discord.gg/95JWgy9gue)
-* [Online Jeopardy](https://jeopardy.app) - Online Multiplayer Jeopardy / [GitHub](https://github.com/howardchung/jeopardy)
+* [Online Jeopardy](https://jeopardy.app) - Multiplayer Jeopardy / [GitHub](https://github.com/howardchung/jeopardy)
 * [FlightGuesser](https://flightguesser.com/) - Flight Path Guessing Game
 * [Akinator](https://en.akinator.com/) - 20 Questions
 * [⁠GuessMe](https://guessme.io/) - Majority Answers Guessing Game / [Discord](https://discord.gg/U9YbWWBJn5)

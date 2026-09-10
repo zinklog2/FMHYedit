@@ -1305,6 +1305,7 @@
 
 * [BookFinder](https://bookfinder.com/) - Online Book Price Comparisons
 * [⁠r/ebookdeals](https://www.reddit.com/r/ebookdeals/) - Book Deal Tracking Subreddit 
+* [⁠Kobo Price Tracker](https://bookpricetracker.com/) - Book Price Tracker 
 * [CheapCharts Books](https://www.cheapcharts.com/us/itunes/ebooks/on-sale) - Book Deal Tracking
 * [CheapCharts Audiobooks](https://www.cheapcharts.com/us/itunes/audiobooks/on-sale) - Audiobook Deal Tracking
 * [eReaderIQ](https://www.ereaderiq.com/) - Kindle Book Price Comparisons

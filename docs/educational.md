@@ -463,7 +463,7 @@
 * [Planet Globe](https://nbremer.github.io/planet-globe/) - Virtual Globes
 * [Sky Calendar](https://www.skycalendar.com/skycal/calendar) - Astronomy Calendar
 * [Nights on Earth](https://nightsonearth.com/) - Astronomical Event Calendar
-* [Space Weather News](https://spaceweathernews.com/), [SolarHam](https://solarham.com/) or [SpaceWeather](https://spaceweather.com/) - Space Weather Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
+* [Space Weather News](https://spaceweathernews.com/), [SolarHam](https://solarham.com/), [⁠Space Weather (gov)](https://www.spaceweather.gov/) or [SpaceWeather](https://spaceweather.com/) - Space Weather News & Updates / [Videos](https://www.youtube.com/user/Suspicious0bservers)
 * [SunCalc](https://www.suncalc.org/), [ShadeMap](https://shademap.app/) or [MoonCalc](https://www.mooncalc.org/) - Sun / Moon Position
 * [Earth and Moon Viewer](https://www.fourmilab.ch/cgi-bin/Earth) - Earth / Moon Latitude and Longitude Viewer
 * [SDO Dashboard](https://sdo.gsfc.nasa.gov/data/dashboard/) - Live Sun Feed
@@ -1065,7 +1065,7 @@
 
 ## ▷ Multi-Language
 
-* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
+* 🌐 **[Language Links](https://docs.google.com/spreadsheets/d/1EGPFLFJdyKGKjh8LXXA099ddf1yB6ZQgr_mmtBnYCy8)**, [LibreTexts Languages](https://human.libretexts.org/Bookshelves/Languages), [/int/ Guide](https://4chanint.miraheze.org/), [⁠MondeLibrary](https://library.mondecast.com/?price=free), [⁠Language Link Database](https://universeofmemory.com/language-links-database/) or [r/LanguageLearning Resources](https://www.reddit.com/r/languagelearning/wiki/resources/) - Language Learning Resources
 * 🌐 **[Speechling](https://speechling.com/tools)** - Language Learning Tools
 * 🌐 **[LexiLogos](https://www.lexilogos.com/english/index.htm)** or [Dictionary Index](https://lyricstranslate.com/en/resources) - Language Dictionary Indexes
 * 🌐 **[Talking Dictionaries](https://talkingdictionary.swarthmore.edu/)** - Endangered Language Dictionary Index

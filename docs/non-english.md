@@ -982,6 +982,7 @@
 
 * [kakao](https://page.kakao.com/) - Manga
 * [MangaViewAndroid](https://junheah.github.io/MangaViewAndroid/) - Manga
+* [GoodToon](https://www.goodtoon003.com/) - Manhua / [Telegram](https://t.me/goodtoon_url)
 * [Namu Wiki](https://namu.wiki/w/나무위키:대문) - Korean Wiki
 
 ***
