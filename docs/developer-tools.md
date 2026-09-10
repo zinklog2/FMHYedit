@@ -295,7 +295,6 @@
 * [Bruno](https://www.usebruno.com/) - API Testing Client
 * [ReDoc](https://redocly.github.io/redoc/) - Generate API Documentation
 * [{JSON} Placeholder](https://jsonplaceholder.typicode.com/), [jsoning](https://jsoning.com/api/) or [WireMmock Cloud](https://www.wiremock.io/) - Mock APIs
-* [InstantAPIs](https://github.com/csharpfritz/InstantAPIs) - API Endpoint Generator
 * [Stein](https://steinhq.com/) - Turn Google Sheets into Database API
 * [Userdoccers](https://docs.discord.food/) - Unofficial Discord API Documentation
 * [discord-api-libs](https://github.com/Apacheli/discord-api-libs) - Community Libraries for Discord API
@@ -493,7 +492,6 @@
 * [FireNVim](https://github.com/glacambre/firenvim) - Neovim in Browser
 * [neovide](https://neovide.dev), [gnvim](https://github.com/vhakulinen/gnvim), [nvui](https://github.com/rohit-px2/nvui), [Neovim wiki##gui](https://github.com/neovim/neovim/wiki/Related-projects##gui) - Neovim GUIs
 * [instant.nvim](https://github.com/jbyuki/instant.nvim) - Collaborative Neovim Editing
-* [chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - ChatGPT in Neovim
 * [Vim Plug](https://github.com/junegunn/vim-plug), [vim-pathogen](https://www.vim.org/scripts/script.php?script_id=2332) / [GitHub](https://github.com/tpope/vim-pathogen) or [Dein](https://github.com/Shougo/dein.vim) - Vim Plugin Managers
 * [VimAwesome](https://vimawesome.com/) - Vim Plugins
 * [nerdtree](https://github.com/preservim/nerdtree) - Vim Tree Explorer
@@ -609,7 +607,6 @@
 * [Learn X in Y minutes](https://learnxinyminutes.com/) - Programming Language Rundowns / [GitHub](https://github.com/adambard/learnxinyminutes-docs)
 * [OneLang](https://ide.onelang.io/) - Convert Code to Multiple Languages
 * [Crystalline](https://github.com/elbywan/crystalline) - Crystal Language Server
-* [icr](https://github.com/crystal-community/icr) - REPL for Crystal
 * [explaine.rs](https://jrvidal.github.io/explaine.rs/) - Rust Syntax Explanations
 * [⁠Verus](https://github.com/verus-lang/verus) - Rust Code Verification Tool 
 
@@ -920,7 +917,7 @@
 * [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
 * [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
 * [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
-* [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [Placeholdifier](https://github.com/pomber/placeholdifier), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
+* [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
 * [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Anime.js](https://github.com/juliangarnier/anime), [⁠Lottie Creator](https://creator.lottiefiles.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/) / [X](https://www.x.com/greensock) / [Discord](https://gsap.com/discord/) / [GitHub](https://github.com/greensock/GreenSock-JS), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
@@ -1153,7 +1150,6 @@
 
 * 🌐 **[Awesome Cyber Security](https://github.com/fabionoth/awesome-cyber-security)** - Cybersecurity Resources
 * 🌐 **[Awesome CI/CD Security](https://github.com/myugan/awesome-cicd-security)** - CI/CD Security Resources
-* 🌐 **[Awesome GPT Agents](https://github.com/fr0gger/Awesome-GPT-Agents)** - Cybersecurity GPT Agent Index
 * ↪️ **[Cybersecurity Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_cybersecurity)**
 * [Advisory Database](https://github.com/github/advisory-database), [ThreatFox](https://threatfox.abuse.ch/), [Exploit DB](https://www.exploit-db.com/) or [Att&ck](https://attack.mitre.org/) - Cybersecurity Defense Databases
 * [Bazaar](https://bazaar.abuse.ch/), [MalShare](https://malshare.com/), [URLhaus](https://urlhaus.abuse.ch/), [PulseDive](https://pulsedive.com/) or [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/) - Malware Search / Indexes
@@ -1161,7 +1157,6 @@
 * [Rawsec's CyberSecurity Inventory](https://inventory.raw.pm/) - Cybersecurity Resources
 * [CybersecResources](https://www.cybersources.site/) - Cybersecurity Resources / [GitHub](https://github.com/bst04/cybersources)
 * [Awesome List](https://github.com/0xor0ne/awesome-list) - Cybersecurity Resources
-* [Cybersecurity-Resources](https://github.com/Nickyie/Cybersecurity-Resources) - Cybersecurity Resources
 * [Infosec Resources](https://github.com/stong/infosec-resources) - Cybersecurity Resources
 * [CyberSecTools](https://cybersectools.com/) - Cybersecurity Resources
 * [My Infosec Awesome](https://github.com/pe3zx/my-infosec-awesome) - Infosec Resources
@@ -1232,7 +1227,7 @@
 
 ## ▷ Reverse Engineering
 
-* 🌐 **[Reverse Engineering Resources](https://github.com/wtsxDev/reverse-engineering)**, [⁠Reverse Engineering Notes](https://gist.github.com/0xdevalias/d8b743efb82c0e9406fc69da0d6c6581) or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
+* 🌐 [⁠Reverse Engineering Notes](https://gist.github.com/0xdevalias/d8b743efb82c0e9406fc69da0d6c6581) or [ReversingBits](https://mohitmishra786.github.io/reversingBits/) / [GitHub](https://github.com/mohitmishra786/reversingBits) - Reverse Engineering Resources
 * 🌐 **[Awesome Android Reverse Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering)** - Android Reverse Engineering Resources
 * 🌐 **[Awesome Malware Analysis](https://github.com/rshipp/awesome-malware-analysis)** - Malware Analysis Resources
 * ⭐ **[IDA Pro](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/torrent/)** (search) - Software Disassembler / Decompiler / [Plugins](https://plugins.hex-rays.com/)

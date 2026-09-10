@@ -942,7 +942,7 @@
 ## ▷ Manga Tracking / Databases
 
 * ⭐ **[MAL](https://myanimelist.net/)** - Manga / Light Novels / Tracking / Database / Reviews / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_myanimelist_tools)
-* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail)
+* ⭐ **[Anilist](https://anilist.co/)** - Manga / Light Novels / Manhwa / Manhua / Tracking / Database / Reviews / [Extras](https://greasyfork.org/en/scripts/370473-automail)
 * ⭐ **[MangaBaka](https://mangabaka.org/)** - Multi-Site Aggregator for Manga / Manhwa / Manhua / OEL / Light Novels w/ Tracking & Database / [Discord](https://mangabaka.org/discord)
 * ⭐ **[Novel Updates](https://www.novelupdates.com/)** or [⁠RanobeDB](https://ranobedb.org/) - Light Novel Tracking / Databases
 * [MangaUpdates](https://www.mangaupdates.com/) - Manga Tracking

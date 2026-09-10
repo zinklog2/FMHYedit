@@ -153,7 +153,6 @@
 * [Emoji Engine](https://www.emojiengine.com/) - Multilingual Emoji Search
 * [EmojiRequests](https://emojirequest.com/) - Custom User-Made Emojis
 * [Cult of the Party Parrot](https://cultofthepartyparrot.com/) - Party Parrot Emojis
-* [Pepe Server Archive](https://github.com/Overimagine1/pepe-server-archive) - Pepe Emojis
 * [Emojify](https://madelinemiller.dev/apps/emojify/) - Emojify Text
 
 ***
@@ -233,7 +232,7 @@
 * [Flotes](https://flotes.app/) - Markdown Note-Taking / Web / [Discord](https://discord.gg/uARTASUtX2)
 * [QOwnNotes](https://www.qownnotes.org/) - Markdown Note-Taking / Windows, macOS, Linux / [Telegram](https://t.me/QOwnNotes) / [GitHub](https://github.com/pbek/QOwnNotes)
 * [vNote](https://github.com/vnotex/vnote) - Markdown Note-Taking / Windows, macOS, Linux
-* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://codeberg.org/ArkHost/HelixNotes)
+* [HelixNotes](https://helixnotes.com/) - Markdown Note-Taking / All Platforms / [Discord](https://discord.gg/V7HYtShrB7) / [Source Code](https://gitlab.com/ArkHost/HelixNotes)
 * [neutriNote](https://github.com/appml/neutrinote) - Markdown Note-Taking / Android
 * [Quillpad](https://quillpad.github.io/) - Markdown Note-Taking / Android / [GitHub](https://github.com/quillpad/quillpad)
 * [OneNote](https://play.google.com/store/apps/details?id=com.microsoft.office.onenote&hl=en-us) - Markdown Note-Taking / Math Support / Android

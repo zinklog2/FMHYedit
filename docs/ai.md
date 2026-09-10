@@ -213,7 +213,7 @@
 * [Mage](https://www.mage.space/) / [Discord](https://discord.com/invite/GT9bPgxyFP), [⁠Tater AI](https://taterai.github.io/Text2Image-Generator.html), [Loras](https://www.loras.dev/) / [X](https://x.com/tater_ai) / [GitHub](https://github.com/Nutlope/loras-dev), [AI Gallery](https://aigallery.app/) / [Telegram](https://t.me/aigalleryapp), or [Art Genie](https://artgenie.pages.dev/) - Flux Schnell
 * [⁠Coze](https://space.coze.cn/) - Seadream 4.0 / 50 Daily / Sign-Up with Phone # / US Select CA
 * [Diffusers Image Outpaint](https://huggingface.co/spaces/fffiloni/diffusers-image-outpaint) - AI Image Extender / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
-* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Shap-e](https://github.com/openai/shap-e), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
+* [Genie](https://lumalabs.ai/genie) / [Discord](https://discord.com/invite/ASbS3EykXm), [Stable Dreamfusion](https://github.com/ashawkey/stable-dreamfusion) or [threestudio](https://github.com/threestudio-project/threestudio) / [Colab](https://colab.research.google.com/github/threestudio-project/threestudio/blob/main/threestudio.ipynb) / [Discord](https://discord.gg/ejer2MAB8N) - 3D Image Generators
 * [Interactive Scenes](https://lumalabs.ai/interactive-scenes) - Generate Interactive Scenes / [Discord](https://discord.com/invite/ASbS3EykXm)
 * [Illusion Diffusion](https://huggingface.co/spaces/AP123/IllusionDiffusion) - Illusion Artwork Generator / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 
@@ -229,12 +229,10 @@
 * ⭐ **[Mochi Diffusion](https://github.com/MochiDiffusion/MochiDiffusion)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/x2kartzxGv)
 * ⭐ **[DiffusionBee](https://diffusionbee.com/)** - Stable Diffusion for Mac / [Discord](https://discord.com/invite/t6rC5RaJQn) / [GitHub](https://github.com/divamgupta/diffusionbee-stable-diffusion-ui)
 * ⭐ **[⁠Amuse](https://github.com/saddam213/AmuseAI)** - Stable Diffusion / [X](https://x.com/Amuse_AI)
-* [SDNext](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/Coyote-A/ultimate-upscale-for-automatic1111), [2](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
-* [StableStudio](https://github.com/Stability-AI/StableStudio)
+* [SDNext](https://github.com/vladmandic/sdnext) / [Colab](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Online-Services#google-colab) / [Templates](https://github.com/ThereforeGames/unprompted) / [Upscaling](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111)
 * [Easy Diffusion](https://easydiffusion.github.io/) / [Discord](https://discord.com/invite/u9yhsFmEkB) / [GitHub](https://github.com/easydiffusion/easydiffusion)
 * [Makeayo](https://makeayo.com) / [Discord](https://discord.gg/FbdSxdeV8m)
 * [biniou](https://github.com/Woolverine94/biniou)
-* [Dione](https://github.com/dioneapp/dioneapp)
 * [Sygil WebUI](https://sygil-dev.github.io/sygil-webui/) / [Colab](https://colab.research.google.com/github/Sygil-Dev/sygil-webui/blob/main/Web_based_UI_for_Stable_Diffusion_colab.ipynb) / [Discord](https://discord.com/invite/ttM8Tm6wge) / [GitHub](https://github.com/Sygil-Dev/sygil-webui)
 * [Radiata](https://ddpn08.github.io/Radiata/en/)
 * [SD WebUI Forge](https://github.com/lllyasviel/stable-diffusion-webui-forge)
@@ -297,7 +295,6 @@
 * [Google Speech Gen](https://aistudio.google.com/generate-speech)
 * [TTS-WebUI](https://ttswebui.com/) / No Sign-Up / [Colab](https://colab.research.google.com/github/rsxdalv/tts-webui/blob/main/notebooks/google_colab.ipynb) / [Discord](https://discord.gg/V8BKTVRtJ9) / [GitHub](https://github.com/rsxdalv/TTS-WebUI)
 * [FakeYou](https://fakeyou.com/) / No Sign-Up / [Discord](https://discord.gg/fakeyou)
-* [Bark](https://github.com/suno-ai/bark) / No Sign-Up / [Colab](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing) / [Discord](https://discord.com/invite/J2B2vsjKuE) / [Limits](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/hugging-face-warning.md)
 * [OpenAI.fm](https://www.openai.fm/) / No Sign-Up / OpenAI's Bot
 * [⁠GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) / No Sign-Up
 * [Kyutai TTS](https://kyutai.org/next/tts) / No Sign-Up

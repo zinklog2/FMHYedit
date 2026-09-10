@@ -287,7 +287,7 @@
 * [CText](https://ctext.org/), [ChineseNotes](https://chinesenotes.com/) or [quanxue](https://www.quanxue.cn/) - Chinese Historic Text Archives
 * [guoxue](http://www.guoxue.com/) - History / Journals
 * [NG Tech](https://ng-tech.icu/) - Documents
-* [ebooks](https://github.com/XWHQSJ/ebooks) or [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) - Programming Books
+* [Chinese Programming Books](https://github.com/justjavac/free-programming-books-zh_CN) - Programming Books
 * [kangxizidian](https://kangxizidian.com/) - Chinese Kangxi Dictionary
 * [Shufazidian](https://www.shufazidian.com/) - Chinese Calligraphy Dictionary
 * [owlook](https://www.owlook.com.cn/) - Chinese Web Novel Search / [GitHub](https://github.com/howie6879/owllook)

@@ -236,7 +236,7 @@
 
 ## Manga Downloaders
 
-[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangadesk](https://github.com/darylhjd/mangadesk), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
+[Comics Downloader](https://github.com/Girbons/comics-downloader), [Comic-DL](https://github.com/Xonshiz/comic-dl), [work_crawler](https://github.com/kanasimi/work_crawler/blob/master/document/README.en-US.md), [HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader), [FMD2](https://github.com/dazedcat19/FMD2), [mangodl](https://github.com/liamtoaldo/mangodl), [anime-dl](https://github.com/vrienstudios/anime-dl)
 
 ***
 
@@ -271,7 +271,7 @@
 
 ### AniList Tools
 
-[Multiple Tools](https://due.moe/tools) / [Desktop](https://github.com/CosmicPredator/AniMoe) / [Wrapper](https://github.com/AurelicButter/AniList-Node) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
+[Multiple Tools](https://due.moe/tools) / [Desktop](https://github.com/CosmicPredator/AniMoe) / [Extras](https://greasyfork.org/en/scripts/370473-automail) / [List Comparison / Migration](https://animelistdiff.zerolabs.fyi/) / [MPV Sync](https://github.com/hotsno/keroro) / [Tier Lists](https://www.gomitier.tech/)
 
 ***
 
