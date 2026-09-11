@@ -17,7 +17,6 @@
 * ⭐ **[Wotaku](https://wotaku.wiki/)** - Otaku Index / [Discord](https://discord.gg/vShRGx8ZBC)
 * ⭐ **[EverythingMoe](https://everythingmoe.com/)**, [2](https://everythingmoe.org/) - Otaku Media Index / [Subreddit](https://www.reddit.com/r/everythingmoe/) / [Discord](https://discord.gg/GuueaDgKdS)
 * ⭐ **[The Index](https://theindex.moe)** - Japanese Site Index / Bookmarking Site / [Wiki](https://thewiki.moe/) / [Discord](https://discord.gg/Snackbox)
-* ⭐ **[Dan's Guides](https://rentry.co/danxyz7)** - List of Guides by Dan
 * ⭐ **[Awesome Search](https://awesomelists.calvinjeng.io/)** - Awesome List Search
 * ⭐ **[Couleur Tweak Tips](https://ctt.cx/)** - Comprehensive Hub of Resources and Tools / [Discord](https://discord.gg/CTT)
 * ⭐ **[r/InternetIsBeautiful](https://reddit.com/r/InternetIsBeautiful)** - Helpful / Fun Sites
@@ -219,8 +218,8 @@
 
 ## ▷ Drinks
 
-* ⭐ **[/coffee/](https://rentry.co/coffeeguide)** or [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * ⭐ **[Beanconqueror](https://beanconqueror.com/)** / [GitHub](https://github.com/graphefruit/Beanconqueror) or [Timer.Coffee](https://www.timer.coffee) / [GitHub](https://github.com/antonkarliner/timer-coffee) - Coffee Tracking Apps / Timers
+* [Coffee Time General](https://pastebin.com/UEzwuyLz) - Coffee Brewing Masterlists / Guides
 * [Cofi](https://github.com/rozPierog/Cofi) - Coffee Brew Timer / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/cofi-note.md)
 * [Brew Great Coffee](https://www.brewgreat.coffee/) - Espresso / Pour-Over Brewing Tools + Tips
 * [The Minimal Pour](https://theminimalpour.com/) - Pour-Over Coffee Calculator
