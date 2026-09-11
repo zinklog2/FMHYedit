@@ -359,7 +359,7 @@
 * [AnimeStream](https://anime.uniquestream.net/) - Sub / 720p
 * [⁠Anime Nexus](https://anime.nexus/) - Sub / Dub
 * [LuffyTV](https://luffytv.live/), [2](https://luffytv.online/) - Sub / Dub / [Discord](https://discord.gg/SdFB3HxDH5)
-* [⁠AniChan](https://anichan.net/) - Sub / Dub / [Discord](https://discord.gg/U5FK7CTre)
+* [⁠AniChan](https://anichan.to/) - Sub / Dub / [Discord](https://discord.gg/U5FK7CTre)
 * [AnimeParadise](https://www.animeparadise.moe/) - Sub / Dub / [Discord](https://discord.com/invite/q3N6eWMMNP)
 * [AnimeDex](https://animedex.fun/) - Sub / Dub
 * [Anify](https://anify.to/) - Sub / Dub
@@ -720,7 +720,7 @@
 * ↪️ **[Free w/ Ads Streaming](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video#wiki_.25B7_free_w.2F_ads)**
 * ⭐ **[TizenTube](https://tizentube.app/)** - Ad-Free Samsung Smart TV YouTube / [Setup Guide](https://www.notion.so/TizenBrew-Guide-30437864d8618033bb03e818e894fd5c) / [Discord](https://discord.gg/m2P7v8Y2qR) / [GitHub](https://github.com/reisxd/TizenTube), [2](https://github.com/reisxd/TizenBrew)
 * ⭐ **[webOS Homebrew](https://www.webosbrew.org/)** - LG TV Homebrew / Ad-Free YouTube + Twitch / [Guide](https://wispydocs.pages.dev/lg-tv-homebrew/) / [Discord](https://discord.gg/xWqRVEm) / [GitHub](https://github.com/webosbrew/)
-* ⭐ **[Nuvio](https://github.com/NuvioMedia/NuvioWeb#install)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/), [2](https://numb3rs.stream/) / [Discord](https://discord.gg/KVgDTjhA4H), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
+* ⭐ **[Nuvio](https://nuvio.tv/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools) / [Plugins](https://nuvio-plugin-library.vercel.app/) / [Wiki / Guides](https://nuvio.wiki/), [2](https://numb3rs.stream/) / [Discord](https://discord.gg/KVgDTjhA4H) / [GitHub](https://github.com/NuvioMedia/NuvioWeb#install), **[Stremio](https://www.stremio.com/)** / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video/#wiki_.25B7_stremio_tools), [WuPlay](https://github.com/wuplayapp/wuplay-releases) or [⁠RealStream](https://rstream.app/) / [Discord](https://discord.gg/jnDyHEkcZu) - Streaming App / Stremio Support
 * [SamsungTVPlus](https://www.samsungtvplus.com/) - Streaming App
 * [⁠Jellyfin Tizen](https://github.com/jellyfin/jellyfin-tizen) (search appstore) - Media Server / Streaming App
 * [Kodi](https://kodi.tv/) - Media Server / Streaming App
