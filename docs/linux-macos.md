@@ -52,7 +52,7 @@
 * [Linux x Technology](https://linuxdiscord.com/) - Linux Discord Server
 * [⁠Neon Genesis Linux](https://discord.gg/nglinux) - Linux Discord Server
 * [Discord-Linux](https://discord.gg/discord-linux) - Linux Discord Server
-* [Arch Linux Community](https://discord.gg/3m6dbPR) - Arch Discord Server
+* [Arch Linux Community](https://discord.gg/3m6dbPR) - Arch Discord Server / [Fluxer](https://fluxer.gg/mb4B39fZ)
 * [Debian Community](https://discord.gg/debian) or [r/debian](https://www.reddit.com/r/debian/) - Debian Discord Server + Subreddit / [Fluxer](https://fluxer.gg/debian)
 * [Linux.org](https://linux.org/) - Linux Forum / Invite Required for Account
 * [Arch Forums](https://bbs.archlinux.org/) - Linux Forum
@@ -144,7 +144,7 @@
 * [SnapCraft](https://snapcraft.io/store) - Snap Repository
 * [Nix](https://nixos.org/) / [Resources](https://github.com/nix-community/awesome-nix), [⁠Shelly](https://www.seafoam-labs.org/shelly-alpm), [pkgx](https://github.com/pkgxdev/pkgx) or [Homebrew](https://brew.sh/) - Package Managers
 * [Nala](https://gitlab.com/volian/nala), [apt-fast](https://github.com/ilikenwf/apt-fast) or [APTUI](https://github.com/mexirica/aptui) - TUI Frontends for APT Package Manager
-* [Zap](https://zap.srev.in) / [GitHub](https://github.com/srevinsaju/zap) or [AM](https://github.com/ivan-hc/AM) - App Image Managers
+* [AM](https://github.com/ivan-hc/AM) - App Image Managers
 * [Pkgs](https://pkgs.org/) or [Repology](https://repology.org/) - Searchable Linux Package Database
 * [AppImageHub](https://www.appimagehub.com/) / [GUI](https://github.com/prateekmedia/appimagepool), [AppImages](https://appimage.github.io/) or [Get AppImage](https://g.srev.in/get-appimage/) - Download AppImages
 * [Apps for GNOME](https://apps.gnome.org/) - GNOME Apps
@@ -176,7 +176,6 @@
 * [pacwall](https://github.com/Kharacternyk/pacwall) - Live Wallpaper Dependency Graph / Package Status
 * [keyd](https://github.com/rvaiya/keyd) or [xremap](https://github.com/xremap/xremap) - Keyboard Remapping
 * [LAN Mouse](https://github.com/feschber/lan-mouse) - Mouse & Keyboard Sharing
-* [Input Leap](https://github.com/input-leap/input-leap) - Multi-Computer Control
 * [auto-cpufreq](https://github.com/AdnanHodzic/auto-cpufreq) - CPU Speed & Power Optimization Automation
 * [Fan Control](https://github.com/wiiznokes/fan-control) - Fan Controller
 * [⁠WinApps](https://github.com/winapps-org/winapps) - Run Windows Apps on Linux
@@ -271,7 +270,6 @@
 * [lsix](https://github.com/hackerb9/lsix) - View Images in Terminal
 * [Upscaler](https://gitlab.gnome.org/World/Upscaler) - Image Upscaler
 * [Trimage](https://trimage.org/) or [Curtail](https://github.com/Huluti/Curtail) - Image Compressor
-* [MkPosters](https://github.com/patrick-kidger/mkposters) - Turn Markdown Files into Posters
 * [Rapid](https://damonlynch.net/rapid/) - Quick Linux Photo Importer
 
 ***
@@ -351,7 +349,6 @@
 * ⭐ **[Arch Security Wiki](https://wiki.archlinux.org/title/Security)**, [Linux Hardening](https://vez.mrsk.me/linux-hardening.html) / [2](https://madaidans-insecurities.github.io/guides/linux-hardening.html) or [How to Secure a Linux Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - Linux Security Guides
 * ⭐ **[CryptSetup](https://gitlab.com/cryptsetup/cryptsetup)**, [gocryptfs](https://nuetzlich.net/gocryptfs) / [GitHub](https://github.com/rfjakob/gocryptfs) or [Tomb](https://dyne.org/software/tomb/) - File Encryption
 * [Securely Wipe Disk](https://wiki.archlinux.org/title/Securely_wipe_disk) or [SSD Memory Cell Clearing](https://wiki.archlinux.org/title/Solid_state_drive/Memory_cell_clearing) - Linux Disk Wipe Guides
-* [JShielder](https://github.com/Jsitech/JShielder) - Hardening Script for Linux Servers
 * [Lynis](https://github.com/CISOfy/lynis) - Linux Security Auditing Tool
 * [Mistborn](https://gitlab.com/cyber5k/mistborn) - Manage Cloud Security Apps
 * [OpenSnitch](https://github.com/evilsocket/opensnitch) or [gufw](https://github.com/costales/gufw) - Linux Firewalls
@@ -592,7 +589,7 @@
 * [⁠tint](https://github.com/ashish0kumar/tint) - Recolor Wallpapers for System Scheme / [GUI](https://github.com/lighttigerXIV/catppuccinifier)
 * [Polychromatic](https://polychromatic.app/) or [OpenRazer](https://openrazer.github.io/) - Linux System Light Control
 * [Burn My Windows](https://github.com/Schneegans/Burn-My-Windows) - Window Closing Effects
-* [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) / [2](https://github.com/stark/Color-Scripts) - Custom Terminal Themes
+* [theme.sh](https://github.com/lemnos/theme.sh), [NotCurses](https://github.com/dankamongmen/notcurses) / [Wiki](https://nick-black.com/dankwiki/index.php/Notcurses) or [Shell Color Scripts](https://gitlab.com/dwt1/shell-color-scripts) - Custom Terminal Themes
 
 ***
 
@@ -628,7 +625,6 @@
 * [MacBing](https://goodsnooze.gumroad.com/l/macbing), [LlamaChat](https://www.llamachat.app/), [Osaurus](https://osaurus.ai/) / [GitHub](https://github.com/osaurus-ai/osaurus), [⁠Atomic Chat](https://atomic.chat/) or [Mollama](https://apps.apple.com/app/mollama/id6736948278) - AI Chatbots
 * [CodexBar](https://codexbar.app/) - Menu Bar AI Limit Tracker / [GitHub](https://github.com/steipete/CodexBar)
 * [ViennaRSS](https://www.vienna-rss.com/) - RSS Feed Reader
-* [Tachidesk-Sorayomi](https://github.com/Suwayomi/Tachidesk-Sorayomi) - Manga Reader / [Extensions](https://keiyoushi.github.io/extensions/), [2](https://discord.gg/3FbCpdKbdY), [3](https://yuzono.github.io/)
 * [Dialect](https://github.com/dialect-app/dialect) - Translator
 * [Drafts](https://getdrafts.com/), [CotEditor](https://coteditor.com/), [TextMate](https://macromates.com/), [Nebo](https://apps.apple.com/us/app/nebo-notes-pdf-annotations/id1119601770), [Strflow](https://strflow.app/), [⁠NotesPlus](https://www.notesplus.com/), [Voodoopad](https://www.voodoopad.com/), [Kyun](https://github.com/lennart-finke/kyun) or [Notenik](https://notenik.app/) - Text Editors / Notes
 * [Clearly](https://clearly.md/) - Markdown Editor / [GitHub](https://github.com/Shpigford/clearly)
@@ -649,7 +645,6 @@
 * [Hachidori](https://malupdaterosx.moe/hachidori/) - Automatically Update MAL / Anilist / Kitsu Lists
 * [Magit!](https://magit.vc/) - Git Text-Based UI
 * [ProperTree](https://github.com/corpnewt/ProperTree) - GUI Plist Editor
-* [NHCalc](https://github.com/KhaosT/nhcalc) - Compute Image NeuralHash
 * [Does It Arm?](https://doesitarm.com/) - Apple Silicon App Compatibility Chart
 * [SelfControlApp](https://selfcontrolapp.com/) - Website Blocker
 * [Typist](https://apps.apple.com/us/app/typist/id415166115?ign-mpt=uo%3D4&mt=12) - Typing Practice
