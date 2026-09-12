@@ -310,7 +310,7 @@
 * [Dim](https://github.com/Dusk-Labs/dim) - Media Server
 * [Kyoo](https://github.com/zoriya/Kyoo) - Media Server / [Discord](https://discord.com/invite/E6Apw3aFaA)
 * [Chocolate](https://github.com/ChocolateApp/Chocolate) - Media Server
-* [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
+* [Plezy](https://plezy.app/) / [GitHub](https://github.com/edde746/plezy) or [Plex](https://www.plex.tv/media-server-downloads/) - Media Server / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_plex_tools)
 * [Media-Hoarder](https://github.com/theMK2k/Media-Hoarder) - Media Catalog Frontend
 * [Frames](https://github.com/Eleven-am/frames) - Google Drive Server
 * [HTPC](https://r-htpc.github.io/wiki/) - Home Theater PC guides / [Subreddit](https://www.reddit.com/r/htpc/)

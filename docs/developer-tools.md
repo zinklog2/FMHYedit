@@ -797,7 +797,7 @@
 * [uMap](https://umap-project.org/) - Custom Embeddable Maps for Websites / [GitHub](https://github.com/umap-project/umap/)
 * [Google Map Themes](https://snazzymaps.com/) - Google Map Themes for Web Developers
 * [frp](https://github.com/fatedier/frp), [GoDoxy](https://github.com/yusing/godoxy) or [YARP](https://github.com/dotnet/yarp) - Reverse Proxies
-* [wsrv.nl](https://wsrv.nl/) - Image Caching / Delivery
+* [wsrv.nl](https://wsrv.nl/) or [Images.weserv.nl](https://images.weserv.nl/) - Image Caching / Delivery
 * [WhatPWACanDo](https://whatpwacando.today/) - PWA Examples
 * [PWABuilder](https://www.pwabuilder.com/) - Turn Site into Progressive Web App
 * [Chaos Frontend Toolkit](https://chaos-frontend-toolkit.web.app/) - Break Your Web Apps to Improve Them
