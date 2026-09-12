@@ -972,7 +972,7 @@
 * ⭐	**[Lumbra's Gigabase](https://lumbrasgigabase.com/)** - Cleaned Master Game Database
 * ⭐	**[OpeningTree](https://www.openingtree.com/)** - Opening Repertoire Tree & Scouting Tool for Lichess & Chess.com
 * [Maia Chess](https://www.maiachess.com/) - Human-Like AI Training Opponent & Blunder Modeling
-* [Listudy](https://listudy.org/en) -  Spaced Repetition Openings, Blind Tactics & Endgames
+* [Listudy](https://listudy.org/en) - Spaced Repetition Openings, Blind Tactics & Endgames
 * [Blitz Tactics](https://blitztactics.com/) - Fast-Paced Chess Puzzle Training
 * [Tactic or Not](https://tacticornot.com/) - Evaluate Tactics / [Discord](https://discord.gg/2WWgsuZmag)
 * [Shâh Kur](https://shahkur.specr.net/) - Blindfolded Chess Practice
