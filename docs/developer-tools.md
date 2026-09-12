@@ -853,46 +853,39 @@
 * 🌐 **[Awesome Web Animation](https://awesome-web-animation.netlify.app/)** - Web Animation Resources
 * ↪️ **[Design Resources](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/storage#wiki_design_resources)**, **[Image Design](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/image-tools#wiki_.25BA_design_resources_.2F_ideas)** or [Open Source Design](https://opensourcedesign.net/)
 * ⭐ **[Design Checklist](https://www.checklist.design/)**, [Performance Checklist](https://github.com/thedaviddias/Front-End-Performance-Checklist) or [Front-End Checklist](https://frontendchecklist.io/) - Frontend Development Checklist
-* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** or [Tooplate](https://www.tooplate.com/) - Free HTML Templates
+* ⭐ **[ThemeWagon](https://themewagon.com/theme-price/free/)** - Free HTML Templates
 * ⭐ **[awwwards](https://www.awwwards.com/websites)**, **[Boilerplate](https://html5boilerplate.com/)** or [html5up](https://html5up.net/) - Custom HTML Templates
-* [UI Design Daily](https://www.uidesigndaily.com/), [⁠UI Resources](https://ui-resources.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
-* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Godly Website](https://godly.website/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
+* [UI Design Daily](https://www.uidesigndaily.com/) or [UIVerse](https://uiverse.io/) - Free UI Design Resources
+* [CollectUI](https://collectui.com/), [Hoverstat](https://www.hoverstat.es/), [httpster](https://httpster.net/), [Recent](https://recent.design/), [Websitevice](https://websitevice.com/), [Dribbble](https://dribbble.com/), [ReallyGoodUX](https://goodux.appcues.com/) or [Pageflows](https://pageflows.com/) - UI / Site Design Inspiration
 * [Templatemo](https://www.templatemo.com/) - Free CSS Templates
 * [Repth Themes](https://repth.neocities.org/theme) - Y2K Anime Themes
-* [OpenUI](https://github.com/wandb/openui) - Make UI with AI
-* [Contentdrips](https://contentdrips.com/) or [CreatorKit](https://creatorkit.com/) - Brand Design Tools
-* [SuperNova](https://www.supernova.io/) - Design System Manager
 * ⁠Human Interface Guidelines: [Windows](https://learn.microsoft.com/en-us/windows/apps/design/) / [Gnome](https://developer.gnome.org/hig/) / [KDE](https://develop.kde.org/hig/) / [Apple](https://developer.apple.com/design/human-interface-guidelines) - Interface Guidelines
-* [Storybook](https://storybook.js.org/), [Akira](https://github.com/akiraux/Akira) or [Mockend](https://mockend.com/) - UI Development Tools
+* [Storybook](https://storybook.js.org/) or [Mockend](https://mockend.com/) - UI Development Tools
 * [Open UI](https://open-ui.org/) - Open Standard UI
 * [Same.new](https://same.new/) - Copy Sites User-Interface Code
-* [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
+* [CodeMyUI](https://codemyui.com/) or [Fomantic-UI](https://fomantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
-* [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
+* [favicon.io](https://favicon.io/) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
 * [Icon Horse](https://icon.horse/), [favicon-hash](https://favicon-hash.kmsec.uk/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
-* [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
 * [Emanote](https://emanote.srid.ca/) - Create Sites from Plain-Text Notes / [GitHub](https://github.com/srid/emanote)
-* [Plunker](https://plnkr.co/) or [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
+* [Bloo](https://bloouikit.com/) - Prototype / Test Websites Idea
 * [WebDesignMuseum](https://www.webdesignmuseum.org/) - Website Designs Over Time
-* [Bootstrap](https://getbootstrap.com/) - Mobile Site Creator / [Icons](https://icons.getbootstrap.com/) / [Snippets](https://bootsnipp.com/) / [UI Components](https://mdbootstrap.com/) / [Templates](https://bootswatch.com/), [2](https://bootstraptaste.com/)
 * [PsdRepo](https://psdrepo.com/) - Templates, Mockups, Logos, Videos
 * [Daft Page](https://daftpage.com/) - Landing Page Creator
 * [SaaS Pages](https://saaspages.xyz/), [SaaS Landing Page](https://saaslandingpage.com/) or [lapa](https://www.lapa.ninja/) - Landing Page Templates / Ideas
 * [Zeplin](https://zeplin.io/) - Design Templates / Editor
 * [vite](https://vite.dev/) or [layoutit](https://layoutit.com/) - Frontend Development Tools
-* [Frontend Development](https://github.com/dypsilon/frontend-dev-bookmarks) - Frontend Development Resources
 * [Dembrandt](http://dembrandt.com/) - Extract / Derive Site Design / [GitHub](https://github.com/dembrandt/dembrandt)
 * [the component gallery](https://component.gallery/) - Design Components Gallery
-* [BoxCoding](https://www.avabucks.it/), [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
+* [UI Beats](https://www.uibeats.com/) or [MagicUI](https://magicui.design/) - UI Components
 * [Hydrogen](https://github.com/Shopify/hydrogen) - Online Store Templates
 * [CSS Bed](https://www.cssbed.com/) - Classless CSS Templates / [GitHub](https://github.com/ubershmekel/cssbed)
 * [Beer CSS](https://www.beercss.com/) - Lightweight CSS Framework / [GitHub](https://github.com/beercss/beercss)
-* [RoughAnnotations](https://roughnotation.com/) - Webpage Annotations / Animations
-* [Lorem.space](https://lorem.space/), [dummyimage](https://dummyimage.com/), [PlaceHolder](https://placeholder.pics/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
+* [dummyimage](https://dummyimage.com/) or [PicSum](https://picsum.photos/) - Site Placeholder Images
 * [Visiwig](https://www.visiwig.com/) - Copy / Paste Site Graphics
-* [WebDesigner](https://webdesigner.withgoogle.com/), [T3](https://github.com/tooll3/t3), [Anime.js](https://github.com/juliangarnier/anime), [⁠Lottie Creator](https://creator.lottiefiles.com/), [Theatre.js](https://www.theatrejs.com/) / [GitHub](https://github.com/theatre-js/theatre), [GSAP](https://gsap.com/) / [X](https://www.x.com/greensock) / [Discord](https://gsap.com/discord/) / [GitHub](https://github.com/greensock/GreenSock-JS), [Stylie](https://jeremyckahn.github.io/stylie/), [RenderForest](https://www.renderforest.com) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
+* [T3](https://github.com/tooll3/t3), [⁠Lottie Creator](https://creator.lottiefiles.com/) or [Mantra](https://jeremyckahn.github.io/mantra/) - Create Motion Graphics
 * [NakerApp](https://app.naker.io/back/) - Interactive Background Maker
 * [HTTP Cats](https://http.cat/) - Put Cat Pictures in Your Status Codes
 
