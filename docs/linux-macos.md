@@ -328,7 +328,7 @@
 * [DXVK](https://github.com/doitsujin/dxvk) - Vulkan-Based Direct3D for Linux / Wine
 * [⁠D7VK](https://github.com/WinterSnowfall/d7vk) - Vulkan-Based D3D7/6/5 for Linux / Wine
 * [⁠dxvk-gplasync](https://gitlab.com/Ph42oN/dxvk-gplasync/) or [DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek/) - DXVK Forks w/ Async / Vulkan-Based Direct3D & D3D3-11 / Stutter Reduction
-* [⁠lsfg-vk](https://lsfg-vk.dev/) - Lossless Scaling for Linux / [GitHub](https://github.com/PancakeTAS/lsfg-vk)
+* [⁠lsfg-vk](https://lsfg-vk.dev/) - Lossless Scaling for Linux / [Source Code](https://git.lsfg-vk.dev/lsfg-vk)
 * [vkBasalt](https://github.com/DadSchoorse/vkBasalt) - Game Post Processing Layer
 * [Liquorix](https://liquorix.net/), [Xanmod](https://xanmod.org/) or [Frogging](https://github.com/Frogging-Family/linux-tkg) - Linux Gaming Kernels
 * [Gamemode](https://github.com/FeralInteractive/gamemode) - Linux System Optimizer
@@ -835,11 +835,9 @@
 * [⁠Nigate](https://github.com/hoochanlon/Free-NTFS-for-Mac) - NTFS Drive Read-Write Access + Mounting Tool 
 * [USBMap](https://github.com/corpnewt/USBMap) - Map macOS USB Ports
 * [Actions](https://sindresorhus.com/actions) - Additional Shortcuts App Actions
-* [pock](https://pock.app/) - Touch Bar Widget Manager / [GitHub](https://github.com/pock/pock)
 * [Übersicht](https://tracesof.net/uebersicht/) - System Command Widgets
 * [Itsycal](https://www.mowglii.com/itsycal/) - Menu Bar Calendar
 * [Clocker](https://abhishekbanthia.com/clocker/) or [MeetingBar](https://meetingbar.app/) - Menu Bar Meetings Calendars
-* [xbar](https://xbarapp.com/) - Manage Menu Bar Items / [GitHub](https://github.com/matryer/xbar)
 * [⁠Thaw](https://github.com/thaw-app/Thaw) - Menu Bar Manager
 * [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - Menu Bar Toggle Switches
 * [Sloth](https://github.com/sveinbjornt/Sloth) - Process Manager
@@ -848,7 +846,7 @@
 * [Yabai](https://github.com/koekeishiya/yabai), [Amethyst](https://ianyh.com/amethyst/) / [GitHub](https://github.com/ianyh/Amethyst), [AeroSpace](https://github.com/nikitabobko/AeroSpace), [1Piece](https://app1piece.com/), [Loop](https://github.com/MrKai77/Loop), [Phoenix](https://kasper.github.io/phoenix/) or [Rectangle](https://rectangleapp.com/) - Window Managers
 * [Maccy](https://maccy.app/), [ClipBook](https://clipbook.app/), [ClipPocket](https://github.com/dhahd/ClipPocket) or [clipboard-history](https://github.com/SUPERCILEX/clipboard-history) - Clipboard Managers
 * [Pictogram](https://pictogramapp.com/), [macOSicons](https://macosicons.com/) / [Discord](https://discord.gg/f4mTRyyTkT) or [IconChamp](https://www.macenhance.com/iconchamp.html) - Custom App Icons
-* [Tintd](https://www.tintd.app/) or [Manila](https://github.com/neilsardesai/Manila) - Change Folder Colors
+* [Tintd](https://www.tintd.app/) - Change Folder Colors
 * [MacPaper](https://github.com/naomisphere/macpaper/) - Mac Wallpaper Manager
 * [Dynamic Wallpaper Club](https://dynamicwallpaper.club/) - Dynamic Wallpaper App
 * [wallpapper](https://github.com/mczachurski/wallpapper) or [Equinox](https://equinoxmac.com/) - Dynamic Wallpaper Creators

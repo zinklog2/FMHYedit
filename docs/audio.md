@@ -15,7 +15,7 @@
 * ⭐ **[⁠Limusic](https://simohypers.github.io/limusic/)** - YouTube Music Client
 * [WAVE](https://waveapp.pages.dev/) - YouTube Music Client / FLAC
 * [Pear Desktop](https://github.com/pear-devs/pear-desktop) - YouTube Music Client / [Ad-Block Guide](https://github.com/pear-devs/pear-desktop/issues/4531)
-* [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client
+* [Sonora](https://github.com/nolight132/sonora) -  YouTube Music Client / [Discord](https://discord.gg/a8N8Tx23rV)
 * [BeatBoss](https://beatboss.thevolecitor.qzz.io/) - Cross-Platform Plugin-Based Player / [Web App](https://beatboss-web.thevolecitor.qzz.io/) / [GitHub](https://github.com/TheVolecitor/BeatBoss) / [Discord](https://discord.gg/85jnfZGfV5)
 * [yewtube](https://github.com/mps-youtube/yewtube) - YouTube Music Client
 * [pulse](https://473999.net/pulse) or [Beatsync](https://www.beatsync.gg/) / [GitHub](https://github.com/freeman-jiang/beatsync) - Listen Together / Listening Parties
@@ -541,6 +541,7 @@
 * [MusicRepublic](https://music-republic-world-traditional.blogspot.com/) - World / MP3 / FLAC
 * [⁠Tone and Wave](https://toneandwave.blogspot.com/) - Ska / MP3
 * [madrotter-treasure-hunt](https://madrotter-treasure-hunt.blogspot.com/) - Indonesian Music
+* [⁠Tape Attack](https://tapeattack.blogspot.com/) - European DIY Cassettes
 * [FondSound](https://www.fondsound.com/) - Experimental / MP3
 * [Bootleg Radioclash](https://rentry.co/FMHYB64#bootleg-radioclash) - Mashups / MP3
 * [⁠1000 Flights](https://1000flights.blogspot.com/) - Underground / MP3
@@ -790,7 +791,7 @@
 * [Museeks](https://museeks.io/) - Simple Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/martpie/museeks)
 * [Audacious](https://audacious-media-player.org/) - Lightweight Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/audacious-media-player/audacious)
 * [Strawberry](https://www.strawberrymusicplayer.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/strawberrymusicplayer/strawberry) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/strawberry-note.md)
-* [Sonora](https://github.com/nolight132/sonora) - Audio Player / Subsonic Player / Windows, macOS, Linux
+* [Sonora](https://github.com/nolight132/sonora) - Audio Player / Subsonic Player / Windows, macOS, Linux / [Discord](https://discord.gg/a8N8Tx23rV)
 * [Exaile](https://exaile.org/) - Audio Player / Windows, macOS, Linux / [GitHub](https://github.com/exaile/exaile)
 * [quodlibet](https://github.com/quodlibet/quodlibet/) - Audio Manager & Player / Windows, macOS, Linux
 * [deadbeef](https://deadbeef.sourceforge.io/) - Audio Player / [Plugins](https://deadbeef.sourceforge.io/plugins.html) / Windows, macOS, Linux / [GitHub](https://github.com/DeaDBeeF-Player/deadbeef)

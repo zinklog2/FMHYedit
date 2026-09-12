@@ -164,7 +164,6 @@
 * [CopyChar](https://copychar.cc/)
 * [Unicode Table](https://symbl.cc/)
 * [Asciify Unicode](https://asciify.dev/unicode)
-* [Symbol.so](https://symbol.so/)
 * [Unicode Table](https://www.grogllc.com/unicodetable.html)
 * [Graphemica](https://graphemica.com/)
 * [SymbolSelect](https://www.symbolselect.com/)
