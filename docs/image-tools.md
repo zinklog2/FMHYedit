@@ -627,85 +627,62 @@
 * 🌐 **[Awesome Colab Notebooks](https://github.com/amrzv/awesome-colab-notebooks)** - Image Colab Resources
 * ↪️ **[Color Scheme Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_color_schemes)**
 * ⭐ **[ImgOps](https://imgops.com/)** - Image Operations Meta-Tool
-* ⭐ **[AntiDupl](https://github.com/ermig1979/AntiDupl)** or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
+* ⭐ **[Czkawka](https://github.com/qarmin/czkawka)**, [AntiDupl](https://github.com/ermig1979/AntiDupl) or [cbird](https://github.com/scrubbbbs/cbird) - Duplicate Image Removers
 * ⭐ **[Slowpoke Pics](https://slow.pics/)**, [ICAT](https://www.nvidia.com/en-us/geforce/technologies/icat/) or [Image Comparison Tool](https://jklgit.github.io/Image-Comparison-in-Browser/index.html) - Image Comparisons
 * [odiff](https://github.com/dmtrKovalenko/odiff) - Image Visual Difference Tool
-* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) - Turn Webpages into Image Galleries
+* [Picviewer CE+](https://github.com/hoothin/UserScripts/tree/master/Picviewer%20CE+) or [behind!](https://github.com/kubuzetto/behind) - Turn Webpages into Image Galleries
 * [⁠Universal Sig Rotator](https://sig.grumpybumpers.com/) - Rotates Image for Forum Signatures / Site Banners
 * [Image Color Summarizer](https://mk.bcgsc.ca/color-summarizer/) - Image Color Summarizer
 * [Image Colors](https://franciscouzo.github.io/image_colors/) - Image Color Scatter Plot
 * [Image Pixel Sorter](http://birdhat.org/misc/sort-pixels/) - Sort Pixels of Images
-* [Adobe Bridge](https://adobe.com/products/bridge.html) - Adobe Assets Manager
-* [behind!](https://github.com/kubuzetto/behind) - View Background Images
 * [Visual Center](https://javier.xyz/visual-center/) - Find the Visual Center of an Image
-* [Watermarkly](https://watermarkly.com/), [BatchWatermark](https://watermarkimage.com/) or [Watermarkup](https://watermarkup.com/watermark.html) - Image Watermarking
-* [Watermark Remover](https://www.watermarkremover.io/), [Unwatermark](https://unwatermark.ai/) or [DeWatermark](https://dewatermark.ai/) - Watermark Removal
+* [BatchWatermark](https://watermarkimage.com/) - Watermark Images
+* [Unwatermark](https://unwatermark.ai/) - Watermark Removal
 * [Glaze](https://glaze.cs.uchicago.edu/index.html) or [Nightshade](https://nightshade.cs.uchicago.edu/downloads.html) - Protect Digital Art from AI Copies
-* [APNG Maker](https://rukario.github.io/Schande/Uninteresting%20stuff/APNG%20Maker.html) - Create / Optimize APNG Images
 * [JPEGMedic ARWE](https://www.jpegmedic.com/tools/jpegmedic-arwe/) - Ransomware-Encrypted Image Recovery Tool
-* [CamScanner](https://apps.apple.com/us/app/camscanner-pdf-scanner-app/id388627783) - Scan & Digitize Documents / iOS
-* [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [Face Swapper](https://faceswapper.ai/), [FaceSwapVideo](https://faceswapvideo.io/), [facy.ai](https://facy.ai/photo-face-swap), [AIFaceSwap](https://aifaceswap.io/) or [FaceFusion](https://github.com/facefusion/facefusion) - Face Swapping
-* [WiseTagger](https://github.com/0xb8/WiseTagger) - Image Tagger
+* [FaceFusion](https://github.com/facefusion/facefusion), [Swapface](https://swapface.org/) / [Discord](https://discord.com/invite/5yPew6Cy6a), [Face Swapper](https://faceswapper.ai/), [FaceSwapVideo](https://faceswapvideo.io/) or [AIFaceSwap](https://aifaceswap.io/) - Face Swapping
 * [BooruDatasetTagManager](https://github.com/starik222/BooruDatasetTagManager) - Booru Image Tagger
-* [Cluttr](https://gitlab.com/bearjaws/cluttr), [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
-
-***
-
-## ▷ Image Compressors
-
-* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
-* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor / Converter
-* ⭐ **[Seopix](https://www.seopix.io/)** - Batch Compressor / Editor
-* [optimize.photos](https://optimize.photos/) - Batch Compressor
-* [CompressImage](https://compressimage.io/) - Batch Compressor
-* [CrushImage](https://crushimage.com/) - Batch Compressor
-* [Bulk Image Compress](https://imagecompressr.com/) - Batch Compressor
-* [HiCompress](https://hicompress.com/tools) - Batch Compressor
-* [Compress JPEG](https://compressjpeg.com/) - Batch Compressor / Unlimited Upload
-* [TinyPNG](https://tinypng.com/) or [TinyJPG](https://tinyjpg.com/) - Batch Compressor / 20MB Upload / [GitHub](https://github.com/tinify)
-* [ImageSmaller](https://www.imagesmaller.com/) - Compressor / 50MB Upload
-* [PNGQuant](https://pngquant.org/) - PNG Compression Software / [GitHub](https://github.com/kornelski/pngquant)
+* [⁠Allusion](https://github.com/RafaUC/Allusion/), [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor), [Exif Sorter](https://www.amok.am/en/freeware/amok_exif_sorter/) or [TagStudio](https://github.com/TagStudioDev/TagStudio) - Image File Organizers / Managers
 
 ***
 
 ## ▷ Image Optimization
 
-* ⭐ **[ImageMagick](https://imagemagick.org/)** - Image Optimization / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
-* [RIOT](https://riot-optimizer.com/) - Image Optimization
-* [YOGA](https://yoga.flozz.org/) - Image Optimization
-* [ImageFoo](https://imagefoo.com/) - Image Optimization
-* [tiny.pictures](https://tiny.pictures/) - Image Optimization
-* [Pingo](https://css-ig.net/pingo) - Image Optimization / [GUI](https://css-ig.net/pinga)
-* [Ihancer](https://ihancer.com) - Image Optimization
-* [Oxipng](https://github.com/shssoichiro/oxipng) - PNG Optimization
+* ⭐ **[ImageMagick](https://imagemagick.org/)** - Image Optimization & Editing / Windows, macOS, Linux / [Scripts](https://www.fmwconcepts.com/imagemagick/index.php) / [GitHub](https://github.com/imagemagick/imagemagick)
+* ⭐ **[Caesium](https://saerasoft.com/caesium/)** - Compression Software / Windows, macOS, Linux / [Web App](https://caesium.app/) / [CLI](https://github.com/Lymphatus/caesium-clt) / [GitHub](https://github.com/Lymphatus/caesium-image-compressor)
+* ⭐ **[Squoosh](https://squoosh.app/)** - Compressor & Converter / Web
+* ⭐ **[Seopix](https://www.seopix.io/)** - Compressor / Web
+* [G'MIC](https://gmic.eu/) - Image Optimization & Editing / Windows, macOS, Linux
+* [Converseen](https://converseen.fasterland.net/) - Image Compressor & Converter / Windows, macOS, Linux
+* [PNGQuant](https://pngquant.org/) - PNG Compression Software / Windows, macOS, Linux / [GitHub](https://github.com/kornelski/pngquant)
+* [RedKetchup](https://redketchup.io/) - Image Optimization / Web
+* [optimize.photos](https://optimize.photos/) - Compressor / Web
+* [CompressImage](https://compressimage.io/) - Compressor / Web
+* [CrushImage](https://crushimage.com/) - Compressor / Web
+* [Bulk Image Compress](https://imagecompressr.com/) - Compressor / Web
+* [Pingo](https://css-ig.net/pingo) - Image Compressor / Windows / [GUI](https://css-ig.net/pinga)
+* [Oxipng](https://github.com/shssoichiro/oxipng) - Image Compressor / Windows, macOS, Linux
+* [YOGA](https://yoga.flozz.org/) - Image Optimization / Windows, Linux
+* [RIOT](https://riot-optimizer.com/) - Image Optimization / Windows
 
 ***
 
 ## ▷ Image Converters
 
 * ↪️ **[File Converter](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/file-tools#wiki_.25B7_file_converters)** - Multi-Format Converters
-* [RedKetchup](https://redketchup.io/)
-* [Knvrt](https://www.knvrt.one/)
-* [Convertmyimage](https://convert-my-image.com/)
-* [ImageConvert](https://imageconvert.org/)
-* [imverter](https://online.reaconverter.com/)
-* [Raw Pics](https://raw.pics.io/)
-* [Converseen](https://converseen.fasterland.net/)
+* ⭐ **[Birme](https://www.birme.net/)** - Image Converter & Resizor / Web
+* [reaConverter](https://online.reaconverter.com/) - Image Converter / Web
+* [Knvrt](https://www.knvrt.one/) - Image Converter / Web
+* [Raw Pics](https://raw.pics.io/) - Convert RAW images to jpg/png / Web
 
 ***
 
 ## ▷ Image Resizing
 
-* [PixelHunter](https://pixelhunter.io/) or [⁠Dopmatico](https://dropmatico.com/app) - Social Media Image Resizer 
-* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images
-* [⁠Pro Image Tool](https://proimagetool.com/)
-* [Simple Image Resizer](https://www.simpleimageresizer.com/)
-* [ImageResizer](https://imageresizer.com/)
-* [PicResize](https://picresize.com/)
-* [Birme](https://www.birme.net/)
-* [Bulk Image Resize](https://bulkimageresize.com/)
-* [ResizeNow](https://www.resizenow.com/en)
-* [BulkResizePhotos](https://bulkresizephotos.com/)
+* ⭐ **[⁠Dopmatico](https://dropmatico.com/app)** - Social Media Image Resizer / Web
+* [Resize App Icon](https://resizeappicon.com/) - Resize Square Images / Web
+* [Bulk Image Resize](https://bulkimageresize.com/) - Image Resize / Web
+* [BulkResizePhotos](https://bulkresizephotos.com/) - Image Compress & Resize / Web
 
 ***
 
@@ -715,51 +692,44 @@
 
 ***
 
-* ⭐ **[ImageToText](https://www.imagetotext.info/)** - Online OCR
-* ⭐ **[Capture2Text](https://capture2text.sourceforge.net/)**, [TextShot](https://github.com/ianzhao05/textshot), [⁠NormCap](https://dynobo.github.io/normcap/) / [GitHub](https://github.com/dynobo/normcap), [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/blob/main/README_en.md) / [Alt Engines](https://github.com/hiroi-sora/Umi-OCR_plugins/),
-[ImageScanOCR](https://github.com/ttop32/ImageScanOCR), [tesseract](https://github.com/tesseract-ocr/tesseract) or [gImageReader](https://github.com/manisandro/gImageReader) - OCR Desktop Apps
-* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Windows Tool
-* [Project Naptha](https://projectnaptha.com/) - Automatic OCR while Browsing Images
-* [i2ocr](https://www.i2ocr.com/) - Online OCR
-* [GLM-OCR](https://ocr.z.ai/) - Online OCR
-* [OCR.SPACE](https://ocr.space/) - Online OCR
-* [OCRTool](https://ocrtool.net/) - Online OCR
-* [2OCR](https://2ocr.com/) - Online OCR
-* [OnlineOCR](https://onlineocr.org/) - Online OCR
-* [NewOCR](https://www.newocr.com/) - Online OCR
-* [OnlineOCR](https://www.onlineocr.net/) - Online OCR
+* ⭐ **[tesseract](https://github.com/tesseract-ocr/tesseract)** - CLI OCR / Windows, macOS, Linux
+* ⭐ **[⁠NormCap](https://dynobo.github.io/normcap/)** / Windows, macOS, Linux / [GitHub](https://github.com/dynobo/normcap)
+* ⭐ **[Text Grab](https://github.com/TheJoeFin/Text-Grab)** - Minimal OCR Tool / Windows
+* ⭐ **[i2ocr](https://www.i2ocr.com/)** / Web
+* [gImageReader](https://github.com/manisandro/gImageReader) / Windows, Linux
+* [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR/blob/main/README_en.md) / Windows, Linux / [Alt Engines](https://github.com/hiroi-sora/Umi-OCR_plugins/)
+* [Capture2Text](https://capture2text.sourceforge.net/) / Windows
+* [ImageToText](https://www.imagetotext.info/) / Web
+* [GLM-OCR](https://ocr.z.ai/) / Web
+* [OCR.SPACE](https://ocr.space/) / Web
+* [OCRTool](https://ocrtool.net/) / Web
+* [OnlineOCR](https://www.onlineocr.net/) / Web
 
 ***
 
 ## ▷ Image Viewers
 
-* ⭐ **[IrfanView](https://www.irfanview.com/)**
-* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)**
-* ⭐ **[FastStone](https://www.faststone.org/index.htm)**
-* ⭐ **[qView](https://interversehq.com/qview/)** / [GitHub](https://github.com/jurplel/qView)
-* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)**
-* ⭐ **[Digikam](https://www.digikam.org/)** / [Source Code](https://invent.kde.org/graphics/digikam)
-* ⭐ **[ImageGlass](https://imageglass.org/)** / [GitHub](https://github.com/d2phap/ImageGlass)
-* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/)
-* [nomacs](https://nomacs.org/) / [GitHub](https://github.com/nomacs/nomacs)
-* [qimgv](https://github.com/easymodo/qimgv)
-* [oculante](https://github.com/woelper/oculante)
-* [QuickView](https://github.com/justnullname/QuickView)
-* [Diffractor](https://www.diffractor.com/) / [GitHub](https://github.com/diffractor/diffractor)
-* [PhotoQt](https://github.com/luspi/photoqt)
-* [⁠Minimal Image Viewer](https://github.com/deminimis/minimalimageviewer)
-* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / [GitHub](https://github.com/neelabo/NeeView)
-* [PicView](https://picview.org/)
-* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded)
-* [Image Eye](https://www.fmjsoft.com/imageeye.html)
-* [Quick Picture Viewer](https://moduleart.github.io/quick-picture-viewer/)
-* [HoneyView](https://en.bandisoft.com/honeyview/)
-* [picturama](https://picturama.github.io/)
-* [narrative](https://narrative.so/)
-* [G'MIC](https://gmic.eu/)
-* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers
-* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers
-* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow
+* ⭐ **[IrfanView](https://www.irfanview.com/)** / Windows
+* ⭐ **[JPEGView](https://github.com/KrokusPokus/JPEGView_L)** / Windows
+* ⭐ **[FastStone](https://www.faststone.org/index.htm)** / Windows
+* ⭐ **[qView](https://interversehq.com/qview/)** / Windows, macOS, Linux / [GitHub](https://github.com/jurplel/qView)
+* ⭐ **[XnView MP](https://www.xnview.com/en/xnviewmp/)** / Windows, macOS, Linux
+* ⭐ **[Digikam](https://www.digikam.org/)** / Windows, macOS, Linux / [Source Code](https://invent.kde.org/graphics/digikam)
+* ⭐ **[ImageGlass](https://imageglass.org/)** / Windows / [GitHub](https://github.com/d2phap/ImageGlass)
+* [⁠Imagine](https://www.nyam.pe.kr/dev/imagine/) / Windows
+* [nomacs](https://nomacs.org/) / Windows, macOS, Linux / [GitHub](https://github.com/nomacs/nomacs)
+* [qimgv](https://github.com/easymodo/qimgv) / Windows, Linux
+* [oculante](https://github.com/woelper/oculante) / Windows, macOS, Linux
+* [QuickView](https://github.com/justnullname/QuickView) / Windows
+* [Diffractor](https://www.diffractor.com/) / Windows / [GitHub](https://github.com/diffractor/diffractor)
+* [PhotoQt](https://github.com/luspi/photoqt) / Windows, macOS, Linux
+* [⁠NeeView](https://neelabo.github.io/NeeView/en-us/) / Windows / [GitHub](https://github.com/neelabo/NeeView)
+* [PicView](https://picview.org/) / Windows, macOS
+* [ImagefanReloaded](https://github.com/mihnea-radulescu/imagefanreloaded) / Windows, macOS, Linux
+* [picturama](https://picturama.github.io/) / Windows, macOS, Linux
+* [BeeRef](https://beeref.org/) or [PureRef](https://www.pureref.com/) - Reference Image Viewers / Windows, macOS, Linux
+* [HDRView](https://github.com/wkjarosz/hdrview) or [tev](https://github.com/Tom94/tev) - HDR / Technical Image Viewers / Windows, macOS, Linux
+* [FlipFlip](https://github.com/ififfy/flipflip/) - Image Slideshow / Windows, macOS, Linux
 
 ***
 
@@ -771,24 +741,21 @@
 
 * 🌐 **[FOSS Photo Libraries](https://meichthys.github.io/foss_photo_libraries/)**
 * ↪️ **[Android Galleries](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/android#wiki_.25B7_image_galleries)**
-* [Immich](https://immich.app/) / [Resources](https://awesome.immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
-* [Damselfly](https://github.com/Webreaper/Damselfly)
-* [Lap](https://julyx10.github.io/lap/) / [GitHub](https://github.com/julyx10/lap)
-* [HomeGallery](https://home-gallery.org/)
-* [LibrePhotos](https://github.com/LibrePhotos/librephotos)
-* [Lychee](https://lycheeorg.github.io/)
-* [PhotoPrism](https://github.com/photoprism/photoprism)
-* [Photoview](https://github.com/photoview/photoview)
-* [Photonix](https://photonix.org/)
-* [photos](https://github.com/nextcloud/photos/)
-* [imagestore](https://github.com/gregordr/imagestore)
-* [Memories](https://memories.gallery/)
-* [Piwigo](https://piwigo.org/)
-* [PiGallery 2](https://bpatrik.github.io/pigallery2/)
-* [Up1](https://github.com/Upload/Up1)
-* [Chevereto](https://chevereto.com/)
-* [Photofield](https://github.com/SmilyOrg/photofield)
-* [⁠Urocissa](https://hsa00000.github.io/urocissa/) - Handles Millions of Images / [GitHub](https://github.com/hsa00000/urocissa)
+* [Immich](https://immich.app/) / Docker / [Resources](https://awesome.immich.app/) / [Storage Server](https://pixelunion.eu/) / [Bulk Uploader](https://github.com/simulot/immich-go) / [Power Tools](https://github.com/varun-raj/immich-power-tools) / [Discord](https://discord.com/invite/immich) / [GitHub](https://github.com/immich-app/immich)
+* [Damselfly](https://github.com/Webreaper/Damselfly) / Docker
+* [Lap](https://julyx10.github.io/lap/) / Windows, macOS, Linux / [GitHub](https://github.com/julyx10/lap)
+* [HomeGallery](https://home-gallery.org/) / Docker
+* [LibrePhotos](https://github.com/LibrePhotos/librephotos) / Docker
+* [Lychee](https://lycheeorg.github.io/) / Docker
+* [PhotoPrism](https://github.com/photoprism/photoprism) / Docker
+* [Photoview](https://github.com/photoview/photoview) / Docker
+* [Photonix](https://photonix.org/) / Docker
+* [Memories](https://memories.gallery/) - Self-host
+* [Piwigo](https://piwigo.org/) - Self-host
+* [PiGallery 2](https://bpatrik.github.io/pigallery2/) / Docker
+* [Chevereto](https://chevereto.com/) / Docker
+* [Photofield](https://github.com/SmilyOrg/photofield) - Self-host
+* [⁠Urocissa](https://hsa00000.github.io/urocissa/) - Handles Millions of Images / Docker / [GitHub](https://github.com/hsa00000/urocissa)
 
 ***
 
