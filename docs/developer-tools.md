@@ -518,7 +518,7 @@
 
 # ► AI Tools
 
-## ▷ Coding Agents / Extensions
+## ▷ Coding Harnesses / Extensions
 
 * **Note** - Keep in mind many coding AIs run in root, so it's best to avoid giving them full drive / root access to avoid any sort of issues or accidental deletions as they can modify files and execute terminal commands. Remember to backup code first before running the AI or prompts, as they can sometimes break things. Running in a container or VM is recommended.
 
@@ -551,6 +551,10 @@
 
 ## ▷ AI Web Coding
 
+* **Note** - Note that most [General LLMs](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/ai#wiki_.25B7_official_model_sites) are also capable of coding.
+
+***
+
 * [Arena](https://arena.ai/code) - Multiple Coding AI / Multiple Models / Sign-Up (Direct mode) / [X](https://x.com/arena) / [Discord](https://discord.com/invite/lmarena)
 * [Design Arena](https://www.designarena.ai/) - Multiple Coding AI / No Direct Mode / Reset Limits / w Temp Mail / [Discord](https://discord.com/invite/Bw9Ajcb3pR)
 * [⁠Z.ai](https://chat.z.ai/) - GLM-5.2 (Deep Think Max) / GLM-5 Turbo / Coding AI / Sign-Up / [Discord](https://discord.gg/QR7SARHRxK)
@@ -582,6 +586,24 @@
 * [Gitingest](https://gitingest.com/) or [Repomix](https://repomix.com/) / [GitHub](https://github.com/yamadashy/repomix) - GitHub Repo To Prompt Text
 * [Pieces](https://pieces.app/) - Multi-LLM Coding Search Engine
 * [⁠HyperFrames](https://github.com/heygen-com/hyperframes) - Code-Based AI Video Generation Framework
+
+***
+
+## ▷ Machine Learning
+
+* 🌐 **[Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)** - Machine Learning Framework Index
+* 🌐 **[Awesome ML](https://github.com/underlines/awesome-ml)**, [⁠Awesome LLM Resources](https://github.com/ilsilfverskiold/Awesome-LLM-Resources-List/) or [ML Resources](https://ml-resources.vercel.app/) - Machine Learning / LLM Resources
+* ↪️ **[AI / ML Learning](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/edu#wiki_.25B7_ai_.2F_ml_learning)** - Educational AI / ML Resources
+* ⭐ **[Hugging Face](https://huggingface.co/)**, [ModelScope](https://www.modelscope.ai/), [LLM Papers](https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5) or [OpenML](https://www.openml.org/) - Machine Learning Datasets / Papers
+* ⭐ **[Deep playground](https://playground.tensorflow.org/)** - Neural Networks Playground
+* ⭐ **[⁠Unsloth](https://unsloth.ai/)** - LLM Finetuning / Text Completion / [Notebooks](https://github.com/unslothai/notebooks) / [Guide](https://unsloth.ai/docs/get-started/fine-tuning-llms-guide) / [GitHub](https://github.com/unslothai/unsloth)
+* [ModelScope Finetuning](https://modelscope.ai/civision/modelTraining) - Image Gen Model Finetuning / Up to 100 Images Per LoRA
+* [Markdown Web Browser](https://github.com/Dicklesworthstone/markdown_web_browser) - Webpage > Markdown Converter
+* [DeepSpeed](https://www.deepspeed.ai/) - Deep Learning Optimization Library
+* [Netron](https://github.com/lutzroeder/netron) - Visualizer for Neural Network, Deep Learning, and Machine Learning Models
+* [MMDeploy](https://mmdeploy.readthedocs.io/en/latest/) - Deep Learning Model Deployment Toolset / [GitHub](https://github.com/open-mmlab/mmdeploy)
+* [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - Cross-Platform ChatGPT / Gemini UI
+* [Nixified](https://nixified.ai/) - Nix Flake for AI Projects
 
 ***
 
@@ -765,6 +787,7 @@
 * [ElasticSearch](https://www.elastic.co/products/elasticsearch) - Search & Analytics Engine / [GitHub](https://github.com/elastic/elasticsearch)
 * [Tabler](https://tabler.io/) - Site Admin Dashboard
 * [Octopus](https://octopus.do/sitemap) - Site Planning Tool
+* [Giscus](https://giscus.app/), [Disfora](https://disfora.com/), [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
 * [Wordpress](https://wordpress.org/) / [Tools](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/dev-tools#wiki_.25B7_wordpress_tools) or [Joomla](https://www.joomla.org/) / [GitHub](https://github.com/joomla/joomla-cms) - Content Management Systems / CMS
 * [WireFlow](https://wireflow.co/) - Flow Prototype Maker
 * [Web Dev Checklist](https://www.toptal.com/developers/webdevchecklist) or [The Website Specification](https://specification.website/) / [GitHub](https://github.com/jdevalk/specification.website) - Website Design Checklists
@@ -784,7 +807,6 @@
 * [Directory Lister](https://directorylister.com/) - Web-Based Directory Listing
 * [BawkBox](https://bawkbox.com/) - Website Widgets
 * [The SSO Wall of Shame](https://sso.tax/) - Vendors without Built-in SSO
-* [Disfora](https://disfora.com/), [Remarkbox](https://www.remarkbox.com/) or [HTML Comment Box](https://www.htmlcommentbox.com/) - Site Comment Systems
 * [⁠TestLocally](https://testlocal.ly/) - Global Website Screenshot / Localization Testing
 * [Can I Email?](https://www.caniemail.com/) - Email Functionality Check
 * [Typebot](https://typebot.com/) - Embedded Chat App
@@ -890,7 +912,7 @@
 * [CodeMyUI](https://codemyui.com/) or [Semantic UI](https://semantic-ui.com/) - User Interface Code Snippets
 * [Icon Shelf](https://icon-shelf.github.io/) - Icon Manager
 * [Favicon Maker](https://formito.com/tools/favicon) or [Favicon Generator](https://www.favicon-generator.org/) - Create Favicons
-* [Icon Horse](https://icon.horse/), [favicon-hash](https://favicon-hash.kmsec.uk/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
+* [Icon Horse](https://icon.horse/) or [Favicone](https://upset.dev/favicone) - Download a Site's Favicon / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/site-favicon-dl.md)
 * [Meta-Mapper](https://meta-mapper.com/) - Website Metadata Thumbnails
 * [SREWorks](https://github.com/alibaba/SREWorks) - Operation & Maintenance Platform
 * [Scrollbar.app](https://scrollbar.app/) - Design Custom Scrollbars
@@ -1006,7 +1028,7 @@
 * 🌐 **[Awesome Cloudflare](https://github.com/irazasyed/awesome-cloudflare)** - Cloudflare Resource Index
 * 🌐 **[VPS Comparison Chart](https://vpsfilter.com/)**, [VPS Rentals](https://vps.rentals/), [⁠servers.fyi](https://www.servers.fyi/), [⁠VPS Price Tracker](https://vpspricetracker.com/) or [Bitcoin VPS](https://bitcoin-vps.com/) - VPS Comparisons
 * ⭐ **[TLDES](https://tldes.com/)**, [TLD-List](https://tld-list.com/) / [Note](https://github.com/fmhy/edit/blob/main/docs/.vitepress/notes/tld-list-note.md) or [SitePrice](https://www.siteprice.org/) - Domain Price Comparisons
-* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
+* ⭐ **[censys](https://search.censys.io/)**, [WebDNA](https://webdna.xtra.wtf/), [⁠ICANN Lookup](https://lookup.icann.org/), [wtfis](https://github.com/pirxthepilot/wtfis), [whois_](https://whois.b1s4.xyz/) / [GitHub](https://github.com/b1s4/whois), [RDAP](https://client.rdap.org/), [digger.tools](https://digger.tools/), [LinkScope](https://accentusoft.com/) or [DNSlytics](https://dnslytics.com/) - Domain Info Tools
 * ⭐ **[Check-Host](https://check-host.net/)** or [Uptime](https://betterstack.com/uptime) - Web-Based Uptime Monitors
 * [⁠Pingbreak](https://pingbreak.com/) - Site Uptime Monitor / Notifications
 * [Oracle Cloud](https://www.oracle.com/cloud/free/) - Free VPS / Requires Real Information / [Guide (Important)](https://guides.viren070.me/selfhosting/oracle)
@@ -1132,6 +1154,7 @@
 * [Evervault](https://evervault.com/) - Security / Compliance Infrastructure
 * [Observatory](https://developer.mozilla.org/en-US/observatory) - HTTP Header Security Test
 * [UUID Tools](https://www.uuidtools.com/) or [⁠UUID Generator](https://toolkitvault.com/uuid-generator) - UUID Generators
+* [favicon-hash](https://favicon-hash.kmsec.uk/) - Favicon Hash Generator
 * [DarkVisitors](https://darkvisitors.com/) - Autonomous Chatbots / Data Scraper List
 * [Al-Khaser](https://github.com/ayoubfaouzi/al-khaser) - Anti-Malware Stress Test
 * [CVE Details](https://www.cvedetails.com/) or [⁠OpenCVE](https://app.opencve.io/cve/) - CVE Details / Search
