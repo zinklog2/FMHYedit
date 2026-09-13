@@ -169,7 +169,7 @@
 * ↪️ **[Pixel Art Animation](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_animation_tools)**
 * ↪️ **[ASCII Art](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/text-tools#wiki_.25B7_ascii_art)**
 * ⭐ **[Aseprite](https://github.com/aseprite/aseprite)** - Pixel Art Editor / Windows, macOS, Linux / [Guide](https://youtu.be/Z4Enx-Nb43E)
-* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, Linux, macOS / [GitHub](https://github.com/LibreSprite/LibreSprite)
+* ⭐ **[LibreSprite](https://libresprite.github.io/)** - Pixel Art Editor / Windows, macOS, Linux / [GitHub](https://github.com/LibreSprite/LibreSprite)
 * ⭐ **[Piskel](https://www.piskelapp.com/)** - Pixel Art Editor / Web
 * [rx](https://rx.cloudhead.io/) - Pixel Art Editor / macOS, Linux / [Discord](https://discord.com/invite/xHggPjfsS9) / [GitHub](https://github.com/cloudhead/rx)
 * [PixiEditor](https://pixieditor.net/) - Pixel Art Editor / Windows, macOS, Linux / [Discord](https://discord.com/invite/qSRMYmq) / [GitHub](https://github.com/PixiEditor/PixiEditor)
@@ -826,33 +826,27 @@
 
 ## ▷ Palette Generators
 
-* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [⁠ColorTones](https://colortones.aashuu.tech/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
-* [Clariss](https://www.clariss.xyz/), [Color Palette Generator](https://www.degraeve.com/color-palette), [Palitra](https://palitra.app/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
+* ⭐ **[Color Designer](https://colordesigner.io/tools)**, [Color Palette Pro](https://colorpalette.pro/) / [Guide](https://colorpalette.pro/manual), [TheGoodColors](https://thegoodcolors.com/), [Super Color Palette](https://supercolorpalette.com/), [Nof](https://nofpg.netlify.app/) / [GitHub](https://github.com/Northstrix/nof) or [Coolors](https://coolors.co/) - Color Palette Generators
+* [Clariss](https://www.clariss.xyz/) or [Color Picker](https://imagecolorpicker.com/) - Generate Color Palettes from Images
 * [Color Space](https://mycolor.space/) - Generate Gradient Color Palettes
-* [Colors Wall](https://colorswall.com/) or [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
-* [Color Kit](https://colorkit.io/) - Generate Color Palettes by Mixing 2 Colors
-* [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/), [Scale](https://hihayk.github.io/scale/) or [Huey](https://huey.design/) - Simple Color Palette Generators
-* [ColorBox](https://colorbox.io/), [hue.tools](https://hue.tools/), [Randoma11y](https://randoma11y.com/), [accessiblepalette](https://accessiblepalette.com/) or [colorcolor](https://colorcolor.in/) - Advanced Color Palette Generators
-* [Good Palette](https://goodpalette.io/), [Huemint](https://huemint.com/), [AI Colors](https://aicolors.co/) or [PaletteMaker](https://palettemaker.com/) - Generate UI Color Palettes
-* [Couleur.io](https://couleur.io/) - CSS Color Palettes Generator
+* [ColorKit](https://colorkit.co/color-palette-generator/) - Generate Random Color Palettes
+* [Pigment](https://pigment.shapefactory.co/), [Eva Design System](https://colors.eva.design/) or [Scale](https://hihayk.github.io/scale/) - Simple Color Palette Generators
+* [ColorBox](https://colorbox.io/), [Randoma11y](https://randoma11y.com/) or [accessiblepalette](https://accessiblepalette.com/) - Advanced Color Palette Generators
+* [Good Palette](https://goodpalette.io/) or [Huemint](https://huemint.com/) - Generate UI Color Palettes
 * [UI Colors](https://uicolors.app/create) or [Tints](https://www.tints.dev/) - Tailwind CSS Color Generators
-* [Poolors](https://poolors.com/) - Generate Most / Least Used Color Palettes
 
 ***
 
 ## ▷ Color Pickers
 
-* 🌐 **[React Color](https://casesandberg.github.io/react-color/)** - Color Pickers Index
 * 🌐 **[BrandColors](https://brandcolors.net/)** - Brand Color Palettes Index
-* [Material UI](https://materialui.co/colors/), [OKLCH](https://oklch.com/), [Color Deck](https://color.obscuredetour.com/), [Picular](https://picular.co/) or [ColorKit's Color Picker](https://colorkit.co/color-picker/) - Color Pickers
+* [OKLCH](https://oklch.com/) or [Picular](https://picular.co/) - Color Pickers
 * [Colorpicker](https://colorpicker.fr/) or [Just Color Picker](https://annystudio.com/software/colorpicker/) - Color Picker Desktop Apps
-* [Colorscales](https://www.colorscales.com/en/start) - Find Colors in Color Space
-* [ColourCode](https://www.toptal.com/designers/colourcode/) or [Colordot](https://color.hailpixel.com/) - Find Colors by Moving Mouse
+* [ColourCode](https://www.toptal.com/designers/colourcode/) - Find Colors by Moving Mouse
 * [Geenes](https://geenes.app/welcome) or [Leonardo](https://leonardocolor.io/) - Find UI Color Palettes
 * [Sorted CSS Colors](https://enes.in/sorted-colors/) - Find Similar CSS Colors
-* [Color Hunt](https://colorhunt.co/), [COLOURlovers](https://www.colourlovers.com/), [SchemeColor](https://www.schemecolor.com/), [Culrs](https://culrs.com/) or [Colorffy](https://colorffy.com/) - Find Color Palettes
+* [Color Hunt](https://colorhunt.co/), [SchemeColor](https://www.schemecolor.com/) or [Colorffy](https://colorffy.com/) - Find Color Palettes
 * [Adobe Color](https://color.adobe.com/) - Find Color Palettes with Color Wheel
-* [Color Lisa](https://colorlisa.com/) - Find Art-Based Color Palettes
 * [Color Leap](https://colorleap.app/) - Find Historical Color Palettes
 
 ***
